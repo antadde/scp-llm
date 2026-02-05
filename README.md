@@ -1,9 +1,8 @@
-> ⚠️ **Work in progress**
-> Documentation under construction.
+⚠️ **Work in progress, documentation under construction.**
 
 # scp-llm
 
-End-to-end workflow to extract, validate, and structure **Species Contributions to People (SCP)**
+End-to-end workflow to extract, validate, and structure Species Contributions to People (SCP)
 from text using large language models (LLMs) for One Health research.
 
 ## Pipeline
