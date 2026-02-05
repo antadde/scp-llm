@@ -1,0 +1,11 @@
+Extract only valid Latin scientific names written in binomial or trinomial format (Genus species, optionally with a subspecies epithet).
+
+Exclude:
+- common names,
+- plurals or collective groups,
+- ecological or functional categories,
+- habitat or regional descriptors,
+- non-biological terms.
+
+Return only concrete biological taxa explicitly mentioned in the text.
+Do not infer species that are not explicitly stated.

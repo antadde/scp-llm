@@ -1,0 +1,9 @@
+Extract only explicit links between species and HUMAN infectious, vector-borne, or zoonotic disease, including species involved in spillover transmission cycles.
+
+General rules:
+- Do not infer, generalize, or extrapolate beyond what is written in the text.
+- If no valid relationship exists for a species, return an empty array for that species.
+
+Disease scope constraint:
+- The health_target must be an explicitly named human infectious, vector-borne, or zoonotic disease involving a transmissible pathogen.
+- Do NOT extract a health_target or mechanism for diseases that are not human infectious, vector-borne, or zoonotic.

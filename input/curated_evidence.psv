@@ -1,0 +1,101 @@
+id|species_name|health_target|mechanism|doi
+1|abuta grandifolia|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+2|achatina fulica|eosinophilic meningitis|intermediate host|doi.org/10.3390/pathogens13030255
+3|aedes aegypti|chikungunya|vector|doi.org/10.1371/journal.pntd.0013735
+4|aedes aegypti|zika|vector|doi.org/10.1371/journal.pntd.0013735
+5|aedes aegypti|yellow fever|vector|doi.org/10.1371/journal.pntd.0013735
+6|aedes albopictus|chikungunya|vector|doi.org/10.1371/journal.pntd.0013735
+7|aedes albopictus|yellow fever|vector|doi.org/10.1371/journal.pntd.0013735
+8|amblyomma cajennense|rickettsiosis|vector|doi.org/10.1186/s13071-023-05978-9
+9|amblyomma maculatum|rickettsiosis|vector|doi.org/10.1371/journal.pntd.0004843
+10|ampelozizyphus amazonicus|malaria|medicinal use|doi.org/10.22605/rrh8269
+11|angiostrongylus cantonensis|eosinophilic meningitis|infectious agent|doi.org/10.3390/pathogens13030255
+12|annona squamosa|chagas disease|medicinal use|doi.org/10.1080/10412905.2014.982876
+13|annona squamosa|malaria|medicinal use|doi.org/10.1080/10412905.2014.982876
+14|anopheles albitarsis|malaria|vector|doi.org/10.1590/0074-02760140266 
+15|anopheles aquasalis|malaria|vector|doi.org/10.1590/0074-02760140266 
+16|anopheles darlingi|malaria|vector|doi.org/10.1371/journal.pone.0253129
+17|anopheles nuneztovari|malaria|vector|doi.org/10.1590/0074-02760140266 
+18|aristolochia trilobata|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+19|aristolochia trilobata|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+20|artibeus gnoma|leptospirosis|reservoir host|doi.org/10.4269/ajtmh.2000.63.255
+21|babesia bigemina|babesiosis|infectious agent|doi.org/10.3389/fpubh.2023.1079042
+22|babesia divergens|babesiosis|infectious agent|doi.org/10.3389/fpubh.2023.1079042
+23|babesia microti|babesiosis|infectious agent|doi.org/10.3389/fpubh.2023.1079042
+24|baccharis trimera|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+25|baccharis trimera|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+26|bradypus tridactylus|q fever|intermediate host|doi.org/10.1016/j.cimid.2017.12.004
+27|cacajao pygmaeus|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+28|chenopodium ambrosioides|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+29|chikungunya virus|chikungunya|infectious agent|doi.org/10.1371/journal.pntd.0013735
+30|coenagrionidae|vector diseases|biological control|doi.org/10.13057/nusbiosci/n130205
+31|copaifera sp|leishmaniasis|medicinal use|doi.org/10.22605/rrh8269
+32|coxiella burnetii|q fever|infectious agent|doi.org/10.1016/j.cimid.2017.12.004
+33|culex|vector diseases|vector|doi.org/10.13057/nusbiosci/n130205
+34|culex gnomatos|venezuelan equine encephalomyelitis|vector|doi.org/10.1093/jmedent/42.5.891
+35|culex pedroi|eastern equine encephalomyelitis|vector|doi.org/10.1093/jmedent/42.5.891
+36|culex vomerifer|caraparu virus|vector|doi.org/10.1093/jmedent/42.5.891
+37|cuniculus paca|polycystic echinococcosis|intermediate host|doi.org/10.1073/pnas.2302661120
+38|dasypus novemcinctus|leprosis|reservoir host|doi.org/10.1371/journal.pntd.0006532
+39|didelphis marsupialis|leishmaniasis|reservoir host|doi.org/10.1590/s0074-02761981000300005
+40|echinococcus vogeli|polycystic echinococcosis|infectious agent|doi.org/10.1073/pnas.2302661120
+41|eratyrus mucronatus|chagas disease|vector|doi.org/10.1016/j.actatropica.2015.04.029
+42|esenbeckia leiocarpa|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+43|haemagogus janthinomys|yellow fever|vector|doi.org/10.1371/journal.pntd.0010564
+44|haemagogus janthinomys|mayaro virus|vector|doi.org/10.1371/journal.pntd.0010564
+45|hypolobocera chilensis|paragonimiasis|intermediate host|doi.org/10.1590/0074-0276140042
+46|lagothrix poeppigii|mayaro virus|reservoir host|doi.org/10.4269/ajtmh.18-0850
+47|leishmania panamensis|leishmaniasis|infectious agent|doi.org/10.1007/s42770-023-00903-9
+48|leptospira|leptospirosis|infectious agent|doi.org/10.4269/ajtmh.2000.63.255
+49|libellulidae|vector diseases|biological control|doi.org/10.13057/nusbiosci/n130205
+50|limatus flavisetosus|bunyamwera group virus|vector|doi.org/10.1093/jmedent/42.5.891
+51|lutzomyia longipalpis|leishmaniasis|vector|doi.org/10.1590/s0074-02762005000800001
+52|marmosops sp|leptospirosis|reservoir host|doi.org/10.4269/ajtmh.2000.63.255
+53|mayaro virus|mayaro fever|infectious agent|doi.org/10.1371/journal.pntd.0013735
+54|microtriatoma trinidadensis|chagas disease|vector|doi.org/10.1016/j.actatropica.2015.04.029
+55|molossus ater|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+56|molossus major|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+57|momordica charantia|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+58|momordica charantia|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+59|mycobacterium leprae|leprosis|infectious agent|doi.org/10.1371/journal.pntd.0006532
+60|nasua nasua|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+61|nyssorhynchus benarrochi|malaria|vector|doi.org/10.1186/s13071-021-04725-2
+62|nyssorhynchus darlingi|malaria|vector|doi.org/10.1186/s13071-021-04725-2
+63|nyssorhynchus konderi|malaria|vector|doi.org/10.1186/s13071-021-04725-2
+64|nyssorhynchus rangeli|malaria|vector|doi.org/10.1186/s13071-021-04725-2
+65|ocimum gratissimum|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+66|ornithodoros hasei|rickettsiosis|vector|doi.org/10.3390/pathogens14040338
+67|oropouche virus|oropouche fever|infectious agent|doi.org/10.1371/journal.pntd.0013735
+68|oryzomys megacephalus|leptospirosis|reservoir host|doi.org/10.4269/ajtmh.2000.63.255
+69|panstrongylus geniculatus|chagas disease|vector|doi.org/10.1016/j.actatropica.2015.04.029
+70|panstrongylus lignarius|chagas disease|vector|doi.org/10.1016/j.actatropica.2015.04.029
+71|paragonimus mexicanus|paragonimiasis|infectious agent|doi.org/10.1590/0074-0276140042
+72|philander opossum|leptospirosis|reservoir host|doi.org/10.4269/ajtmh.2000.63.255
+73|phyllanthus niruri|malaria|medicinal use|doi.org/10.22605/rrh8269
+74|phyllostomus elongatus|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+75|phyllostomus hastatus|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+76|plasmodium falciparum|malaria|infectious agent|doi.org/10.1590/0074-02760140266 
+77|plasmodium vivax|malaria|infectious agent|doi.org/10.1590/0074-02760140266 
+78|plasmodiummalariae|malaria|infectious agent|doi.org/10.1590/0074-02760140266 
+79|platonia insignis|leishmaniasis|medicinal use|doi.org/10.1080/14786419.2012.695363
+80|platyrhinus helleri|leptospirosis|reservoir host|doi.org/10.4269/ajtmh.2000.63.255
+81|proechimys sp|leptospirosis|reservoir host|doi.org/10.4269/ajtmh.2000.63.255
+82|psorophora ferox|ilheus virus|vector|doi.org/10.1093/jmedent/42.5.891
+83|rhipicephalus microplus|babesiosis|vector|doi.org/10.3389/fpubh.2023.1079042
+84|rhipicephalus sanguineus|babesiosis|vector|doi.org/10.3389/fpubh.2023.1079042
+85|rhodnius pallescens|chagas disease|vector|doi.org/10.1007/s42770-023-00903-9
+86|rhodnius prolixus|chagas disease|vector|doi.org/10.1590/s0074-02762007005000098
+87|rickettsia parkeri|rickettsiosis|infectious agent|doi.org/10.1371/journal.pntd.0004843
+88|rickettsia rickettsii|rickettsiosis|infectious agent|doi.org/10.1371/journal.pntd.0004843
+89|rickettsia typhi|typhus|infectious agent|doi.org/10.1371/journal.pntd.0004843
+90|saguinus midas niger|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+91|saimiri sciureus|chagas disease|reservoir host|doi.org/10.1016/j.actatropica.2015.04.029
+92|sarasinula linguaeformis|eosinophilic meningitis|intermediate host|doi.org/10.3390/pathogens13030255
+93|stachyterpheta cayennensis|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+94|stachyterpheta cayennensis|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+95|strychnos pseudoquina|dengue|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+96|strychnos pseudoquina|malaria|medicinal use|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+97|subulina octona|eosinophilic meningitis|intermediate host|doi.org/10.3390/pathogens13030255
+98|toxorhynchites guadeloupensis|dengue|biological control|doi.org/10.1590/s1519-566x2007000500025
+99|trypanosoma cruzi|chagas disease|infectious agent|doi.org/10.1590/s0074-02762007005000098
+100|yellow fever virus|yellow fever|infectious agent|doi.org/10.1371/journal.pntd.0013735

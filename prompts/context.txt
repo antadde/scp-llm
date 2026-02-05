@@ -1,0 +1,43 @@
+Extract contextual information from the text.
+
+Return the following fields:
+- study_location
+- scale
+- study_period
+
+--------------------------------
+STUDY PERIOD
+--------------------------------
+- Return study years only if they are explicitly stated in the text.
+- Use the format YYYY or YYYY–YYYY.
+- If no years are explicitly stated, return "Unknown".
+- Do NOT infer dates.
+
+--------------------------------
+SCALE
+--------------------------------
+Follow these rules in order:
+
+1) Laboratory
+- If the study is based on laboratory experiments, in vitro assays, bioassays, controlled experimental conditions, or chemical/biological testing without a field sampling location, return "Laboratory".
+- This overrides any geographic mentions (e.g. origin of samples).
+
+2) Field-based studies
+Assign a geographic scale ONLY if it is explicitly stated:
+
+- "Local" → specific site, city, municipality, village, or single locality.
+- "National" → explicitly stated country-wide studies.
+- "Regional" → sub-national areas spanning multiple localities (e.g. states, provinces, regions) within one or multiple countries.
+- "Global" → worldwide or global scope is explicitly stated.
+
+3) Ambiguity
+- If the geographic extent is vague (e.g. "Amazonia", "tropical regions", "South America") and no explicit scale is stated, return "Unknown".
+- Do NOT infer scale from general geographic names.
+
+--------------------------------
+STUDY LOCATION
+--------------------------------
+- Return the study location only if explicitly stated in the text.
+- Use the most precise location provided (e.g. city > region > country).
+- Do NOT infer or generalize locations.
+- If no location is explicitly stated, return "Unknown".

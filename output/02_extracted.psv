@@ -1,0 +1,1089 @@
+id|species_name|health_target|mechanism|study_location|scale|study_period|doi
+1|lutzomyia|leishmaniasis|vector|unknown|global|unknown|https://doi.org/10.1111/j.1365-2915.2012.01034.x
+1|phlebotomus|leishmaniasis|vector|unknown|global|unknown|https://doi.org/10.1111/j.1365-2915.2012.01034.x
+2|rhodnius prolixus|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1590/s0074-02762002000500002
+2|t. brasiliensis|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1590/s0074-02762002000500002
+2|t. dimidiata|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1590/s0074-02762002000500002
+2|t. sordida|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1590/s0074-02762002000500002
+2|triatoma infestans|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1590/s0074-02762002000500002
+8|trypanosoma cruzi|chagas disease|infectious agent|south america|regional|unknown|https://doi.org/10.1371/journal.pntd.0004792
+9|leishmania (viannia) braziliensis|american cutaneous leishmaniasis|infectious agent|brazil|national|unknown|https://doi.org/10.1590/s0074-02762009000700001
+9|lutzomyia|american cutaneous leishmaniasis|vector|brazil|national|unknown|https://doi.org/10.1590/s0074-02762009000700001
+10|plasmodium brasilianum|monkey malaria|infectious agent|amazonia|regional|unknown|https://doi.org/10.2307/2389485
+11|anopheles (kerteszia) cruzii|malaria|vector|brazil|national|2013|https://doi.org/10.1590/0074-0276140228
+11|anopheles aquasalis|malaria|vector|brazil|national|2013|https://doi.org/10.1590/0074-0276140228
+11|anopheles darlingi|malaria|vector|brazil|national|2013|https://doi.org/10.1590/0074-0276140228
+11|plasmodium malariae|malaria|infectious agent|brazil|national|2013|https://doi.org/10.1590/0074-0276140228
+11|plasmodium vivax|malaria|infectious agent|brazil|national|2013|https://doi.org/10.1590/0074-0276140228
+12|p. lutzi|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|p. megistus|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|panstrongylus geniculatus|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|r. nasutus|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|r. neglectus|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|r. robustus|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|rhodnius pictipes|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. brasiliensis|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. costalimai|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. melanocephala|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. petrocchiae|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. pseudomaculata|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. rubrovaria|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. tibiamaculata|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|t. vitticeps|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|triatoma infestans|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+12|triatoma sordida|chagas disease|vector|brazil|national|unknown|https://doi.org/10.1155/2012/705326
+13|plasmodium falciparum|malaria|infectious agent|brazil and peru|regional|unknown|https://doi.org/10.1098/rstb.2016.0125
+13|plasmodium vivax|malaria|infectious agent|brazil and peru|regional|unknown|https://doi.org/10.1098/rstb.2016.0125
+14|anopheles aquasalis|malaria|vector|amazon region|regional|unknown|https://doi.org/10.1590/0074-02760140266
+14|plasmodium berghei|malaria|infectious agent|amazon region|regional|unknown|https://doi.org/10.1590/0074-02760140266
+14|plasmodium falciparum|malaria|infectious agent|amazon region|regional|unknown|https://doi.org/10.1590/0074-02760140266
+14|plasmodium vivax|malaria|infectious agent|amazon region|regional|unknown|https://doi.org/10.1590/0074-02760140266
+14|plasmodium yoelii|malaria|infectious agent|amazon region|regional|unknown|https://doi.org/10.1590/0074-02760140266
+15|trypanosoma cruzi|chagas disease|infectious agent|microregion of the negro river, state of amazonas|local|1991, 1993, 1997, 2010|https://doi.org/10.1590/0074-0276130565
+16|anopheles darlingi|malaria|vector|brazilian amazon region|regional|unknown|https://doi.org/10.4269/ajtmh.1998.59.325
+17|mansonella ozzardi|mansonellosis|infectious agent|amazon region|unknown|unknown|https://doi.org/10.1590/s0074-02762010000600016
+17|mansonella perstans|mansonellosis|infectious agent|amazon region|unknown|unknown|https://doi.org/10.1590/s0074-02762010000600016
+17|onchocerca volvulus|onchocerciasis|infectious agent|amazon region|unknown|unknown|https://doi.org/10.1590/s0074-02762010000600016
+18|leishmania amazonensis|cutaneous leishmaniasis|infectious agent|amazon region|regional|2050|https://doi.org/10.1371/journal.pone.0143282
+18|lutzomyia flaviscutellata|cutaneous leishmaniasis|vector|amazon region|regional|2050|https://doi.org/10.1371/journal.pone.0143282
+19|panstrongylus geniculatus|chagas disease|vector|furo do rio pau grande|local|unknown|https://doi.org/10.1093/jmedent/35.2.99
+19|trypanosoma cruzi|chagas disease|infectious agent|furo do rio pau grande|local|unknown|https://doi.org/10.1093/jmedent/35.2.99
+20|anopheles marajoara|malaria|vector|macapá, amapá state|local|1996–1997|https://doi.org/10.4269/ajtmh.2002.66.18
+23|triatoma brasiliensis|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.1590/s0001-37652005000300007
+23|triatoma dimidiata|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.1590/s0001-37652005000300007
+23|triatoma infestans|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.1590/s0001-37652005000300007
+23|triatoma sordida|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.1590/s0001-37652005000300007
+24|anopheles cruzi|simian malaria|vector|brazil|regional|unknown|https://doi.org/10.1590/s0074-02761992000700001
+24|plasmodium brasilianum|simian malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.1590/s0074-02761992000700001
+24|plasmodium simium|simian malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.1590/s0074-02761992000700001
+25|ae. aegypti|arboviral diseases|vector|unknown|global|2021–2100|https://doi.org/10.3390/insects14010049
+25|ae. albopictus|arboviral diseases|vector|unknown|global|2021–2100|https://doi.org/10.3390/insects14010049
+26|leishmania (viannia) braziliensis|leishmaniasis|infectious agent|brazil|regional|unknown|https://doi.org/10.1128/jcm.41.7.3126-3132.2003
+27|leishmania braziliensis|cutaneous and/or mucocutaneous leishmaniasis|infectious agent|amazon region of brazil|regional|unknown|https://doi.org/10.1590/s0074-02761994000300027
+27|leishmania chagasi|cutaneous and/or mucocutaneous leishmaniasis|infectious agent|amazon region of brazil|regional|unknown|https://doi.org/10.1590/s0074-02761994000300027
+27|leishmania guyanensis|cutaneous and/or mucocutaneous leishmaniasis|infectious agent|amazon region of brazil|regional|unknown|https://doi.org/10.1590/s0074-02761994000300027
+27|leishmania infantum|cutaneous and/or mucocutaneous leishmaniasis|infectious agent|amazon region of brazil|regional|unknown|https://doi.org/10.1590/s0074-02761994000300027
+27|leishmania mexicana|cutaneous and/or mucocutaneous leishmaniasis|infectious agent|amazon region of brazil|regional|unknown|https://doi.org/10.1590/s0074-02761994000300027
+27|leishmania panamensis|cutaneous and/or mucocutaneous leishmaniasis|infectious agent|amazon region of brazil|regional|unknown|https://doi.org/10.1590/s0074-02761994000300027
+28|anopheles albitarsis|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|anopheles braziliensis|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|anopheles darlingi|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|anopheles nuneztovari|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|anopheles oswaldoi|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|anopheles rangeli|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|anopheles triannulatus|malaria|vector|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|plasmodium falciparum|malaria|infectious agent|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|plasmodium malariae|malaria|infectious agent|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|plasmodium vivax vk210|malaria|infectious agent|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+28|plasmodium vivax vk247|malaria|infectious agent|serra do navio municipality, state of amapá|local|1990–1991|https://doi.org/10.1590/s0074-02762001000200008
+29|anopheles darlingi|malaria|vector|brazilian amazon|local|unknown|https://doi.org/10.1093/nar/gkt484
+30|trypanosoma cruzi|chagas’ disease|infectious agent|ecuadorian amazon region|regional|unknown|https://doi.org/10.4269/ajtmh.2003.69.380
+31|anopheles darlingi|malaria|vector|rondonia|local|unknown|https://doi.org/10.4269/ajtmh.1990.43.1.tm0430010006
+31|p. vivax|malaria|infectious agent|rondonia|local|unknown|https://doi.org/10.4269/ajtmh.1990.43.1.tm0430010006
+31|plasmodium falciparum|malaria|infectious agent|rondonia|local|unknown|https://doi.org/10.4269/ajtmh.1990.43.1.tm0430010006
+32|blastocystis|intestinal parasites|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+32|c. hominis|cryptosporidiosis|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+32|c. parvum|cryptosporidiosis|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+32|c. viatorum|cryptosporidiosis|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+32|cryptosporidium|cryptosporidiosis|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+32|entamoeba|amoebic dysentery|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+32|giardia|giardiasis|infectious agent|puerto nariño, san juan del soco, villa andrea and nuevo paraíso|local|unknown|https://doi.org/10.3389/fmicb.2017.00248
+34|aedes fulvus|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|coquillettidia venezuelensis|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|culex coronator|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|culex gnomatus|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|culex vomerifer|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|mansonia indubitans|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|mansonia titillans|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|psorophora albigenu|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+34|psorophora cingulata|venezuelan equine encephalomyelitis (vee) virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585-37.6.835
+38|leishmania (v.) braziliensis|new world tegumentary leishmaniasis|infectious agent|madre de dios, peru|local|unknown|https://doi.org/10.4269/ajtmh.2012.11-0708
+38|leishmania (viannia) lainsoni|new world tegumentary leishmaniasis|infectious agent|madre de dios, peru|local|unknown|https://doi.org/10.4269/ajtmh.2012.11-0708
+38|lutzomyia auraensis|new world tegumentary leishmaniasis|vector|madre de dios, peru|local|unknown|https://doi.org/10.4269/ajtmh.2012.11-0708
+41|trypanosoma cruzi|chagas' disease|infectious agent|coari, brazil|local|2007|https://doi.org/10.1111/j.1365-3156.2010.02577.x
+41|trypanosoma cruzi i|chagas' disease|infectious agent|coari, brazil|local|2007|https://doi.org/10.1111/j.1365-3156.2010.02577.x
+41|trypanosoma cruzi iii/z3|chagas' disease|infectious agent|coari, brazil|local|2007|https://doi.org/10.1111/j.1365-3156.2010.02577.x
+42|plasmodium|avian malaria|infectious agent|southeastern amazonia|regional|unknown|https://doi.org/10.1017/s003118201700035x
+43|alouatta seniculus straminea|simian malaria|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0074-02761995000300004
+43|ateles paniscus chamek|simian malaria|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0074-02761995000300004
+43|ateles paniscus paniscus|simian malaria|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0074-02761995000300004
+43|chiropotes satanas chiropotes|simian malaria|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0074-02761995000300004
+43|plasmodium brasilianum|simian malaria|infectious agent|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0074-02761995000300004
+43|saimiri ustus|simian malaria|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0074-02761995000300004
+44|trypanosoma cruzi|chagas' disease|infectious agent|brazilian amazon|regional|unknown|https://doi.org/10.1590/s0036-46651994000400009
+45|encephalitozoon hellem|microsporidial infections|infectious agent|unknown|unknown|unknown|https://doi.org/10.1111/j.1550-7408.1998.tb04562.x
+46|lutzomyia gomezi|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|lutzomyia intermedia|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|lutzomyia longipalpis|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|lutzomyia panamensis|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus argentipes|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus chinensis|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus martini|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus papatasi|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus ariasi|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus perfiliewi|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+46|phlebotomus perniciosus|leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1111/j.0269-283x.2004.0487.x
+47|rhodnius|chagas disease|vector|amazon region|regional|unknown|""
+50|anopheles darlingi|malaria|vector|south america|regional|unknown|https://doi.org/10.1111/j.1095-8312.2009.01226.x
+52|anopheles deaneorum|malaria|vector|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+52|anopheles oswaldoi|malaria|vector|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+52|plasmodium falciparum|malaria|infectious agent|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+52|plasmodium malariae|malaria|infectious agent|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+52|plasmodium vivax|malaria|infectious agent|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+52|plasmodium vivax v247|malaria|infectious agent|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+52|plasmodium vivax vk247|malaria|infectious agent|state of acre, brazil|local|1990–1991|https://doi.org/10.1016/0035-9203(93)90008-e
+53|rhodnius barretti|chagas disease|vector|napo ecoregion of western amazonia (colombia and ecuador)|unknown|unknown|https://doi.org/10.1590/0074-0276130434
+58|dasypus novemcinctus|chagas's disease|reservoir host|pará state, brazil|regional|unknown|https://doi.org/10.1016/0035-9203(79)90211-6
+58|nasua nasua|chagas's disease|reservoir host|pará state, brazil|regional|unknown|https://doi.org/10.1016/0035-9203(79)90211-6
+58|panstrongylus geniculatus|chagas's disease|vector|pará state, brazil|regional|unknown|https://doi.org/10.1016/0035-9203(79)90211-6
+58|rhodnius pictipes|chagas's disease|vector|pará state, brazil|regional|unknown|https://doi.org/10.1016/0035-9203(79)90211-6
+58|trypanosoma cruzi|chagas's disease|infectious agent|pará state, brazil|regional|unknown|https://doi.org/10.1016/0035-9203(79)90211-6
+59|choloepus didactylus|cutaneous leishmaniasis|reservoir host|central amazon, brazil|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.239
+59|leishmania braziliensis guyanensis|cutaneous leishmaniasis|infectious agent|central amazon, brazil|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.239
+59|lutzomyia anduzei|cutaneous leishmaniasis|vector|central amazon, brazil|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.239
+59|lutzomyia umbratilis|cutaneous leishmaniasis|vector|central amazon, brazil|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.239
+62|triatoma maculata|chagas disease|vector|roraima|laboratory|unknown|https://doi.org/10.1590/s0036-46652005000300003
+62|trypanosoma cruzi|chagas disease|infectious agent|roraima|laboratory|unknown|https://doi.org/10.1590/s0036-46652005000300003
+63|panstrongylus geniculatus|chagas disease|vector|french-guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0004427
+63|panstrongylus lignarius|chagas disease|vector|french-guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0004427
+63|rhodnius pictipes|chagas disease|vector|french-guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0004427
+63|trypanosoma cruzi|chagas disease|infectious agent|french-guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0004427
+64|desmodus rotundus|rabies|reservoir host|peru|regional|unknown|https://doi.org/10.1111/1365-2664.12690
+66|andes virus|hantavirus pulmonary syndrome|infectious agent|brazilian amazon|local|unknown|https://doi.org/10.1371/journal.pntd.0007884
+66|lnv|hantavirus pulmonary syndrome|infectious agent|brazilian amazon|local|unknown|https://doi.org/10.1371/journal.pntd.0007884
+68|triatoma infestans|chagas disease|vector|amazon-cerrado transition|unknown|unknown|https://doi.org/10.1371/journal.pntd.0006035
+69|l. (v.) naiffi|american cutaneous leishmaniasis|infectious agent|floresta nacional do tapajós, belterra municipality, western pará state, brazil|local|2002–2003|https://doi.org/10.1051/parasite/2016022
+69|l. (v.) shawi shawi|american cutaneous leishmaniasis|infectious agent|floresta nacional do tapajós, belterra municipality, western pará state, brazil|local|2002–2003|https://doi.org/10.1051/parasite/2016022
+69|lutzomyia gomezi|american cutaneous leishmaniasis|vector|floresta nacional do tapajós, belterra municipality, western pará state, brazil|local|2002–2003|https://doi.org/10.1051/parasite/2016022
+69|nyssomyia whitmani|american cutaneous leishmaniasis|vector|floresta nacional do tapajós, belterra municipality, western pará state, brazil|local|2002–2003|https://doi.org/10.1051/parasite/2016022
+69|ps. davisi|american cutaneous leishmaniasis|vector|floresta nacional do tapajós, belterra municipality, western pará state, brazil|local|2002–2003|https://doi.org/10.1051/parasite/2016022
+69|psychodopygus hirsutus hirsutus|american cutaneous leishmaniasis|vector|floresta nacional do tapajós, belterra municipality, western pará state, brazil|local|2002–2003|https://doi.org/10.1051/parasite/2016022
+70|mycobacterium leprae|leprosy|infectious agent|amazonian countries|regional|unknown|https://doi.org/10.1007/s40475-020-00206-1
+71|anopheles darlingi|malaria|vector|departments of loreto and ucayali|regional|2001|""
+71|plasmodium falciparum|malaria|infectious agent|departments of loreto and ucayali|regional|2001|""
+71|plasmodium vivax|malaria|infectious agent|departments of loreto and ucayali|regional|2001|""
+72|leishmania (viannia) guyanensis|american cutaneous leishmaniasis|infectious agent|department of tolima, colombia|local|unknown|https://doi.org/10.4269/ajtmh.2008.78.276
+72|leishmania (viannia) panamensis|american cutaneous leishmaniasis|infectious agent|department of tolima, colombia|local|unknown|https://doi.org/10.4269/ajtmh.2008.78.276
+73|rhodnius|chagas disease|vector|amazon region|regional|unknown|https://doi.org/10.17533/udea.acbi.329778
+74|aedes aegypti|yellow fever|vector|unknown|unknown|unknown|https://doi.org/10.1042/etls20200187
+75|anopheles albitarsis|malaria|vector|careiro municipality, western brazilian amazon|local|2008–2010|https://doi.org/10.1186/1475-2875-11-351
+75|anopheles braziliensis|malaria|vector|careiro municipality, western brazilian amazon|local|2008–2010|https://doi.org/10.1186/1475-2875-11-351
+75|anopheles darlingi|malaria|vector|careiro municipality, western brazilian amazon|local|2008–2010|https://doi.org/10.1186/1475-2875-11-351
+75|anopheles nuneztovari|malaria|vector|careiro municipality, western brazilian amazon|local|2008–2010|https://doi.org/10.1186/1475-2875-11-351
+75|plasmodium falciparum|malaria|infectious agent|careiro municipality, western brazilian amazon|local|2008–2010|https://doi.org/10.1186/1475-2875-11-351
+75|plasmodium vivax|malaria|infectious agent|careiro municipality, western brazilian amazon|local|2008–2010|https://doi.org/10.1186/1475-2875-11-351
+76|leishmania (v.) guyanensis|american cutaneous leishmaniasis|infectious agent|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (n.) antunesi|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (n.) flaviscutellata|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (n.) umbratilis|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (n.) whitmani|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (p.) ayrozai|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (p.) davisi|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (p.) hirsuta hirsuta|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (p.) paraensis|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (t.) auraensis|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia (t.) ubiquitalis|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+76|lutzomyia migonei|american cutaneous leishmaniasis|vector|bujari, xapuri and rio branco, acre|local|unknown|https://doi.org/10.1590/s0074-02762008000800003
+77|culex vomerifer|venezuelan equine encephalomyelitis|vector|iquitos, peru|local|1997|https://doi.org/10.2987/8756-971x(2006)22[70:vcopmd]2.0.co;2
+77|cx. gnomatos|venezuelan equine encephalomyelitis|vector|iquitos, peru|local|1997|https://doi.org/10.2987/8756-971x(2006)22[70:vcopmd]2.0.co;2
+79|leishmania (viannia) braziliensis|american tegumentary leishmaniasis|infectious agent|acre, brazil|local|unknown|https://doi.org/10.1111/j.1365-3156.2006.01695.x
+79|leishmania (viannia) guyanensis|american tegumentary leishmaniasis|infectious agent|acre, brazil|local|unknown|https://doi.org/10.1111/j.1365-3156.2006.01695.x
+79|leishmania (viannia) lainsoni|american tegumentary leishmaniasis|infectious agent|acre, brazil|local|unknown|https://doi.org/10.1111/j.1365-3156.2006.01695.x
+79|leishmania (viannia) naiffi|american tegumentary leishmaniasis|infectious agent|acre, brazil|local|unknown|https://doi.org/10.1111/j.1365-3156.2006.01695.x
+81|anopheles nuneztovari|malaria|vector|colombia (department of amazonas)|regional|unknown|https://doi.org/10.1590/s0074-02762010000700010
+81|anopheles oswaldoi|malaria|vector|colombia (department of amazonas)|regional|unknown|https://doi.org/10.1590/s0074-02762010000700010
+81|anopheles trinkae|malaria|vector|colombia (department of amazonas)|regional|unknown|https://doi.org/10.1590/s0074-02762010000700010
+83|rodentia|zoonotic diseases|reservoir host|amazonia|unknown|unknown|https://doi.org/10.3390/v13091690
+85|aedes aegypti|yellow fever|vector|brazil|regional|unknown|""
+85|haemagogus albomaculatus|yellow fever|vector|brazil|regional|unknown|""
+85|haemagogus jantlziizonzys|yellow fever|vector|brazil|regional|unknown|""
+88|aedes aegypti|dengue|vector|chapada das mesas national park, brazil|local|unknown|https://doi.org/10.1155/2015/490765
+88|aedes aegypti|chikungunya fever|vector|chapada das mesas national park, brazil|local|unknown|https://doi.org/10.1155/2015/490765
+91|anopheles (kerteszia) cruzii|malaria|vector|brazil|regional|23 years|https://doi.org/10.3390/microorganisms9010132
+91|plasmodium brasilianum|malaria|infectious agent|brazil|regional|23 years|https://doi.org/10.3390/microorganisms9010132
+91|plasmodium falciparum|malaria|infectious agent|brazil|regional|23 years|https://doi.org/10.3390/microorganisms9010132
+91|plasmodium malariae|malaria|infectious agent|brazil|regional|23 years|https://doi.org/10.3390/microorganisms9010132
+91|plasmodium simium|malaria|infectious agent|brazil|regional|23 years|https://doi.org/10.3390/microorganisms9010132
+91|plasmodium vivax|malaria|infectious agent|brazil|regional|23 years|https://doi.org/10.3390/microorganisms9010132
+92|leishmania (v.) braziliensis|leishmaniasis|infectious agent|colombia|national|1999–2016|https://doi.org/10.1371/journal.pone.0214124
+92|leishmania (v.) guyanensis|leishmaniasis|infectious agent|colombia|national|1999–2016|https://doi.org/10.1371/journal.pone.0214124
+92|leishmania (v.) panamensis|leishmaniasis|infectious agent|colombia|national|1999–2016|https://doi.org/10.1371/journal.pone.0214124
+94|plasmodium falciparum|malaria|infectious agent|padre cocha, peru|local|1997–1998|https://doi.org/10.4269/ajtmh.2000.62.247
+94|plasmodium vivax|malaria|infectious agent|padre cocha, peru|local|1997–1998|https://doi.org/10.4269/ajtmh.2000.62.247
+95|didelphis marsupialis|chagas disease|reservoir host|muana, marajo island, amazon river estuary, brazil|local|unknown|https://doi.org/10.1590/s0074-02761999000700078
+95|panstrongylus geniculatus|chagas disease|vector|muana, marajo island, amazon river estuary, brazil|local|unknown|https://doi.org/10.1590/s0074-02761999000700078
+95|philander opossum|chagas disease|reservoir host|muana, marajo island, amazon river estuary, brazil|local|unknown|https://doi.org/10.1590/s0074-02761999000700078
+95|rhodnius pictipes|chagas disease|vector|muana, marajo island, amazon river estuary, brazil|local|unknown|https://doi.org/10.1590/s0074-02761999000700078
+95|sus scrofa|chagas disease|reservoir host|muana, marajo island, amazon river estuary, brazil|local|unknown|https://doi.org/10.1590/s0074-02761999000700078
+96|nyssorhynchus darlingi|malaria|vector|brazilian amazon|regional|unknown|https://doi.org/10.1371/journal.pone.0245087
+97|aedes aegypti|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes albopictus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes japonicus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes mediovittatus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes notoscriptus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes sierrensis|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes triseriatus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|aedes vexans|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|anopheles aquasalis|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|anopheles darlingi|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|coquillettidia perturbans|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|culex quinquefasciatus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|haemagogus janthinomys|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|haemagogus leucocelaenus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|mansonia titillans|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|mansonia uniformis|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|ochlerotatus scapularis|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|ochlerotatus taeniorhynchus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|ochlerotatus triseriatus|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|psorophora ciliata|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+97|psorophora ferox|arboviruses|vector|southern amazon|regional|2015–2016|https://doi.org/10.1111/tbed.14154
+98|rhodnius pallescens|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1371/journal.pone.0241710
+98|triatoma maculata|chagas disease|vector|latin america|regional|unknown|https://doi.org/10.1371/journal.pone.0241710
+100|leishmania|leishmaniasis|infectious agent|marajó archipelago|local|unknown|https://doi.org/10.1093/jme/tjw182
+102|simulium|onchocerciasis|vector|venezuelan amazon|regional|unknown|""
+103|t. cruzi|chagas disease|infectious agent|ecuador|national|2004–2014|https://doi.org/10.1111/tmi.12620
+103|t. dimidiata|chagas disease|vector|ecuador|national|2004–2014|https://doi.org/10.1111/tmi.12620
+106|aedes aegypti|mayaro virus|vector|brazil|regional|1980s|https://doi.org/10.3390/v15030799
+106|culex quinquefasciatus|mayaro virus|vector|brazil|regional|1980s|https://doi.org/10.3390/v15030799
+106|haemagogus spp.|mayaro virus|vector|brazil|regional|1980s|https://doi.org/10.3390/v15030799
+107|anopheles darlingi|malaria|vector|brazil|regional|unknown|https://doi.org/10.3390/tropicalmed5040161
+108|plasmodium vivax|malaria|infectious agent|peru and brazil|regional|2019|https://doi.org/10.4269/ajtmh.21-1272
+108|nyssorhynchus darlingi|malaria|vector|peru and brazil|regional|2019|https://doi.org/10.4269/ajtmh.21-1272
+109|rhodnius|chagas disease|vector|brazil|regional|unknown|https://doi.org/10.1089/vbz.2008.0185
+109|t. cruzi|chagas disease|infectious agent|brazil|regional|unknown|https://doi.org/10.1089/vbz.2008.0185
+109|triatoma|chagas disease|vector|brazil|regional|unknown|https://doi.org/10.1089/vbz.2008.0185
+109|trypanosoma cruzi|chagas disease|infectious agent|brazil|regional|unknown|https://doi.org/10.1089/vbz.2008.0185
+110|aedes aegypti|zika virus|vector|south and central america|regional|unknown|https://doi.org/10.7717/peerj.7920
+110|aedes albopictus|zika virus|vector|south and central america|regional|unknown|https://doi.org/10.7717/peerj.7920
+113|anisakis sp.|anisakiasis|infectious agent|central amazonia, brazil|local|2008|https://doi.org/10.1590/s1984-29612019055
+114|plasmodium falciparum|malaria|infectious agent|amazon basin|regional|2015|https://doi.org/10.1097/tp.0000000000002017
+114|plasmodium knowlesi|malaria|infectious agent|amazon basin|regional|2015|https://doi.org/10.1097/tp.0000000000002017
+114|plasmodium malariae|malaria|infectious agent|amazon basin|regional|2015|https://doi.org/10.1097/tp.0000000000002017
+114|plasmodium ovale|malaria|infectious agent|amazon basin|regional|2015|https://doi.org/10.1097/tp.0000000000002017
+114|plasmodium vivax|malaria|infectious agent|amazon basin|regional|2015|https://doi.org/10.1097/tp.0000000000002017
+115|panstrongylus geniculatus|chagas disease|vector|roraima|local|unknown|https://doi.org/10.1590/s0036-46652005000100008
+115|rhodnius pictipes|chagas disease|vector|roraima|local|unknown|https://doi.org/10.1590/s0036-46652005000100008
+115|rhodnius robustus|chagas disease|vector|roraima|local|unknown|https://doi.org/10.1590/s0036-46652005000100008
+115|triatoma maculata|chagas disease|vector|roraima|local|unknown|https://doi.org/10.1590/s0036-46652005000100008
+115|trypanosoma cruzi|chagas disease|infectious agent|roraima|local|unknown|https://doi.org/10.1590/s0036-46652005000100008
+117|haemoproteus|malaria|infectious agent|santa marta mountains, the andes, and the amazon|regional|unknown|https://doi.org/10.1111/jbi.13453
+117|leucocytozoon|malaria|infectious agent|santa marta mountains, the andes, and the amazon|regional|unknown|https://doi.org/10.1111/jbi.13453
+117|plasmodium|malaria|infectious agent|santa marta mountains, the andes, and the amazon|regional|unknown|https://doi.org/10.1111/jbi.13453
+120|anopheles darlingi|malaria|vector|loreto department, peru|regional|unknown|https://doi.org/10.1603/0022-2585(2008)45[1165:sdbaha]2.0.co;2
+121|culicidae|human infectious disease|vector|southern amazon|regional|unknown|https://doi.org/10.1111/1755-0998.13525
+121|phlebotominae|human infectious disease|vector|southern amazon|regional|unknown|https://doi.org/10.1111/1755-0998.13525
+122|leishmania (viannia) braziliensis|cutaneous leishmaniasis|infectious agent|ecuador|regional|unknown|https://doi.org/10.1371/journal.pntd.0004728
+122|leishmania (viannia) guyanensis|cutaneous leishmaniasis|infectious agent|ecuador|regional|unknown|https://doi.org/10.1371/journal.pntd.0004728
+122|leishmania (viannia) lainsoni|cutaneous leishmaniasis|infectious agent|ecuador|regional|unknown|https://doi.org/10.1371/journal.pntd.0004728
+123|plasmodium falciparum|malaria|infectious agent|amazon basin in brazil|local|unknown|https://doi.org/10.1080/00034983.1996.11813037
+123|plasmodium malariae|malaria|infectious agent|amazon basin in brazil|local|unknown|https://doi.org/10.1080/00034983.1996.11813037
+123|plasmodium vivax|malaria|infectious agent|amazon basin in brazil|local|unknown|https://doi.org/10.1080/00034983.1996.11813037
+124|amazona brasiliensis|enteropathogenic escherichia coli (epec) infection|reservoir host|brazil|local|unknown|https://doi.org/10.1590/s0100-736x2012000900017
+125|didelphis marsupialis|chagas disease|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1016/j.actatropica.2022.106486
+125|rattus rattus|chagas disease|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1016/j.actatropica.2022.106486
+125|tamandua tetradactyla|chagas disease|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1016/j.actatropica.2022.106486
+125|trypanosoma cruzi|chagas disease|infectious agent|brazilian amazon|regional|unknown|https://doi.org/10.1016/j.actatropica.2022.106486
+126|lutzomyia amazonensis|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia anduzei|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia antunesi|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia ayrozai|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia carrerai carrerai|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia complexa|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia cruzi|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia flaviscutellata|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia intermedia|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia longipalpis|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia migonei|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia paraensis|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia ubiquitalis|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia whitmani|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+126|lutzomyia yuilli yuilli|leishmaniasis|vector|mato grosso state, central brazil|regional|1996–2001|https://doi.org/10.1590/s0036-46652007000500008
+127|anopheles nuneztovari|human malaria|vector|brazilian amazon and colombia|regional|unknown|https://doi.org/10.4269/ajtmh.1999.60.1010
+128|anopheles nuneztovari|malaria|vector|amazon basin|regional|unknown|https://doi.org/10.4269/ajtmh.2011.11-0150
+129|lutzomyia umbratilis|leishmania guyanensis|vector|brazilian amazon|regional|unknown|https://doi.org/10.1038/s41598-021-93072-4
+130|leishmania braziliensis|cutaneous leishmaniasis|infectious agent|altamira, pará state|local|1971–1974|https://doi.org/10.1097/00043764-197707000-00016
+130|leishmania mexicana amazonensis|leishmaniasis|infectious agent|altamira, pará state|local|1971–1974|https://doi.org/10.1097/00043764-197707000-00016
+130|p. falciparum|malaria|infectious agent|altamira, pará state|local|1971–1974|https://doi.org/10.1097/00043764-197707000-00016
+130|p. vivax|malaria|infectious agent|altamira, pará state|local|1971–1974|https://doi.org/10.1097/00043764-197707000-00016
+131|anopheles darlingi|malaria|vector|south america|regional|unknown|https://doi.org/10.1111/j.1365-2915.2008.00731.x
+131|anopheles nuneztovari|malaria|vector|south america|regional|unknown|https://doi.org/10.1111/j.1365-2915.2008.00731.x
+132|leishmania chagasi|american visceral leishmaniasis|infectious agent|santarém, pará state, brazil|local|unknown|https://doi.org/10.1016/0035-9203(85)90340-2
+132|lutzomyia longipalpis|american visceral leishmaniasis|vector|santarém, pará state, brazil|local|unknown|https://doi.org/10.1016/0035-9203(85)90340-2
+133|anopheles albitarsis|malaria|vector|copaíbas, northern amazon basin, brazil|local|unknown|https://doi.org/10.3376/1081-1710(2007)32[54:paacfa]2.0.co;2
+133|anopheles darlingi|malaria|vector|copaíbas, northern amazon basin, brazil|local|unknown|https://doi.org/10.3376/1081-1710(2007)32[54:paacfa]2.0.co;2
+135|simulium guianense|onchocerciasis|vector|venezuelan amazonia|regional|1995–1999|https://doi.org/10.1603/0022-2585-38.4.520
+135|simulium incrustatum|onchocerciasis|vector|venezuelan amazonia|regional|1995–1999|https://doi.org/10.1603/0022-2585-38.4.520
+135|simulium oyapockense|onchocerciasis|vector|venezuelan amazonia|regional|1995–1999|https://doi.org/10.1603/0022-2585-38.4.520
+137|didelphis marsupialis|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|didelphis marsupialis|ilheus virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|didelphis marsupialis|catu virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|nectomys rattus|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|nectomys rattus|ilheus virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|nectomys rattus|catu virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|philander opossum|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|philander opossum|ilheus virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+137|philander opossum|catu virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.1590/0103-8478cr20200515
+138|nyssomyia shawi|leishmaniasis|vector|xapuri, acre, brazil|local|2013–2015|https://doi.org/10.1051/parasite/2017021
+138|nyssomyia whitmani|leishmaniasis|vector|xapuri, acre, brazil|local|2013–2015|https://doi.org/10.1051/parasite/2017021
+138|psychodopygus davisi|leishmaniasis|vector|xapuri, acre, brazil|local|2013–2015|https://doi.org/10.1051/parasite/2017021
+138|psychodopygus hirsutus hirsutus|leishmaniasis|vector|xapuri, acre, brazil|local|2013–2015|https://doi.org/10.1051/parasite/2017021
+141|anopheles darlingi|malaria|vector|loreto department, peru|regional|unknown|https://doi.org/10.1093/jmedent/45.6.1165
+142|anopheles albitarsis|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+142|anopheles braziliensis|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+142|anopheles darlingi|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+142|anopheles nuneztovari|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+142|anopheles oswaldoi|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+142|anopheles peryassui|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+142|anopheles triannulatus|malaria|vector|state of roraima|local|1999–2003|https://doi.org/10.3376/1081-1710(2007)32[161:dsomvi]2.0.co;2
+144|leishmania guyanensis|cutaneous leishmaniasis|infectious agent|manaus and manacapuru|laboratory|unknown|https://doi.org/10.1590/s1519-69842004000200007
+144|lutzomyia umbratilis|cutaneous leishmaniasis|vector|manaus and manacapuru|laboratory|unknown|https://doi.org/10.1590/s1519-69842004000200007
+145|contracaecum|anisakiasis|intermediate host|brazil|national|90 years|https://doi.org/10.1590/s1984-29612019002
+148|plasmodium falciparum|malaria|infectious agent|guyanas|regional|1996|""
+148|plasmodium malariae|malaria|infectious agent|guyanas|regional|1996|""
+148|plasmodium vivax|malaria|infectious agent|guyanas|regional|1996|""
+149|anopheles darlingi|malaria|vector|porto velho, rondônia state|local|2010–2011|https://doi.org/10.1590/s0036-46652012000600008
+149|anopheles triannulatus|malaria|vector|porto velho, rondônia state|local|2010–2011|https://doi.org/10.1590/s0036-46652012000600008
+150|aedes fulvus|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585(2008)45[720:sopmte]2.0.co;2
+150|culex pedroi|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585(2008)45[720:sopmte]2.0.co;2
+150|psorophora albigenu|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585(2008)45[720:sopmte]2.0.co;2
+150|psorophora ferox|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1603/0022-2585(2008)45[720:sopmte]2.0.co;2
+152|lutzomyia lainsoni|leishmaniasis|vector|southern brazilian amazonia|regional|unknown|https://doi.org/10.1590/s1519-69842003000300006
+153|leptospira interrogans|leptospirosis|infectious agent|yasuní national park, ecuador|local|unknown|https://doi.org/10.1371/journal.pntd.0011671
+153|leptospira noguchii|leptospirosis|infectious agent|yasuní national park, ecuador|local|unknown|https://doi.org/10.1371/journal.pntd.0011671
+153|leptospira santarosai|leptospirosis|infectious agent|yasuní national park, ecuador|local|unknown|https://doi.org/10.1371/journal.pntd.0011671
+154|leishmania (leishmania) amazonensis|leishmaniasis|infectious agent|pará state and paraná state, brazil|regional|unknown|https://doi.org/10.1016/s0035-9203(02)90061-1
+154|leishmania (viannia) braziliensis|leishmaniasis|infectious agent|pará state and paraná state, brazil|regional|unknown|https://doi.org/10.1016/s0035-9203(02)90061-1
+154|leishmania (viannia) shawi|leishmaniasis|infectious agent|pará state and paraná state, brazil|regional|unknown|https://doi.org/10.1016/s0035-9203(02)90061-1
+154|lutzomyia (nyssomyia) whitmani|leishmaniasis|vector|pará state and paraná state, brazil|regional|unknown|https://doi.org/10.1016/s0035-9203(02)90061-1
+154|psychodopygus complexus|leishmaniasis|vector|pará state and paraná state, brazil|regional|unknown|https://doi.org/10.1016/s0035-9203(02)90061-1
+157|babesia bigemina|babesiosis|infectious agent|amazon region|unknown|unknown|https://doi.org/10.3389/fpubh.2023.1079042
+159|anopheles aquasalis|malaria|vector|espírito santo|regional|1997–2005|https://doi.org/10.1590/s0074-02762009000400006
+159|anopheles darlingi|malaria|vector|espírito santo|regional|1997–2005|https://doi.org/10.1590/s0074-02762009000400006
+160|plasmodium falciparum|malaria|infectious agent|state of acre, brazil|regional|1992–2014|https://doi.org/10.4081/gh.2016.443
+160|plasmodium vivax|malaria|infectious agent|state of acre, brazil|regional|1992–2014|https://doi.org/10.4081/gh.2016.443
+161|halocercus brasiliensis|pulmonary pathology|infectious agent|unknown|unknown|unknown|https://doi.org/10.3354/dao03280
+161|inia geoffrensis|pulmonary pathology|other|unknown|unknown|unknown|https://doi.org/10.3354/dao03280
+161|sotalia fluviatilis|pulmonary pathology|other|unknown|unknown|unknown|https://doi.org/10.3354/dao03280
+162|oropouche virus|oropouche virus (orov)|infectious agent|pernambuco|national|2022–2024|https://doi.org/10.1002/jmv.70012
+163|anopheles albitarsis|malaria|vector|cruzeiro do sul-acre|local|unknown|https://doi.org/10.1111/jvec.12307
+163|anopheles braziliensis|malaria|vector|cruzeiro do sul-acre|local|unknown|https://doi.org/10.1111/jvec.12307
+163|anopheles darlingi|malaria|vector|cruzeiro do sul-acre|local|unknown|https://doi.org/10.1111/jvec.12307
+163|anopheles oswaldoi|malaria|vector|cruzeiro do sul-acre|local|unknown|https://doi.org/10.1111/jvec.12307
+163|anopheles peryassui|malaria|vector|cruzeiro do sul-acre|local|unknown|https://doi.org/10.1111/jvec.12307
+163|anopheles triannulatus|malaria|vector|cruzeiro do sul-acre|local|unknown|https://doi.org/10.1111/jvec.12307
+165|aedes albopictus|vector-borne diseases|vector|ecuador|local|2017|https://doi.org/10.3390/insects13030305
+166|haemagogus janthinomys|yellow fever virus (yfv)|vector|brazil|regional|unknown|https://doi.org/10.22533/at.ed.42724140511
+166|haemagogus janthinomys|dengue virus (denv)|vector|brazil|regional|unknown|https://doi.org/10.22533/at.ed.42724140511
+166|haemagogus janthinomys|mayaro|vector|brazil|regional|unknown|https://doi.org/10.22533/at.ed.42724140511
+167|leishmania (viannia) braziliensis|leishmaniasis|infectious agent|madre de dios|regional|unknown|https://doi.org/10.1371/journal.pone.0103358
+168|nyssomyia antunesi|american cutaneous leishmaniasis|vector|lábrea, state of amazonas (am), brazil|local|2009–2010|https://doi.org/10.1590/s0074-02762013000300004
+170|leishmania (viannia) braziliensis|cutaneous and mucocutaneous or american tegumentary leishmaniasis|infectious agent|amazonia|regional|unknown|https://doi.org/10.3389/fitd.2021.723017
+170|leishmania infantum|visceral leishmaniasis|infectious agent|amazonia|regional|unknown|https://doi.org/10.3389/fitd.2021.723017
+170|yersinia pestis|plague|infectious agent|amazonia|regional|unknown|https://doi.org/10.3389/fitd.2021.723017
+171|rhodnius brethesi|chagas disease|vector|amazon region|unknown|unknown|https://doi.org/10.1590/s0074-02762007005000097
+171|saimiri sciureus|chagas disease|reservoir host|amazon region|unknown|unknown|https://doi.org/10.1590/s0074-02762007005000097
+171|trypanosoma cruzi|chagas disease|infectious agent|amazon region|unknown|unknown|https://doi.org/10.1590/s0074-02762007005000097
+172|leishmania braziliensis|leishmaniasis|infectious agent|amazon basin|regional|unknown|https://doi.org/10.1093/inthealth/ihac048
+172|rabies virus|rabies|infectious agent|amazon basin|regional|unknown|https://doi.org/10.1093/inthealth/ihac048
+172|triatoma infestans|chagas disease|vector|amazon basin|regional|unknown|https://doi.org/10.1093/inthealth/ihac048
+173|aedes fulvus|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jmedent/45.4.720
+173|culex pedroi|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jmedent/45.4.720
+173|psorophora albigenu|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jmedent/45.4.720
+173|psorophora cingulata|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jmedent/45.4.720
+173|psorophora ferox|eastern equine encephalitis virus (eeev)|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jmedent/45.4.720
+174|lutzomyia auraensis|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia ayacuchensis|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia chagasi|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia davisi|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia peruensis|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia peruensis|carrión's disease|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia pescei|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia pescei|carrión's disease|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia robusta|carrión's disease|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia serrana|carrión's disease|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia tejadai|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia verrucarum|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia verrucarum|carrión's disease|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+174|lutzomyia davisi|leishmaniasis|vector|peru|national|unknown|https://doi.org/10.17843/rpmesp.2017.343.2398
+175|delphinus delphis|streptococcus iniae|reservoir host|metropolitan australian beach|local|unknown|https://doi.org/10.3390/ani11113123
+175|inia geoffrensis|streptococcus iniae|reservoir host|metropolitan australian beach|local|unknown|https://doi.org/10.3390/ani11113123
+175|streptococcus iniae|streptococcus iniae|infectious agent|metropolitan australian beach|local|unknown|https://doi.org/10.3390/ani11113123
+175|tursiops truncatus|streptococcus iniae|reservoir host|metropolitan australian beach|local|unknown|https://doi.org/10.3390/ani11113123
+176|aedes aegypti|malaria|vector|amazon rainforest|unknown|unknown|https://doi.org/10.1051/parasite/2021040
+176|leishmania amazonensis|leishmaniasis|infectious agent|amazon rainforest|unknown|unknown|https://doi.org/10.1051/parasite/2021040
+176|piper aduncum|malaria|biological control|amazon rainforest|unknown|unknown|https://doi.org/10.1051/parasite/2021040
+178|aedes aegypti|dengue|vector|unknown|regional|unknown|https://doi.org/10.3390/v12080866
+178|aedes aegypti|zika|vector|unknown|regional|unknown|https://doi.org/10.3390/v12080866
+178|aedes aegypti|chikungunya|vector|unknown|regional|unknown|https://doi.org/10.3390/v12080866
+179|anopheles darlingi|malaria|vector|brazilian amazon|regional|unknown|https://doi.org/10.20944/preprints202009.0552.v1
+180|aedes aegypti|oropouche orthobunyavirus (orov)|vector|brazil|national|2024|https://doi.org/10.3390/v17040492
+180|aedes aegypti|chikungunya virus (chikv)|vector|brazil|national|2024|https://doi.org/10.3390/v17040492
+180|culicoides paraensis|oropouche orthobunyavirus (orov)|vector|brazil|national|2024|https://doi.org/10.3390/v17040492
+182|rhodnius montenegrensis|chagas disease|vector|monte negro, rondônia, brazil|local|unknown|https://doi.org/10.1089/vbz.2018.2266
+182|trypanosoma cruzi|chagas disease|infectious agent|monte negro, rondônia, brazil|local|unknown|https://doi.org/10.1089/vbz.2018.2266
+182|trypanosoma rangeli|chagas disease|infectious agent|monte negro, rondônia, brazil|local|unknown|https://doi.org/10.1089/vbz.2018.2266
+183|aedes aegypti|zika virus|vector|porto velho, rondônia, brazil|local|unknown|https://doi.org/10.1016/j.micinf.2022.105046
+183|aedes aegypti|dengue-4|vector|porto velho, rondônia, brazil|local|unknown|https://doi.org/10.1016/j.micinf.2022.105046
+183|culex quinquefasciatus|zika virus|vector|porto velho, rondônia, brazil|local|unknown|https://doi.org/10.1016/j.micinf.2022.105046
+185|leontocebus lagonotus|malaria|reservoir host|western amazon region of ecuador|local|2011–2019|https://doi.org/10.3390/pathogens10070791
+185|plasmodium falciparum|malaria|infectious agent|western amazon region of ecuador|local|2011–2019|https://doi.org/10.3390/pathogens10070791
+185|plasmodium sp.|malaria|infectious agent|western amazon region of ecuador|local|2011–2019|https://doi.org/10.3390/pathogens10070791
+186|anopheles albitarsis|malaria|vector|amazon river|regional|unknown|https://doi.org/10.1111/j.1948-7134.2014.12084.x
+186|anopheles janconnae|malaria|vector|amazon river|regional|unknown|https://doi.org/10.1111/j.1948-7134.2014.12084.x
+186|anopheles marajoara|malaria|vector|amazon river|regional|unknown|https://doi.org/10.1111/j.1948-7134.2014.12084.x
+186|plasmodium falciparum|malaria|infectious agent|amazon river|regional|unknown|https://doi.org/10.1111/j.1948-7134.2014.12084.x
+186|plasmodium vivax|malaria|infectious agent|amazon river|regional|unknown|https://doi.org/10.1111/j.1948-7134.2014.12084.x
+188|plasmodium brasilianum|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.3390/pathogens9070525
+188|plasmodium falciparum|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.3390/pathogens9070525
+188|plasmodium malariae|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.3390/pathogens9070525
+188|plasmodium vivax|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.3390/pathogens9070525
+189|culicoides insinuatus|mansonelliasis|vector|comisaría of amazonas|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.1137
+189|simulium amazonicum|mansonelliasis|vector|comisaría of amazonas|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.1137
+189|simulium argentiscutum|mansonelliasis|vector|comisaría of amazonas|local|unknown|https://doi.org/10.4269/ajtmh.1982.31.1137
+190|aedes aegypti|chikungunya virus|vector|xinguara, pará, brazil|local|2017|https://doi.org/10.3390/v12080853
+190|culex quinquefasciatus|chikungunya virus|vector|xinguara, pará, brazil|local|2017|https://doi.org/10.3390/v12080853
+191|l. (l.) amazonensis|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (l.) major-like|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (leishmania) mexicana|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (v.) braziliensis|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (v.) lainsoni|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (v.) naiffi|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (v.) panamensis|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|l. (viannia) guyanensis|leishmaniasis|infectious agent|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|lu. ayacuchensis|leishmaniasis|vector|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|lu. gomezi|leishmaniasis|vector|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|lu. tortura|leishmaniasis|vector|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+191|lu. trapidoi|leishmaniasis|vector|ecuador|national|2001–2014|https://doi.org/10.1016/j.actatropica.2016.11.039
+192|simulium guianense|onchocerciasis|vector|south-western border of guyana with brazil|unknown|unknown|https://doi.org/10.1590/s0074-02762004000500001
+192|simulium oyapockense|onchocerciasis|vector|south-western border of guyana with brazil|unknown|unknown|https://doi.org/10.1590/s0074-02762004000500001
+194|anopheles spp.|malaria|vector|amazonia|unknown|unknown|https://doi.org/10.1038/s41598-021-92217-9
+196|anopheles darlingi|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles albitarsis|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles balabacensis|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles cruzii|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles culicifacies|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles dirus|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles donaldi|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles farauti|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles flavirostris|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles fluviatilis|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles funestus|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles gambiae s.s.|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles koliensis|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles letifer|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles leucosphyrus|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles maculatus|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles minimus|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles nili|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles pseudopunctipennis|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|anopheles punctulatus|malaria|vector|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+196|plasmodium falciparum|malaria|infectious agent|amazon|regional|unknown|https://doi.org/10.1016/s2542-5196(18)30243-2
+198|mpox virus|mpox|infectious agent|southeast asia, equatorial africa, and the amazon|unknown|unknown|https://doi.org/10.1101/2023.10.26.564211
+198|orthopoxvirus|mpox|infectious agent|southeast asia, equatorial africa, and the amazon|unknown|unknown|https://doi.org/10.1101/2023.10.26.564211
+198|orthopoxvirus|smallpox|infectious agent|southeast asia, equatorial africa, and the amazon|unknown|unknown|https://doi.org/10.1101/2023.10.26.564211
+198|variola virus|smallpox|infectious agent|southeast asia, equatorial africa, and the amazon|unknown|unknown|https://doi.org/10.1101/2023.10.26.564211
+200|globicephala macrorhynchus|brucella spp.|reservoir host|atlantic ocean, brazil|regional|unknown|https://doi.org/10.3354/dao03312
+200|peponocephala electra|brucella spp.|reservoir host|atlantic ocean, brazil|regional|unknown|https://doi.org/10.3354/dao03312
+200|stenella clymene|brucella spp.|reservoir host|atlantic ocean, brazil|regional|unknown|https://doi.org/10.3354/dao03312
+200|tursiops truncatus|brucella spp.|reservoir host|atlantic ocean, brazil|regional|unknown|https://doi.org/10.3354/dao03312
+202|leishmania braziliensis|leishmaniasis|infectious agent|xapuri municipality, state of acre, northern brazil|local|unknown|https://doi.org/10.1038/s41598-020-72065-9
+202|psychodopygus carrerai carrerai|leishmaniasis|vector|xapuri municipality, state of acre, northern brazil|local|unknown|https://doi.org/10.1038/s41598-020-72065-9
+203|brumptomyia species|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia antunesi|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia davisi|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia flaviscutellata|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia infraspinosa|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia longipalpis|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia saulensis|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+203|lutzomyia wellcomei|cutaneous leishmaniasis|vector|itapecuru mirim, maranhão, brazil|local|2009–2010|https://doi.org/10.1603/me12074
+205|rhodnius brethesi|chagas disease|vector|amazon region|laboratory|unknown|https://doi.org/10.1590/s0074-02762004000600010
+205|trypanosoma cruzi|chagas disease|infectious agent|amazon region|laboratory|unknown|https://doi.org/10.1590/s0074-02762004000600010
+210|anopheles darlingi|malaria|vector|porto velho (ro)|local|unknown|https://doi.org/10.1590/s1519-566x2009000500019
+211|leishmania spp.|leishmaniasis|infectious agent|brazil|regional|unknown|https://doi.org/10.1093/jme/tjab130
+211|wolbachia pipientis|leishmaniasis|biological control|brazil|regional|unknown|https://doi.org/10.1093/jme/tjab130
+212|mycobacterium tuberculosis h37rv|tuberculosis|infectious agent|marabá, southeast of pará state, brazilian amazon|local|unknown|https://doi.org/10.22456/1679-9216.87483
+212|mycobacterium tuberculosis|tuberculosis|infectious agent|marabá, southeast of pará state, brazilian amazon|local|unknown|https://doi.org/10.22456/1679-9216.87483
+212|tapirus indicus|tuberculosis|reservoir host|marabá, southeast of pará state, brazilian amazon|local|unknown|https://doi.org/10.22456/1679-9216.87483
+212|tapirus terrestris|tuberculosis|reservoir host|marabá, southeast of pará state, brazilian amazon|local|unknown|https://doi.org/10.22456/1679-9216.87483
+213|panstrongylus herreri|chagas disease|vector|northwest of peru|local|unknown|https://doi.org/10.4067/s0717-77122007000200009
+213|rhodnius ecuadoriensis|chagas disease|vector|northwest of peru|local|unknown|https://doi.org/10.4067/s0717-77122007000200009
+213|triatoma carrioni|chagas disease|vector|northwest of peru|local|unknown|https://doi.org/10.4067/s0717-77122007000200009
+215|rhodnius nasutus|chagas disease|vector|brazil|regional|unknown|https://doi.org/10.1590/s0074-02762009000800014
+215|rhodnius neglectus|chagas disease|vector|brazil|regional|unknown|https://doi.org/10.1590/s0074-02762009000800014
+216|leishmania|leishmaniasis|infectious agent|republic of suriname|local|unknown|https://doi.org/10.4172/2155-9554.1000388
+216|lutzomyia|leishmaniasis|vector|republic of suriname|local|unknown|https://doi.org/10.4172/2155-9554.1000388
+216|phlebotomus|leishmaniasis|vector|republic of suriname|local|unknown|https://doi.org/10.4172/2155-9554.1000388
+218|anopheles darlingi|malaria|vector|colombian amazon riverside|local|2016|https://doi.org/10.1371/journal.pone.0213335
+218|anopheles mattogrossensis|malaria|vector|colombian amazon riverside|local|2016|https://doi.org/10.1371/journal.pone.0213335
+218|plasmodium falciparum|malaria|infectious agent|colombian amazon riverside|local|2016|https://doi.org/10.1371/journal.pone.0213335
+218|plasmodium malariae|malaria|infectious agent|colombian amazon riverside|local|2016|https://doi.org/10.1371/journal.pone.0213335
+218|plasmodium vivax|malaria|infectious agent|colombian amazon riverside|local|2016|https://doi.org/10.1371/journal.pone.0213335
+221|amblyomma cajennense|human infectious disease|vector|pará, eastern brazilian amazonia|local|unknown|https://doi.org/10.1080/01647954.2021.1880475
+221|rhipicephalus microplus|human infectious disease|vector|pará, eastern brazilian amazonia|local|unknown|https://doi.org/10.1080/01647954.2021.1880475
+221|rhipicephalus sanguineus|human infectious disease|vector|pará, eastern brazilian amazonia|local|unknown|https://doi.org/10.1080/01647954.2021.1880475
+222|nyssorhynchus darlingi|malaria|vector|rondonia state, brazil|local|unknown|https://doi.org/10.1590/s1678-9946202163060
+222|plasmodium sp.|malaria|infectious agent|rondonia state, brazil|local|unknown|https://doi.org/10.1590/s1678-9946202163060
+224|didelphis marsupialis|trypanosomiasis (chagas disease)|reservoir host|department of vichada, colombia|local|unknown|https://doi.org/10.3389/fcimb.2022.999082
+224|rhodnius prolixus|trypanosomiasis (chagas disease)|vector|department of vichada, colombia|local|unknown|https://doi.org/10.3389/fcimb.2022.999082
+224|trypanosoma cruzi|trypanosomiasis (chagas disease)|infectious agent|department of vichada, colombia|local|unknown|https://doi.org/10.3389/fcimb.2022.999082
+226|leishmania guyanensis|american tegumentary leishmaniasis|infectious agent|recife, pernambuco|regional|unknown|https://doi.org/10.1016/j.actatropica.2015.11.014
+226|lutzomyia umbratilis|american tegumentary leishmaniasis|vector|recife, pernambuco|regional|unknown|https://doi.org/10.1016/j.actatropica.2015.11.014
+230|gnathostoma|gnathostomiasis|intermediate host|soure, ilha de marajó, state of pará, brazil|local|unknown|https://doi.org/10.1590/s1984-29612017047
+231|aedes (stegomyia)|dengue|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|an. gambiae|malaria|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|anopheles funestus|malaria|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|chlamydia trachomatis|trachoma|infectious agent|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|culex quinquefasciatus|lymphatic filariasis|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|glossina|african sleeping sickness|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|leishmania donovani|visceral leishmaniasis|infectious agent|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|musca domestica|diarrhoeal diseases|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|musca domestica|trachoma|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+231|triatoma infestans|chagas disease|vector|unknown|global|1999|https://doi.org/10.1046/j.1365-2915.2001.00293.x
+232|anopheles darlingi|malaria|vector|roraima, brazil|regional|unknown|https://doi.org/10.1007/s13744-012-0065-5
+232|anopheles albitarsis e|malaria|vector|roraima, brazil|regional|unknown|https://doi.org/10.1007/s13744-012-0065-5
+234|anopheles aquasalis|malaria|vector|rondônia state, brazil|local|unknown|https://doi.org/10.1089/vbz.2019.2527
+234|anopheles darlingi|malaria|vector|rondônia state, brazil|local|unknown|https://doi.org/10.1089/vbz.2019.2527
+234|anopheles deaneorum|malaria|vector|rondônia state, brazil|local|unknown|https://doi.org/10.1089/vbz.2019.2527
+234|plasmodium vivax|malaria|infectious agent|rondônia state, brazil|local|unknown|https://doi.org/10.1089/vbz.2019.2527
+237|lutzomyia longipalpis|visceral leishmaniasis|vector|brazil|regional|unknown|https://doi.org/10.4269/ajtmh.1998.59.893
+242|leishmania guyanensis|leishmaniasis|infectious agent|brazilian amazon|regional|unknown|https://doi.org/10.5772/60921
+242|lutzomyia umbratilis|leishmaniasis|vector|brazilian amazon|regional|unknown|https://doi.org/10.5772/60921
+244|anopheles darlingi|malaria|vector|porto velho, rondônia, brazil|local|unknown|https://doi.org/10.1093/jme/tjab028
+246|anopheles albitarsis s. l.|malaria|vector|central atlantic forest biodiversity corridor, southeastern brazil|local|2004–2006|https://doi.org/10.1603/me11219
+246|anopheles darlingi|malaria|vector|central atlantic forest biodiversity corridor, southeastern brazil|local|2004–2006|https://doi.org/10.1603/me11219
+250|aedes aegypti|zika virus|vector|manaus|local|2018–2021|https://doi.org/10.3390/v15061356
+250|aedes albopictus|zika virus|vector|manaus|local|2018–2021|https://doi.org/10.3390/v15061356
+253|dasypus novemcinctus|leishmaniasis|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.1186/s13071-023-05814-0
+253|leishmania naiffi|leishmaniasis|infectious agent|brazilian amazon|regional|unknown|https://doi.org/10.1186/s13071-023-05814-0
+256|anopheles marajoara|malaria|vector|french guiana|unknown|1900–1945|https://doi.org/10.2987/12-6248r.1
+257|leptospira interrogans|leptospirosis|infectious agent|southwestern region of the amazon|regional|unknown|https://doi.org/10.1155/2024/6633866
+258|leishmania|leishmaniasis|infectious agent|americas|regional|unknown|https://doi.org/10.1101/2022.10.11.511693
+259|leishmania|cutaneous leishmaniasis|infectious agent|korea|unknown|unknown|https://doi.org/10.5021/ad.2013.25.1.80
+261|aedes albopictus|oropouche fever|vector|italy|local|2024|https://doi.org/10.1186/s13071-025-06912-x
+261|culex pipiens|oropouche fever|vector|italy|local|2024|https://doi.org/10.1186/s13071-025-06912-x
+261|culicoides paraensis|oropouche fever|vector|italy|local|2024|https://doi.org/10.1186/s13071-025-06912-x
+263|aedes scapularis|human infectious diseases transmitted by mosquitoes|vector|southeastern florida|regional|2000–2010|https://doi.org/10.3390/insects12030213
+266|haemagogus janthinomys|yellow fever|vector|eastern brazilian amazonia|local|1986–1987|https://doi.org/10.1080/01650520500398662
+267|culicoides insignis|disease|vector|ecuador|regional|2010–2019|https://doi.org/10.1051/parasite/2022061
+267|culicoides paraensis|disease|vector|ecuador|regional|2010–2019|https://doi.org/10.1051/parasite/2022061
+268|anopheles aquasalis|malaria|vector|buriticupu and são josé de ribamar|local|unknown|https://doi.org/10.12741/ebrasilis.v13.e0820
+268|anopheles darlingi|malaria|vector|buriticupu and são josé de ribamar|local|unknown|https://doi.org/10.12741/ebrasilis.v13.e0820
+268|plasmodium falciparum|malaria|infectious agent|buriticupu and são josé de ribamar|local|unknown|https://doi.org/10.12741/ebrasilis.v13.e0820
+268|plasmodium vivax|malaria|infectious agent|buriticupu and são josé de ribamar|local|unknown|https://doi.org/10.12741/ebrasilis.v13.e0820
+269|dasypus novemcinctus|leishmania|reservoir host|southern amazon ‘arc of deforestation’|regional|unknown|https://doi.org/10.22541/au.168674417.73260033/v1
+270|leptospira borgpetersenii|leptospirosis|infectious agent|iquitos (peruvian amazon)|local|2002–2013|https://doi.org/10.1155/2022/4184326
+270|leptospira interrogans|leptospirosis|infectious agent|iquitos (peruvian amazon)|local|2002–2013|https://doi.org/10.1155/2022/4184326
+270|leptospira kirschneri|leptospirosis|infectious agent|iquitos (peruvian amazon)|local|2002–2013|https://doi.org/10.1155/2022/4184326
+270|leptospira noguchii|leptospirosis|infectious agent|iquitos (peruvian amazon)|local|2002–2013|https://doi.org/10.1155/2022/4184326
+270|leptospira santarosai|leptospirosis|infectious agent|iquitos (peruvian amazon)|local|2002–2013|https://doi.org/10.1155/2022/4184326
+271|wuchereria bancrofti|bancroftian filariasis|infectious agent|belém|local|1952|https://doi.org/10.1590/s0102-311x1993000400006
+274|rhodnius pictipes|chagas disease|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1186/s13071-022-05350-3
+274|rhodnius robustus|chagas disease|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1186/s13071-022-05350-3
+274|trypanosoma cruzi|chagas disease|infectious agent|brazilian amazon region|regional|unknown|https://doi.org/10.1186/s13071-022-05350-3
+278|phyllostomus frugivorus|zoonosis|reservoir host|amazon|regional|unknown|https://doi.org/10.1093/jmammal/gyz023
+278|phyllostomus frugivorus|zoonosis|reservoir host|amazon|regional|unknown|https://doi.org/10.1093/jmammal/gyz023
+279|entamoeba sp.|amoebic dysentery|infectious agent|amazon forest|unknown|unknown|https://doi.org/10.1163/14219980-20210701
+279|strongyloides sp.|strongyloidiasis|infectious agent|amazon forest|unknown|unknown|https://doi.org/10.1163/14219980-20210701
+283|haemagogus janthinomys|yellow fever virus|vector|brazilian amazon region|unknown|unknown|https://doi.org/10.3109/19401736.2015.1110793
+283|haemagogus janthinomys|mayaro virus|vector|brazilian amazon region|unknown|unknown|https://doi.org/10.3109/19401736.2015.1110793
+284|aedes serratus|dengue fever|vector|iquitos, peru|local|2001–2002|https://doi.org/10.1603/me14058
+284|coquillettidia venezuelensis|west nile virus|vector|iquitos, peru|local|2001–2002|https://doi.org/10.1603/me14058
+284|culex pedroi|zika virus|vector|iquitos, peru|local|2001–2002|https://doi.org/10.1603/me14058
+284|mansonia indubitans|chikungunya|vector|iquitos, peru|local|2001–2002|https://doi.org/10.1603/me14058
+284|mansonia titillans|yellow fever|vector|iquitos, peru|local|2001–2002|https://doi.org/10.1603/me14058
+284|psorophora albigenu|malaria|vector|iquitos, peru|local|2001–2002|https://doi.org/10.1603/me14058
+285|dasypus novemcinctus|leishmaniasis|reservoir host|southern amazon ‘arc of deforestation’|regional|unknown|https://doi.org/10.1371/journal.pntd.0012925
+285|leishmania|leishmaniasis|infectious agent|southern amazon ‘arc of deforestation’|regional|unknown|https://doi.org/10.1371/journal.pntd.0012925
+288|leptospira interrogans|leptospirosis|infectious agent|yasuní national park, ecuador|local|unknown|https://doi.org/10.1101/2023.09.19.558554
+288|leptospira noguchii|leptospirosis|infectious agent|yasuní national park, ecuador|local|unknown|https://doi.org/10.1101/2023.09.19.558554
+288|leptospira santarosai|leptospirosis|infectious agent|yasuní national park, ecuador|local|unknown|https://doi.org/10.1101/2023.09.19.558554
+289|giardia duodenalis|giardiasis|infectious agent|brazilian amazon biome|regional|unknown|https://doi.org/10.1016/j.onehlt.2024.100853
+290|an. benarrochi b|malaria|vector|andoas district, peru; pastaza, morona santiago, and orellana provinces, ecuador|regional|unknown|https://doi.org/10.1093/jme/tjaa293
+290|an. darlingi|malaria|vector|andoas district, peru; pastaza, morona santiago, and orellana provinces, ecuador|regional|unknown|https://doi.org/10.1093/jme/tjaa293
+292|nyssomyia antunesi|leishmania sp.|vector|belém, pará state, brazil|local|unknown|https://doi.org/10.1093/jme/tjac108
+295|leishmania braziliensis|cutaneous leishmaniasis|infectious agent|brazil|regional|1961–1995|""
+295|phlebotomus papatasi|cutaneous leishmaniasis|vector|brazil|regional|1961–1995|""
+300|anopheles darlingi|malaria|vector|ilha de santana, amapá, brazil|local|2019–2020|https://doi.org/10.1371/journal.pone.0288983
+300|anopheles nuneztovari|malaria|vector|ilha de santana, amapá, brazil|local|2019–2020|https://doi.org/10.1371/journal.pone.0288983
+300|anopheles triannulatus|malaria|vector|ilha de santana, amapá, brazil|local|2019–2020|https://doi.org/10.1371/journal.pone.0288983
+305|culex (culex) coronator|murutucu virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jme/tjaa252
+305|culex (melanoconian) gnomatos|murutucu virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jme/tjaa252
+305|culex (mel.) pedroi|murutucu virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jme/tjaa252
+305|culex (mel.) vomerifer|murutucu virus|vector|iquitos, peru|local|unknown|https://doi.org/10.1093/jme/tjaa252
+307|anopheles aquasalis|malaria|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1038/s41598-022-24058-z
+307|anopheles benarrochi|malaria|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1038/s41598-022-24058-z
+307|anopheles darlingi|malaria|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1038/s41598-022-24058-z
+307|anopheles nuneztovari|malaria|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1038/s41598-022-24058-z
+307|anopheles triannulatus|malaria|vector|brazilian amazon region|regional|unknown|https://doi.org/10.1038/s41598-022-24058-z
+307|plasmodium vivax|malaria|infectious agent|brazilian amazon region|regional|unknown|https://doi.org/10.1038/s41598-022-24058-z
+308|chlamydophila psittaci|psittacosis|infectious agent|pará state, brazil|local|unknown|https://doi.org/10.5433/1679-0359.2019v40n6p2603
+310|anopheles spp.|malaria|vector|northern amazon of peru|local|unknown|https://doi.org/10.3390/tropicalmed7110372
+313|rhodnius prolixus|chagas disease|vector|central america|regional|unknown|https://doi.org/10.1021/bk-2009-1014.ch005
+313|triatoma dimidiata|chagas disease|vector|central america|regional|unknown|https://doi.org/10.1021/bk-2009-1014.ch005
+314|nyssorhynchus jamariensis|malaria|vector|monte negro, rondônia state, brazil|local|unknown|https://doi.org/10.11646/zootaxa.5134.2.6
+315|mansonella ozzardi|mansonellosis|infectious agent|haiti|regional|1974–1984|https://doi.org/10.1017/s0022149x17000955
+318|an. (ker) bellator|malaria|vector|city of sao paulo|local|unknown|https://doi.org/10.4103/0972-9062.112538
+318|anopheles (kertezsia) cruzii|malaria|vector|city of sao paulo|local|unknown|https://doi.org/10.4103/0972-9062.112538
+318|plasmodium vivax|malaria|infectious agent|city of sao paulo|local|unknown|https://doi.org/10.4103/0972-9062.112538
+319|plasmodium falciparum|malaria|infectious agent|loreto, peru|regional|2000–2017|https://doi.org/10.3389/fmed.2021.721515
+319|plasmodium vivax|malaria|infectious agent|loreto, peru|regional|2000–2017|https://doi.org/10.3389/fmed.2021.721515
+322|trypanosoma evansi|canine trypanosomiasis|infectious agent|san martin, peru|local|unknown|https://doi.org/10.1016/j.vprsr.2023.100895
+325|rotavirus a|rotavirus infection|infectious agent|amazon region|regional|unknown|https://doi.org/10.20546/ijcmas.2019.811.252
+325|g12p[9]|rotavirus infection|infectious agent|amazon region|regional|unknown|https://doi.org/10.20546/ijcmas.2019.811.252
+325|g3p[3]|rotavirus infection|infectious agent|amazon region|regional|unknown|https://doi.org/10.20546/ijcmas.2019.811.252
+325|g4p[6]|rotavirus infection|infectious agent|amazon region|regional|unknown|https://doi.org/10.20546/ijcmas.2019.811.252
+327|evandromyia walker|leishmaniasis|vector|federal university of acre (ufac), western amazon|local|2020–2021|https://doi.org/10.1093/jme/tjac162
+327|leishmania spp.|leishmaniasis|infectious agent|federal university of acre (ufac), western amazon|local|2020–2021|https://doi.org/10.1093/jme/tjac162
+327|nyssomyia antunesi|leishmaniasis|vector|federal university of acre (ufac), western amazon|local|2020–2021|https://doi.org/10.1093/jme/tjac162
+329|plasmodium vivax|malaria|infectious agent|brazilian amazon and rio de janeiro atlantic forest|regional|unknown|https://doi.org/10.1371/journal.pone.0241426
+333|t. cruzi|chagas disease|infectious agent|amazon legal municipality|local|unknown|https://doi.org/10.1016/s2222-1808(12)60163-7
+333|triatoma williami|chagas disease|vector|amazon legal municipality|local|unknown|https://doi.org/10.1016/s2222-1808(12)60163-7
+334|plasmodium falciparum|malaria|infectious agent|atlantic forest of brazil|regional|unknown|https://doi.org/10.1101/141853
+334|plasmodium simium|malaria|reservoir host|atlantic forest of brazil|regional|unknown|https://doi.org/10.1101/141853
+334|plasmodium vivax|malaria|infectious agent|atlantic forest of brazil|regional|unknown|https://doi.org/10.1101/141853
+335|anopheles spp.|malaria|vector|yanomami reserve in the northwestern amazon brazil biome and pantanal biome in southwestern brazil|regional|unknown|https://doi.org/10.3390/genes12121995
+340|trypanosoma cruzi|chagas disease|infectious agent|brazil|regional|2050–2080|https://doi.org/10.1111/mve.12810
+343|haemagogus janthinomys|zoonotic arbovirus exchange|vector|near the city of manaus, brazil|local|unknown|https://doi.org/10.1016/j.isci.2024.111576
+345|penelope jacquacu|plasmodium spp.|other|peruvian amazonia|local|2008–2015|https://doi.org/10.1007/s10393-022-01612-9
+345|pipile cumanensis|plasmodium spp.|other|peruvian amazonia|local|2008–2015|https://doi.org/10.1007/s10393-022-01612-9
+345|tinamus major|plasmodium spp.|other|peruvian amazonia|local|2008–2015|https://doi.org/10.1007/s10393-022-01612-9
+346|panstrongylus|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.53941/dbgs.2025.100008
+346|rhodnius|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.53941/dbgs.2025.100008
+346|triatoma|chagas disease|vector|unknown|unknown|unknown|https://doi.org/10.53941/dbgs.2025.100008
+346|trypanosoma cruzi|chagas disease|infectious agent|unknown|unknown|unknown|https://doi.org/10.53941/dbgs.2025.100008
+347|leishmania|leishmaniasis|infectious agent|suruwaha indigenous land|local|2012–2013|https://doi.org/10.15468/28xvr7
+347|leishmania species|leishmaniasis|infectious agent|suruwaha indigenous land|local|2012–2013|https://doi.org/10.15468/28xvr7
+352|anopheles darlingi|malaria|vector|amazon region|unknown|unknown|https://doi.org/10.1007/s00436-023-08053-5
+352|plasmodium vivax|malaria|infectious agent|amazon region|unknown|unknown|https://doi.org/10.1007/s00436-023-08053-5
+353|lagochilascaris minor|lagochilascariasis|infectious agent|pará state, brazil|regional|unknown|https://doi.org/10.3390/tropicalmed10070177
+356|cichla monoculus|zoonoses|intermediate host|lower jari river, amapa and para states|local|2015|https://doi.org/10.18561/2179-5746/biotaamazonia.v9n4p50-52
+356|contracaecum sp.|zoonoses|infectious agent|lower jari river, amapa and para states|local|2015|https://doi.org/10.18561/2179-5746/biotaamazonia.v9n4p50-52
+356|eustrongylides sp.|zoonoses|infectious agent|lower jari river, amapa and para states|local|2015|https://doi.org/10.18561/2179-5746/biotaamazonia.v9n4p50-52
+356|serrasalmus rhombeus|zoonoses|intermediate host|lower jari river, amapa and para states|local|2015|https://doi.org/10.18561/2179-5746/biotaamazonia.v9n4p50-52
+364|aedes aegypti|dengue|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes aegypti|yellow fever|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes africanus|dengue|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes africanus|yellow fever|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes albopictus|dengue|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes albopictus|yellow fever|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes luteocephalus|dengue|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes luteocephalus|yellow fever|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes vittatus|dengue|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+364|aedes vittatus|yellow fever|vector|cameroon, central africa republic, northern democratic republic of congo|regional|2041–2080|https://doi.org/10.1101/2023.11.06.565841
+365|canis lupus familiaris|toxoplasmosis|reservoir host|peruvian amazon|local|unknown|https://doi.org/10.3390/tropicalmed9050098
+365|felis catus|toxoplasmosis|reservoir host|peruvian amazon|local|unknown|https://doi.org/10.3390/tropicalmed9050098
+365|rattus sp.|toxoplasmosis|intermediate host|peruvian amazon|local|unknown|https://doi.org/10.3390/tropicalmed9050098
+365|toxoplasma gondii|toxoplasmosis|infectious agent|peruvian amazon|local|unknown|https://doi.org/10.3390/tropicalmed9050098
+368|leishmania infantum|leishamaniasis|infectious agent|latin american countries in amazons|regional|unknown|https://doi.org/10.1007/s13160-015-0190-8
+369|anopheles darlingi|malaria|vector|state of rondônia, brazil|local|unknown|https://doi.org/10.4238/vol9-4gmr994
+380|anopheles albimanus|malaria|vector|ecuador|national|2017–2023|https://doi.org/10.1093/jme/tjaf015
+380|anopheles oswaldoi|malaria|vector|ecuador|national|2017–2023|https://doi.org/10.1093/jme/tjaf015
+381|trypanosoma cruzi|chagas disease|infectious agent|americas|regional|unknown|https://doi.org/10.1111/cla.12500
+382|ae. aegypti|dengue|vector|leticia, amazonas (colombia)|local|2011–2012|""
+382|ae. albopictus|dengue|vector|leticia, amazonas (colombia)|local|2011–2012|""
+385|anopheles darlingi|malaria|vector|amazon region|regional|unknown|https://doi.org/10.1021/acsinfecdis.7b00198
+385|plasmodium vivax|malaria|infectious agent|amazon region|regional|unknown|https://doi.org/10.1021/acsinfecdis.7b00198
+393|plasmodium falciparum|malaria|infectious agent|unknown|global|2020|https://doi.org/10.1097/inf.0000000000003746
+393|plasmodium knowlesi|malaria|infectious agent|unknown|global|2020|https://doi.org/10.1097/inf.0000000000003746
+393|plasmodium malariae|malaria|infectious agent|unknown|global|2020|https://doi.org/10.1097/inf.0000000000003746
+393|plasmodium ovale curtisi|malaria|infectious agent|unknown|global|2020|https://doi.org/10.1097/inf.0000000000003746
+393|plasmodium ovale wallikeri|malaria|infectious agent|unknown|global|2020|https://doi.org/10.1097/inf.0000000000003746
+393|plasmodium vivax|malaria|infectious agent|unknown|global|2020|https://doi.org/10.1097/inf.0000000000003746
+397|rhipicephalus microplus|human and animal pathogens|vector|northwestern colombian amazon|regional|unknown|https://doi.org/10.3390/vetsci11060244
+403|aedes species|mayaro virus|vector|unknown|unknown|unknown|https://doi.org/10.3390/ijms23084105
+403|mayaro virus|mayaro virus|infectious agent|unknown|unknown|unknown|https://doi.org/10.3390/ijms23084105
+408|plasmodium malariae|malaria|infectious agent|sao paulo state|local|unknown|https://doi.org/10.1590/s1678-9946202264018
+408|plasmodium vivax|malaria|infectious agent|sao paulo state|local|unknown|https://doi.org/10.1590/s1678-9946202264018
+418|histoplasma capsulatum|histoplasmosis|infectious agent|ecuador|local|2022–2023|https://doi.org/10.1371/journal.pntd.0013410
+424|myxobolus|myxosporidiosis|infectious agent|dantas river, brazil|local|unknown|https://doi.org/10.1590/s1984-29612019041
+426|leishmania spp.|leishmaniasis|infectious agent|unknown|global|unknown|https://doi.org/10.7554/elife.02851.019
+426|lutzomyia spp.|leishmaniasis|vector|unknown|global|unknown|https://doi.org/10.7554/elife.02851.019
+426|phlebotomus spp.|leishmaniasis|vector|unknown|global|unknown|https://doi.org/10.7554/elife.02851.019
+431|plasmodium simium|malaria|infectious agent|atlantic forest|regional|unknown|https://doi.org/10.1038/s41598-025-07900-y
+431|plasmodium vivax|malaria|infectious agent|atlantic forest|regional|unknown|https://doi.org/10.1038/s41598-025-07900-y
+436|biemphalaria straminea|schistosomiasis|intermediate host|manaus, state of amazonas, brazil|local|1965|https://doi.org/10.1590/s0037-86821968000200006
+439|ashaninka|covid-19|medicinal use|kotagiri, india|global|2020–2023|https://doi.org/10.1016/s2542-5196(23)00140-7
+439|batwa|covid-19|medicinal use|kotagiri, india|global|2020–2023|https://doi.org/10.1016/s2542-5196(23)00140-7
+439|shawi|measles|other|kotagiri, india|global|2020–2023|https://doi.org/10.1016/s2542-5196(23)00140-7
+439|shawi|covid-19|other|kotagiri, india|global|2020–2023|https://doi.org/10.1016/s2542-5196(23)00140-7
+439|xhosa|covid-19|other|kotagiri, india|global|2020–2023|https://doi.org/10.1016/s2542-5196(23)00140-7
+440|simulium oyapockense|onchocerciasis|vector|amazonas state, brazil|regional|unknown|https://doi.org/10.1111/mve.12606
+440|simulium oyapockense|mansonellosis|vector|amazonas state, brazil|regional|unknown|https://doi.org/10.1111/mve.12606
+463|brucella spp.|brucellosis|infectious agent|mid-solimões river region, brazilian amazon|regional|unknown|https://doi.org/10.3354/dao03667
+463|inia geoffrensis|leptospirosis|reservoir host|mid-solimões river region, brazilian amazon|regional|unknown|https://doi.org/10.3354/dao03667
+463|leptospira sp. serovar patoc|leptospirosis|infectious agent|mid-solimões river region, brazilian amazon|regional|unknown|https://doi.org/10.3354/dao03667
+463|leptospira spp.|leptospirosis|infectious agent|mid-solimões river region, brazilian amazon|regional|unknown|https://doi.org/10.3354/dao03667
+463|sotalia fluviatilis|leptospirosis|reservoir host|mid-solimões river region, brazilian amazon|regional|unknown|https://doi.org/10.3354/dao03667
+463|trichechus inunguis|leptospirosis|reservoir host|mid-solimões river region, brazilian amazon|regional|unknown|https://doi.org/10.3354/dao03667
+465|leishmania guyanensis|cutaneous leishmaniasis|infectious agent|manacapuru municipality, amazonas, brazil|local|unknown|https://doi.org/10.1186/s13071-025-06976-9
+465|nyssomyia umbratilis|cutaneous leishmaniasis|vector|manacapuru municipality, amazonas, brazil|local|unknown|https://doi.org/10.1186/s13071-025-06976-9
+478|plasmodium falciparum|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.56238/sevened2024.006-001
+478|plasmodium malariae|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.56238/sevened2024.006-001
+478|plasmodium ovale|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.56238/sevened2024.006-001
+478|plasmodium vivax|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.56238/sevened2024.006-001
+481|tunga penetrans|tungiasis|infectious agent|sinop, sorriso and lucas do rio verde, northern mt|local|2018–2020|https://doi.org/10.36560/14620211358
+486|haemagogus janthinomys|yellow fever virus (yfv)|vector|brazil|regional|unknown|https://doi.org/10.22533/at.ed.42724140512
+486|haemagogus janthinomys|dengue virus (denv)|vector|brazil|regional|unknown|https://doi.org/10.22533/at.ed.42724140512
+486|haemagogus janthinomys|mayaro|vector|brazil|regional|unknown|https://doi.org/10.22533/at.ed.42724140512
+487|culicidae|human infectious disease|vector|southern amazon|regional|unknown|https://doi.org/10.22541/au.161962034.46569351/v1
+487|dasypodidae|human infectious disease|reservoir host|southern amazon|regional|unknown|https://doi.org/10.22541/au.161962034.46569351/v1
+487|phlebotomus|human infectious disease|vector|southern amazon|regional|unknown|https://doi.org/10.22541/au.161962034.46569351/v1
+490|sporothrix brasiliensis|sporotrichosis|infectious agent|manaus (brazil)|local|unknown|https://doi.org/10.1111/tmi.14065
+492|aedes|dengue|vector|xapuri, acre state, brazil|local|2014–2015|https://doi.org/10.2987/17-6698.1
+492|anopheles|malaria|vector|xapuri, acre state, brazil|local|2014–2015|https://doi.org/10.2987/17-6698.1
+492|culex|dengue|vector|xapuri, acre state, brazil|local|2014–2015|https://doi.org/10.2987/17-6698.1
+492|mansonia|leishmaniases|vector|xapuri, acre state, brazil|local|2014–2015|https://doi.org/10.2987/17-6698.1
+493|plasmodium vivax|malaria|infectious agent|atlantic forest|regional|unknown|https://doi.org/10.3389/fcimb.2023.1169552
+498|aedes aegypti|dengue fever|vector|madeira river in the amazon region|regional|2013–2015|https://doi.org/10.34172/ijmpes.2023.01
+498|aedes albopictus|dengue fever|vector|madeira river in the amazon region|regional|2013–2015|https://doi.org/10.34172/ijmpes.2023.01
+498|anopheles gambiae|malaria|vector|madeira river in the amazon region|regional|2013–2015|https://doi.org/10.34172/ijmpes.2023.01
+498|dengue virus|dengue fever|infectious agent|madeira river in the amazon region|regional|2013–2015|https://doi.org/10.34172/ijmpes.2023.01
+498|plasmodium falciparum|malaria|infectious agent|madeira river in the amazon region|regional|2013–2015|https://doi.org/10.34172/ijmpes.2023.01
+498|plasmodium vivax|malaria|infectious agent|madeira river in the amazon region|regional|2013–2015|https://doi.org/10.34172/ijmpes.2023.01
+502|culex derivator|not specified|other|la isla amazon park, napo, ecuador|local|unknown|https://doi.org/10.15517/rev.biol.trop..v71i1.55184
+502|culex dunni|not specified|vector|la isla amazon park, napo, ecuador|local|unknown|https://doi.org/10.15517/rev.biol.trop..v71i1.55184
+502|psorophora ferox|not specified|vector|la isla amazon park, napo, ecuador|local|unknown|https://doi.org/10.15517/rev.biol.trop..v71i1.55184
+503|aedes aegypti|mayaro virus (mayv)|vector|brazil|regional|1980–2023|https://doi.org/10.1101/2022.11.20.517299
+503|culex quinquefasciatus|mayaro virus (mayv)|vector|brazil|regional|1980–2023|https://doi.org/10.1101/2022.11.20.517299
+503|haemagogus spp.|mayaro virus (mayv)|vector|brazil|regional|1980–2023|https://doi.org/10.1101/2022.11.20.517299
+506|anopheles darlingi|human malaria|vector|cruzeiro do sul, acre state, brazil|local|2012–2019|https://doi.org/10.5123/s2176-6223202201224
+510|leptospira borgpetersenii|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans australis|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans bataviae|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans canicola|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans hardjo|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans icterohaemorrhagiae|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans tarassovi|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+510|leptospira interrogans wolffi|leptospirosis|infectious agent|zamora chinchipe|local|unknown|https://doi.org/10.14202/vetworld.2024.2612-2618
+511|ascaris lumbricoides|ascariasis|infectious agent|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya megacephala|bacterial contamination|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|ascariasis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|amoebiasis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|giardiasis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|cryptosporidiosis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|cochliomyia macellaria|bacterial contamination|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|cryptosporidium sp.|cryptosporidiosis|infectious agent|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|entamoeba coli|amoebiasis|infectious agent|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|entamoeba dispar|amoebiasis|infectious agent|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|entamoeba histolytica|amoebiasis|infectious agent|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|giardia lamblia|giardiasis|infectious agent|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|ascariasis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|amoebiasis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|giardiasis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+511|chrysomya rufifacies|cryptosporidiosis|vector|fernando de noronha, brazil|local|2012|https://doi.org/10.1111/j.1948-7134.2014.12093.x
+514|leishmania infantum|leishmaniasis|infectious agent|marabá, pará, brazil|local|unknown|https://doi.org/10.1089/vbz.2021.0067
+528|anopheles darlingi|malaria|vector|brazil|laboratory|2019–2024|https://doi.org/10.21769/bioprotoc.5302
+528|anopheles deaneorum|malaria|vector|brazil|laboratory|2019–2024|https://doi.org/10.21769/bioprotoc.5302
+528|plasmodium vivax|malaria|infectious agent|brazil|laboratory|2019–2024|https://doi.org/10.21769/bioprotoc.5302
+544|rhodnius prolixus|chagas disease|vector|amazonia|unknown|unknown|https://doi.org/10.3389/fevo.2021.725504
+544|rhodnius robustus|chagas disease|vector|amazonia|unknown|unknown|https://doi.org/10.3389/fevo.2021.725504
+544|trypanosoma cruzi|chagas disease|infectious agent|amazonia|unknown|unknown|https://doi.org/10.3389/fevo.2021.725504
+546|culicoides insignis|bluetongue virus|vector|amazon basin, western foothills of the andes, western highlands of the andes|regional|2010–2012|""
+546|culicoides paraensis|oropuche fever virus|vector|amazon basin, western foothills of the andes, western highlands of the andes|regional|2010–2012|""
+553|plasmodium falciparum|malaria|infectious agent|suriname|local|2009|https://doi.org/10.1016/j.ijid.2010.02.586
+553|plasmodium malariae|malaria|infectious agent|suriname|local|2009|https://doi.org/10.1016/j.ijid.2010.02.586
+553|plasmodium vivax|malaria|infectious agent|suriname|local|2009|https://doi.org/10.1016/j.ijid.2010.02.586
+558|amblyomma geayi|spotted fever|vector|humaita forest reserve, acre|local|unknown|https://doi.org/10.1016/j.ttbdis.2023.102182
+558|amblyomma longirostre|spotted fever|vector|humaita forest reserve, acre|local|unknown|https://doi.org/10.1016/j.ttbdis.2023.102182
+558|rickettsia amblyommatis|spotted fever|infectious agent|humaita forest reserve, acre|local|unknown|https://doi.org/10.1016/j.ttbdis.2023.102182
+558|rickettsia parkeri|spotted fever|infectious agent|humaita forest reserve, acre|local|unknown|https://doi.org/10.1016/j.ttbdis.2023.102182
+558|rickettsia rickettsii|spotted fever|infectious agent|humaita forest reserve, acre|local|unknown|https://doi.org/10.1016/j.ttbdis.2023.102182
+558|amblyomma sp.|spotted fever|vector|humaita forest reserve, acre|local|unknown|https://doi.org/10.1016/j.ttbdis.2023.102182
+582|aedes aegypti|dengue|vector|ecuador|national|2000–2019|https://doi.org/10.1101/2023.05.25.23290519
+582|aedes aegypti|chikungunya|vector|ecuador|national|2000–2019|https://doi.org/10.1101/2023.05.25.23290519
+582|aedes aegypti|zika|vector|ecuador|national|2000–2019|https://doi.org/10.1101/2023.05.25.23290519
+589|anopheles darlingi|malaria|vector|unknown|laboratory|unknown|https://doi.org/10.1093/jme/tjaa173
+591|anopheles aquasalis|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|anopheles bellator|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|anopheles braziliensis|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|anopheles cruzii|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|anopheles darlingi|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|anopheles marajoara|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|anopheles triannulatus|malaria|vector|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+591|plasmodium|malaria|infectious agent|brazil|regional|unknown|https://doi.org/10.1093/jme/tjz090
+593|aedes aegypti|mosquito-borne diseases|vector|amazon region|unknown|unknown|https://doi.org/10.1186/s13568-025-01850-4
+593|bacillus thuringiensis|mosquito-borne diseases|biological control|amazon region|unknown|unknown|https://doi.org/10.1186/s13568-025-01850-4
+596|leptospira hardjo|leptospirosis|infectious agent|marajó island, state of pará, brazil|local|unknown|https://doi.org/10.3390/ruminants3030017
+596|leptospira spp.|leptospirosis|infectious agent|marajó island, state of pará, brazil|local|unknown|https://doi.org/10.3390/ruminants3030017
+597|mansonella ozzardi|microfilaremia|infectious agent|colombia|regional|unknown|https://doi.org/10.1093/cid/cis119
+597|culicoides|microfilaremia|vector|colombia|regional|unknown|https://doi.org/10.1093/cid/cis119
+597|simulium|microfilaremia|vector|colombia|regional|unknown|https://doi.org/10.1093/cid/cis119
+624|euryoryzomys macconnelli|bartonella spp.|reservoir host|acre|regional|2013–2016|""
+624|hylaeamys yunganus|hantavirus|reservoir host|acre|regional|2013–2016|""
+624|hylaeamys yunganus|bartonella spp.|reservoir host|acre|regional|2013–2016|""
+624|marmosops ocellatus|bartonella spp.|reservoir host|acre|regional|2013–2016|""
+624|neacomys spinosus|hantavirus|reservoir host|acre|regional|2013–2016|""
+624|neacomys spinosus|bartonella spp.|reservoir host|acre|regional|2013–2016|""
+624|proechimys aff. gardneri|bartonella spp.|reservoir host|acre|regional|2013–2016|""
+625|trypanosoma cruzi|trypanosomiasis|infectious agent|brazil|regional|unknown|""
+625|tci|trypanosomiasis|infectious agent|brazil|regional|unknown|""
+625|tcii|trypanosomiasis|infectious agent|brazil|regional|unknown|""
+625|tcii|trypanosomiasis|infectious agent|brazil|regional|unknown|""
+625|tcv|trypanosomiasis|infectious agent|brazil|regional|unknown|""
+625|tcvi|trypanosomiasis|infectious agent|brazil|regional|unknown|""
+640|plasmodium|malaria|infectious agent|chile|regional|2020|https://doi.org/10.7818/ecos.1974
+646|anopheles darlingi|malaria|vector|amazon|unknown|unknown|""
+663|aedes scapularis|human infectious disease|vector|southeastern florida|regional|2000–2010|https://doi.org/10.20944/preprints202012.0502.v1
+673|lepiselaga crassipes|trypanosomiasis|vector|brazilian and colombian amazon regions, extending to areas in venezuela, peru, ecuador, and argentina|regional|2050–2070|https://doi.org/10.4257/oeco.2017.2101.03
+706|rhodnius prolixus|chagas disease|vector|brazil|regional|unknown|""
+706|rhodnius robustus|chagas disease|vector|brazil|regional|unknown|""
+706|t. brasiliensis|chagas disease|vector|brazil|regional|unknown|""
+706|trypanosoma cruzi|chagas disease|infectious agent|brazil|regional|unknown|""
+720|mycobacterium bovis|bovine tuberculosis (tb)|infectious agent|tailândia city, pa, brazil|local|unknown|https://doi.org/10.12834/vetit.2157.19159.3
+768|saimiri sciureus|zoonotic disease|reservoir host|konashen amerindian protected area|local|2015–2019|https://doi.org/10.1002/ajp.23622
+770|anopheles albitarsis e|malaria|vector|boa vista, state of roraima, brazil|local|2001–2002|https://doi.org/10.1590/s0074-02762006000200008
+770|anopheles darlingi|malaria|vector|boa vista, state of roraima, brazil|local|2001–2002|https://doi.org/10.1590/s0074-02762006000200008
+786|acnistus arborescens|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|aristolochia esperanzae|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|aristolochia triangularis|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|corchorus hirtus|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|leonotis nepetifolia|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|leonurus japonicus|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|leucas martinicensis|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|luffa acutangula|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|momordica charantia|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|psychotria laciniata|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|scoparia dulcis|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|senna occidentalis|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+786|siparuna guianensis|malaria|medicinal use|mato grosso, brazil|local|2005|https://doi.org/10.1055/s-0033-1351937
+807|anopheles darlingi|malaria|vector|iquitos, loreto department, peru|local|unknown|https://doi.org/10.4269/ajtmh.13-0708
+807|plasmodium vivax|malaria|infectious agent|iquitos, loreto department, peru|local|unknown|https://doi.org/10.4269/ajtmh.13-0708
+810|aedes aegypti|dengue|vector|limoncocha|local|unknown|https://doi.org/10.51847/fnkjjar
+810|aedes aegypti|chikungunya|vector|limoncocha|local|unknown|https://doi.org/10.51847/fnkjjar
+840|pan troglodytes|zoonotic malaria|reservoir host|unknown|global|2002–2016|https://doi.org/10.1016/j.oneear.2019.09.004
+848|leishmania braziliensis|cutaneous leishmaniasis|infectious agent|french guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0007629
+848|leishmania panamensis|cutaneous leishmaniasis|infectious agent|french guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0007629
+988|haemagogus janthinomys|zika virus|vector|manaus, brazil|local|unknown|https://doi.org/10.1038/s41598-020-75178-3
+988|sabethes chloropterus|zika virus|vector|manaus, brazil|local|unknown|https://doi.org/10.1038/s41598-020-75178-3
+989|plasmodium falciparum|human malaria|infectious agent|brazilian amazon region|local|unknown|https://doi.org/10.3389/fimmu.2024.1372584
+989|plasmodium vivax|human malaria|infectious agent|brazilian amazon region|local|unknown|https://doi.org/10.3389/fimmu.2024.1372584
+1001|amblyomma cajennense|rocky mountain spotted fever|vector|colombia|regional|unknown|https://doi.org/10.1111/mve.12804
+1001|amblyomma patinoi|rocky mountain spotted fever|vector|colombia|regional|unknown|https://doi.org/10.1111/mve.12804
+1001|amblyomma patinoi|rocky mountain spotted fever|vector|colombia|regional|unknown|https://doi.org/10.1111/mve.12804
+1289|leishmania infantum|leishmaniasis|infectious agent|gurupi biological reserve, maranhão state, brazil|local|2022–2023|https://doi.org/10.1093/jme/tjae108
+1289|nyssomyia antunesi|leishmaniasis|vector|gurupi biological reserve, maranhão state, brazil|local|2022–2023|https://doi.org/10.1093/jme/tjae108
+1289|psychodopygus chagasi|leishmaniasis|vector|gurupi biological reserve, maranhão state, brazil|local|2022–2023|https://doi.org/10.1093/jme/tjae108
+1289|psychodopygus davisi|leishmaniasis|vector|gurupi biological reserve, maranhão state, brazil|local|2022–2023|https://doi.org/10.1093/jme/tjae108
+1289|psychodopygus (mangabeira, 1941) chagasi series barretto, 1962|leishmaniasis|vector|gurupi biological reserve, maranhão state, brazil|local|2022–2023|https://doi.org/10.1093/jme/tjae108
+1423|anopheles mediopunctatus|plasmodium brasilianum|vector|balbina and samuel, brazilian amazon|local|unknown|https://doi.org/10.1590/s0074-02761996000600005
+1423|anopheles nuneztovari|plasmodium brasilianum|vector|balbina and samuel, brazilian amazon|local|unknown|https://doi.org/10.1590/s0074-02761996000600005
+1423|anopheles oswaldoi|plasmodium brasilianum|vector|balbina and samuel, brazilian amazon|local|unknown|https://doi.org/10.1590/s0074-02761996000600005
+1423|anopheles shannoni|plasmodium brasilianum|vector|balbina and samuel, brazilian amazon|local|unknown|https://doi.org/10.1590/s0074-02761996000600005
+1423|anopheles triannulatus|plasmodium brasilianum|vector|balbina and samuel, brazilian amazon|local|unknown|https://doi.org/10.1590/s0074-02761996000600005
+1541|anopheles darlingi|malaria|vector|amazonian peru|local|2013–2015|https://doi.org/10.1371/journal.pntd.0005337
+1541|plasmodium vivax|malaria|infectious agent|amazonian peru|local|2013–2015|https://doi.org/10.1371/journal.pntd.0005337
+1542|ny. darlingi|malaria|vector|peruvian amazon|local|2017–2024|https://doi.org/10.1101/2024.11.26.24318000
+1542|plasmodium falciparum|malaria|infectious agent|peruvian amazon|local|2017–2024|https://doi.org/10.1101/2024.11.26.24318000
+1542|plasmodium vivax|malaria|infectious agent|peruvian amazon|local|2017–2024|https://doi.org/10.1101/2024.11.26.24318000
+1638|onchocerca volvulus|onchocerciasis|infectious agent|brazil, amazonas and roraima|regional|unknown|https://doi.org/10.1590/s0102-311x2002000500009
+1646|anopheles oswaldoi|malaria|vector|putumayo, colombia|regional|unknown|https://doi.org/10.1590/s0074-02762006000600007
+1646|anopheles rangeli|malaria|vector|putumayo, colombia|regional|unknown|https://doi.org/10.1590/s0074-02762006000600007
+1646|plasmodium vivax|malaria|infectious agent|putumayo, colombia|regional|unknown|https://doi.org/10.1590/s0074-02762006000600007
+1740|haemagogus tropicalis|oropouche-like viruses|vector|rio pardo, amazonas, brazil|local|unknown|https://doi.org/10.1371/journal.pone.0246932
+1740|ochlerotatus serratus|oropouche-like viruses|vector|rio pardo, amazonas, brazil|local|unknown|https://doi.org/10.1371/journal.pone.0246932
+1740|psorophora cingulata|oropouche-like viruses|vector|rio pardo, amazonas, brazil|local|unknown|https://doi.org/10.1371/journal.pone.0246932
+2045|sars-cov-2|covid-19|infectious agent|wuhan market, china|global|2020|https://doi.org/10.1111/lapo.12211
+2105|leishmania (leishmania) amazonensis|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2105|leishmania (viannia) braziliensis|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2105|leishmania (viannia) guyanensis|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2105|leishmania (viannia) lainsoni|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2105|leishmania (viannia) lindenbergi|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2105|leishmania (viannia) naiffi|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2105|leishmania (viannia) shawi|american cutaneous leishmaniasis|infectious agent|pernambuco, northeastern brazil|local|unknown|https://doi.org/10.1590/s0037-86822012005000006
+2270|leishmania|leishmaniasis|infectious agent|unknown|unknown|unknown|https://doi.org/10.1590/s0037-86821985000100011
+2495|trypanosoma cruzi|chagas disease|infectious agent|ecuador|national|2003–2014|https://doi.org/10.1371/journal.pone.0158145
+2495|triatoma dimidiata|chagas disease|vector|ecuador|national|2003–2014|https://doi.org/10.1371/journal.pone.0158145
+2495|rhodnius ecuadoriensis|chagas disease|vector|ecuador|national|2003–2014|https://doi.org/10.1371/journal.pone.0158145
+2495|rhodnius pictipes|chagas disease|vector|ecuador|national|2003–2014|https://doi.org/10.1371/journal.pone.0158145
+2495|rhodnius robustus|chagas disease|vector|ecuador|national|2003–2014|https://doi.org/10.1371/journal.pone.0158145
+2495|panstrongylus howardi|chagas disease|vector|ecuador|national|2003–2014|https://doi.org/10.1371/journal.pone.0158145
+2509|bichromomyia flaviscutellata|leishmaniasis|vector|bela vista, state of mato grosso do sul, brazil|local|2004–2006|https://doi.org/10.1590/s0037-86822010000500003
+2509|evandromyia bourrouli|leishmaniasis|vector|bela vista, state of mato grosso do sul, brazil|local|2004–2006|https://doi.org/10.1590/s0037-86822010000500003
+2509|leishmania (leishmania) amazonensis|leishmaniasis|infectious agent|bela vista, state of mato grosso do sul, brazil|local|2004–2006|https://doi.org/10.1590/s0037-86822010000500003
+2588|tobacco streak virus|tobacco streak virus|infectious agent|ontario county, new york|local|2022|https://doi.org/10.1094/pdis-09-23-1810-pdn
+2608|nyssorhynchus darlingi|malaria|vector|peri-iquitos region of amazonian peru|local|unknown|https://doi.org/10.1371/journal.pntd.0007412
+2608|nyssorhynchus rangeli|malaria|vector|peri-iquitos region of amazonian peru|local|unknown|https://doi.org/10.1371/journal.pntd.0007412
+2608|nyssorhynchus triannulatus|malaria|vector|peri-iquitos region of amazonian peru|local|unknown|https://doi.org/10.1371/journal.pntd.0007412
+2853|anopheles darlingi|plasmodium|vector|padauiri river, middle negro river, state of amazonas, brazil|local|2003–2004|https://doi.org/10.1590/s0074-02762009000100002
+2853|culex (ae.) clastrieri|arboviruses|vector|padauiri river, middle negro river, state of amazonas, brazil|local|2003–2004|https://doi.org/10.1590/s0074-02762009000100002
+2853|culex (mel.) eastor|arboviruses|vector|padauiri river, middle negro river, state of amazonas, brazil|local|2003–2004|https://doi.org/10.1590/s0074-02762009000100002
+2853|culex. (mel.) vomerifer|arboviruses|vector|padauiri river, middle negro river, state of amazonas, brazil|local|2003–2004|https://doi.org/10.1590/s0074-02762009000100002
+2875|nyssomia antunesi|american cutaneous leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1371/journal.pntd.0010749
+2875|psychodopygus amazonensis|american cutaneous leishmaniasis|vector|unknown|unknown|unknown|https://doi.org/10.1371/journal.pntd.0010749
+3009|trypanosoma cruzi|acute chagas disease|infectious agent|acre, seringal miraflores|local|unknown|https://doi.org/10.3390/parasitologia2040029
+3009|trypanosoma rangeli|acute chagas disease|other|acre, seringal miraflores|local|unknown|https://doi.org/10.3390/parasitologia2040029
+3046|leishmania (leishmania) amazonensis|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (leishmania) infantum|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (leishmania) mexicana|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (viannia) braziliensis|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (viannia) colombiensis|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (viannia) equatorensis|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (viannia) guyanensis|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (viannia) lainsoni|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3046|leishmania (viannia) panamensis|leishmaniasis|infectious agent|colombia|national|1985–2017|https://doi.org/10.7705/biomedica.v39i3.4312
+3187|l. (l.) amazonensis|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (l.) mexicana|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) braziliensis|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) guyanensis|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) lindenbergi|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) naiffi|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) panamensis|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) shawi|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3187|l. (v.) utingensis|cutaneous leishmaniasis|infectious agent|state of roraima, brazil|regional|2016–2018|https://doi.org/10.1186/s13071-020-04539-8
+3240|lutzomyia|leishmaniasis|vector|french guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0007031
+3240|phlebotomus|leishmaniasis|vector|french guiana|regional|unknown|https://doi.org/10.1371/journal.pntd.0007031
+3348|bichromomyia flaviscutellata|cutaneous leishmaniasis|vector|rio branco|local|unknown|https://doi.org/10.1186/1756-3305-7-360
+3348|nyssomyia antunesi|cutaneous leishmaniasis|vector|rio branco|local|unknown|https://doi.org/10.1186/1756-3305-7-360
+3348|nyssomyia whitmani|cutaneous leishmaniasis|vector|rio branco|local|unknown|https://doi.org/10.1186/1756-3305-7-360
+3348|trichophoromyia auraensis|cutaneous leishmaniasis|vector|rio branco|local|unknown|https://doi.org/10.1186/1756-3305-7-360
+3456|aedes aegypti|dengue|vector|amazonian environments|unknown|unknown|https://doi.org/10.3390/tropicalmed6020104
+3456|aedes aegypti|chikungunya|vector|amazonian environments|unknown|unknown|https://doi.org/10.3390/tropicalmed6020104
+3456|aedes aegypti|zika|vector|amazonian environments|unknown|unknown|https://doi.org/10.3390/tropicalmed6020104
+3491|leishmania amazonensis|leishmaniasis|infectious agent|unknown|unknown|unknown|https://doi.org/10.1590/s1984-29612016071
+3491|leishmania infantum|leishmaniasis|infectious agent|unknown|unknown|unknown|https://doi.org/10.1590/s1984-29612016071
+3523|aedes aegypti|dengue virus|vector|unknown|unknown|unknown|https://doi.org/10.1590/1983-084x/13_052
+3657|didelphis marsupialis|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|didelphis marsupialis|ilheus virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|didelphis marsupialis|catu virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|nectomys rattus|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|nectomys rattus|ilheus virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|nectomys rattus|catu virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|philander opossum|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|philander opossum|ilheus virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3657|philander opossum|catu virus|reservoir host|amazon|unknown|unknown|https://doi.org/10.6084/m9.figshare.14305399
+3836|giardia duodenalis|giardiasis|infectious agent|brazilian amazon|regional|unknown|https://doi.org/10.21203/rs.3.rs-2883298/v1
+3836|bradypus tridactylus|giardiasis|reservoir host|brazilian amazon|regional|unknown|https://doi.org/10.21203/rs.3.rs-2883298/v1
+3861|amblyomma cajennense|spotted fever|vector|brazilian amazon|unknown|unknown|https://doi.org/10.5772/intechopen.94862
+3950|eratyrus mucronatus|chagas disease|vector|brazilian legal amazon|regional|unknown|https://doi.org/10.5216/rpt.v54i2.81722
+3950|panstrongylus geniculatus|chagas disease|vector|brazilian legal amazon|regional|unknown|https://doi.org/10.5216/rpt.v54i2.81722
+3950|rhodnius montenegrensis|chagas disease|vector|brazilian legal amazon|regional|unknown|https://doi.org/10.5216/rpt.v54i2.81722
+3950|rhodnius pictipes|chagas disease|vector|brazilian legal amazon|regional|unknown|https://doi.org/10.5216/rpt.v54i2.81722
+3950|rhodnius robustus|chagas disease|vector|brazilian legal amazon|regional|unknown|https://doi.org/10.5216/rpt.v54i2.81722
+3950|trypanosoma cruzi|chagas disease|infectious agent|brazilian legal amazon|regional|unknown|https://doi.org/10.5216/rpt.v54i2.81722
+4107|aedes albopictus|dengue|vector|brazil|regional|unknown|""
+4107|aedes albopictus|chikungunya|vector|brazil|regional|unknown|""
+4107|aedes albopictus|zika|vector|brazil|regional|unknown|""
+4156|plasmodium falciparum|malaria|infectious agent|brazil and peru|regional|unknown|https://doi.org/10.6084/m9.figshare.c.3715219.v1
+4156|plasmodium vivax|malaria|infectious agent|brazil and peru|regional|unknown|https://doi.org/10.6084/m9.figshare.c.3715219.v1
+4170|leishmania (leishmania) amazonensis|leishmaniasis|infectious agent|corumbá, mato grosso do sul, brazil|local|2012–2014|https://doi.org/10.1590/0074-02760150317
+4170|lutzomyia cruzi|leishmaniasis|vector|corumbá, mato grosso do sul, brazil|local|2012–2014|https://doi.org/10.1590/0074-02760150317
+4187|plasmodium brasilianum|quartan malaria|reservoir host|venezuelan amazon|local|2015|https://doi.org/10.1016/j.ebiom.2015.08.035
+4187|plasmodium falciparum|malaria|infectious agent|venezuelan amazon|local|2015|https://doi.org/10.1016/j.ebiom.2015.08.035
+4187|plasmodium knowlesi|zoonotic infections in humans|infectious agent|venezuelan amazon|local|2015|https://doi.org/10.1016/j.ebiom.2015.08.035
+4187|plasmodium malariae|malaria|infectious agent|venezuelan amazon|local|2015|https://doi.org/10.1016/j.ebiom.2015.08.035
+4257|lagochilascaris minor|lagochilascariasis|infectious agent|southeastern region of the state of pará|regional|unknown|https://doi.org/10.20944/preprints202503.2216.v1
+4272|leishmania (l.) amazonensis|leishmaniasis|infectious agent|rj state|regional|unknown|https://doi.org/10.1371/journal.pntd.0007748
+4272|leishmania (v.) braziliensis|leishmaniasis|infectious agent|rj state|regional|unknown|https://doi.org/10.1371/journal.pntd.0007748
+4272|leishmania (v.) guyanensis|leishmaniasis|infectious agent|rj state|regional|unknown|https://doi.org/10.1371/journal.pntd.0007748
+4272|leishmania (v.) naiffi|leishmaniasis|infectious agent|rj state|regional|unknown|https://doi.org/10.1371/journal.pntd.0007748
+4308|didelphis marsupialis|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|""
+4308|didelphis marsupialis|ilheus virus|reservoir host|amazon|unknown|unknown|""
+4308|didelphis marsupialis|catu virus|reservoir host|amazon|unknown|unknown|""
+4308|nectomys rattus|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|""
+4308|nectomys rattus|ilheus virus|reservoir host|amazon|unknown|unknown|""
+4308|nectomys rattus|catu virus|reservoir host|amazon|unknown|unknown|""
+4308|philander opossum|eastern equine encephalitis virus|reservoir host|amazon|unknown|unknown|""
+4308|philander opossum|ilheus virus|reservoir host|amazon|unknown|unknown|""
+4308|philander opossum|catu virus|reservoir host|amazon|unknown|unknown|""
+4460|anopheles darlingi|malaria|vector|acre, brazil|local|unknown|https://doi.org/10.1101/358556
+4534|anisakis sp.|anisakiasis|infectious agent|central amazonia, brazil|local|2008|https://doi.org/10.6084/m9.figshare.9275939
+4544|nyssomyia anduzei|american tegumentary leishmaniasis|vector|amapá state, brazil|regional|2019–2020|https://doi.org/10.1590/1676-0611-bn-2021-1263
+4544|nyssomyia umbratilis|american tegumentary leishmaniasis|vector|amapá state, brazil|regional|2019–2020|https://doi.org/10.1590/1676-0611-bn-2021-1263
+4544|psychodopygus davisi|american tegumentary leishmaniasis|vector|amapá state, brazil|regional|2019–2020|https://doi.org/10.1590/1676-0611-bn-2021-1263
+4544|trichophoromyia ubiquitalis|american tegumentary leishmaniasis|vector|amapá state, brazil|regional|2019–2020|https://doi.org/10.1590/1676-0611-bn-2021-1263
+4544|trichopygomyia trichopyga|american tegumentary leishmaniasis|vector|amapá state, brazil|regional|2019–2020|https://doi.org/10.1590/1676-0611-bn-2021-1263
+4546|anisakis sp.|anisakiasis|infectious agent|central amazonia, brazil|local|2008|https://doi.org/10.6084/m9.figshare.9871550
+4608|l. (v.) braziliensis|leishmaniasis|vector|madre de dios|regional|unknown|https://doi.org/10.1371/journal.pntd.0006029
+4608|l. (v.) guyanensis|leishmaniasis|vector|madre de dios|regional|unknown|https://doi.org/10.1371/journal.pntd.0006029
+4678|lacazia loboi|lobomycosis|infectious agent|mamiraua reserve in the central amazon region of brazil|regional|unknown|https://doi.org/10.3201/eid1504.080955
+4678|tursiops truncatus|lobomycosis|reservoir host|mamiraua reserve in the central amazon region of brazil|regional|unknown|https://doi.org/10.3201/eid1504.080955
+4678|sotalia guianensis|lobomycosis|reservoir host|mamiraua reserve in the central amazon region of brazil|regional|unknown|https://doi.org/10.3201/eid1504.080955
+4684|leptospira sp. var10|leptospirosis|infectious agent|peru|regional|2003|https://doi.org/10.3201/eid1305.060027
+4684|leptospira spp.|leptospirosis|infectious agent|peru|regional|2003|https://doi.org/10.3201/eid1305.060027
+4684|tayassu tajacu|leptospirosis|reservoir host|peru|regional|2003|https://doi.org/10.3201/eid1305.060027
+4686|hylaemys sp.|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|hylaemys sp.|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|marmosa demerarae|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|marmosa demerarae|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|metachirus nudicaudatus|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|metachirus nudicaudatus|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|monodelphis brevicaudata|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|monodelphis brevicaudata|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|neacomys paracou|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|neacomys paracou|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|philander opossum|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|philander opossum|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|rattus rattus|american tegumentary leishmaniasis (atl)|reservoir host|presidente figueiredo/am|local|unknown|""
+4686|rattus rattus|chagas disease (cd)|reservoir host|presidente figueiredo/am|local|unknown|""
+4787|anopheles albitarsis|malaria|vector|roraima state|regional|2003–2004|https://doi.org/10.1590/s1519-566x2010000600029
+4787|anopheles darlingi|malaria|vector|roraima state|regional|2003–2004|https://doi.org/10.1590/s1519-566x2010000600029
+4826|aedes aegypti|yellow fever virus|vector|amazon|regional|unknown|https://doi.org/10.1098/rsbl.2025.0555
+4826|aedes albopictus|yellow fever virus|vector|amazon|regional|unknown|https://doi.org/10.1098/rsbl.2025.0555
+4847|aedes aegypti|yellow fever virus|vector|amazon|regional|unknown|https://doi.org/10.6084/m9.figshare.c.8154266.v1
+4847|aedes albopictus|yellow fever virus|vector|amazon|regional|unknown|https://doi.org/10.6084/m9.figshare.c.8154266.v1
+4864|aedes aegypti|yellow fever virus|vector|amazon|regional|unknown|https://doi.org/10.6084/m9.figshare.c.8154266
+4864|aedes albopictus|yellow fever virus|vector|amazon|regional|unknown|https://doi.org/10.6084/m9.figshare.c.8154266
+1t|cuniculus paca|polycystic echinococcosis|intermediate host|pan-amazonia|regional|unknown|https://doi.org/10.1073/pnas.2302661120
+1t|echinococcus vogeli|polycystic echinococcosis|infectious agent|pan-amazonia|regional|unknown|https://doi.org/10.1073/pnas.2302661120
+2t|platonia insignis|leishmaniasis|medicinal use|unknown|laboratory|unknown|https://doi.org/10.1080/14786419.2012.695363
+3t|annona squamosa|malaria|medicinal use|unknown|laboratory|unknown|https://doi.org/10.1080/10412905.2014.982876
+3t|annona vepretorum|malaria|medicinal use|unknown|laboratory|unknown|https://doi.org/10.1080/10412905.2014.982876
+3t|trypanosoma cruzi|chagas disease|infectious agent|unknown|laboratory|unknown|https://doi.org/10.1080/10412905.2014.982876
+4t|amblyomma cajennense|infection by rickettsia amblyommatis|vector|santa ines municipality, maranheo state, brazil|local|2021–2023|https://doi.org/10.1186/s13071-023-05978-9
+4t|rickettsia amblyommatis|infection by rickettsia amblyommatis|infectious agent|santa ines municipality, maranheo state, brazil|local|2021–2023|https://doi.org/10.1186/s13071-023-05978-9
+5t|aedes aegypti|dengue|vector|manaus, amazonas, brazil|local|unknown|https://doi.org/10.3390/v14010020
+5t|dengue virus serotype 1|dengue|infectious agent|manaus, amazonas, brazil|local|unknown|https://doi.org/10.3390/v14010020
+5t|dengue virus serotype 2|dengue|infectious agent|manaus, amazonas, brazil|local|unknown|https://doi.org/10.3390/v14010020
+5t|dengue virus serotype 3|dengue|infectious agent|manaus, amazonas, brazil|local|unknown|https://doi.org/10.3390/v14010020
+5t|dengue virus serotype 4|dengue|infectious agent|manaus, amazonas, brazil|local|unknown|https://doi.org/10.3390/v14010020
+6t|nyssorhynchus benarrochi b|malaria|vector|amazon brazilian states|regional|unknown|https://doi.org/10.1186/s13071-021-04725-2
+6t|nyssorhynchus darlingi|malaria|vector|amazon brazilian states|regional|unknown|https://doi.org/10.1186/s13071-021-04725-2
+6t|nyssorhynchus konderi b|malaria|vector|amazon brazilian states|regional|unknown|https://doi.org/10.1186/s13071-021-04725-2
+6t|nyssorhynchus rangeli|malaria|vector|amazon brazilian states|regional|unknown|https://doi.org/10.1186/s13071-021-04725-2
+7t|leishmania infantum|american visceral leishmaniasis|infectious agent|brazil|regional|unknown|https://doi.org/10.1590/s0074-02762005000800001
+7t|lutzomyia longipalpis|american visceral leishmaniasis|vector|brazil|regional|unknown|https://doi.org/10.1590/s0074-02762005000800001
+8t|trypanosoma cruzi|chagas disease|infectious agent|amazonia|unknown|unknown|https://doi.org/10.1590/s0074-02762007005000098
+10t|culex|vector diseases|vector|university of guyana, turkeyen campus|local|2018|https://doi.org/10.13057/nusbiosci/n130205
+10t|coenagrionidae|vector diseases|biological control|university of guyana, turkeyen campus|local|2018|https://doi.org/10.13057/nusbiosci/n130205
+10t|libellulidae|vector diseases|biological control|university of guyana, turkeyen campus|local|2018|https://doi.org/10.13057/nusbiosci/n130205
+11t|aedes aegypti|dengue|vector|boa vista, roraima, brazil|local|2003–2004|https://doi.org/10.1590/s1519-566x2007000500025
+11t|toxorhynchites guadeloupensis|dengue|biological control|boa vista, roraima, brazil|local|2003–2004|https://doi.org/10.1590/s1519-566x2007000500025
+12t|anopheles darlingi|malaria|vector|saint-georges de l'oyapock|local|2012–2014|https://doi.org/10.1371/journal.pone.0253129
+15t|haemagogus janthinomys|yellow fever virus|vector|south america|regional|unknown|https://doi.org/10.1371/journal.pntd.0010564
+15t|haemagogus janthinomys|mayaro virus|vector|south america|regional|unknown|https://doi.org/10.1371/journal.pntd.0010564
+17t|bradypus tridactylus|q fever|reservoir host|cayenne, french guiana|local|2013|https://doi.org/10.1016/j.cimid.2017.12.004
+17t|c. burnetii|q fever|infectious agent|cayenne, french guiana|local|2013|https://doi.org/10.1016/j.cimid.2017.12.004
+18t|carollia perspicillata|hantavirus|reservoir host|maranheo, brazil|local|unknown|https://doi.org/10.1038/s41598-024-56808-6
+18t|buritiense|hantavirus|infectious agent|maranheo, brazil|local|unknown|https://doi.org/10.1038/s41598-024-56808-6
+19t|mycobacterium leprae|leprosy|infectious agent|belterra, parac state, brazil|local|unknown|https://doi.org/10.1371/journal.pntd.0006532
+19t|dasypus novemcinctus|leprosy|reservoir host|belterra, parac state, brazil|local|unknown|https://doi.org/10.1371/journal.pntd.0006532
+21t|abuta grandifolia|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|aristolochia trilobata|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|aristolochia trilobata|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|baccharis trimera|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|baccharis trimera|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|chenopodium ambrosioides|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|esenbeckia leiocarpa|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|momordica charantia|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|momordica charantia|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|ocimum gratissimum|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|stachyterpheta cayennensis|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|stachyterpheta cayennensis|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|strychnos pseudoquina|malaria|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+21t|strychnos pseudoquina|dengue|medicinal use|alta floresta, mt, brazil|local|2000s|www.revistaetnobiologia.mx/index.php/etno/article/view/402/389
+22t|culex gnomatos|venezuelan equine encephalomyelitis|vector|loreto department, peru|regional|unknown|https://doi.org/10.1093/jmedent/42.5.891
+22t|culex pedroi|eastern equine encephalomyelitis|vector|loreto department, peru|regional|unknown|https://doi.org/10.1093/jmedent/42.5.891
+22t|psorophora ferox|ilheus virus|vector|loreto department, peru|regional|unknown|https://doi.org/10.1093/jmedent/42.5.891
+23t|desmodus rotundus|rabies|reservoir host|amazon region|regional|2004–2005|https://doi.org/10.1016/j.virusres.2010.07.012
+24t|paragonimus mexicanus|paragonimiasis|infectious agent|ecuador|national|1978–2007|https://doi.org/10.1590/0074-0276140042
+24t|aroapyrgus colombiensis|paragonimiasis|intermediate host|ecuador|national|1978–2007|https://doi.org/10.1590/0074-0276140042
+24t|moreirocarcinus emarginatus|paragonimiasis|intermediate host|ecuador|national|1978–2007|https://doi.org/10.1590/0074-0276140042
+24t|hypolobocera chilensis|paragonimiasis|intermediate host|ecuador|national|1978–2007|https://doi.org/10.1590/0074-0276140042
+24t|hypolobocera aequatorialis|paragonimiasis|intermediate host|ecuador|national|1978–2007|https://doi.org/10.1590/0074-0276140042
+24t|trichodactylus faxoni|paragonimiasis|intermediate host|ecuador|national|1978–2007|https://doi.org/10.1590/0074-0276140042
+25t|achatina fulica|eosinophilic meningitis|intermediate host|macapa, amapa, brazil|local|2019–2020|https://doi.org/10.3390/pathogens13030255
+25t|angiostrongylus cantonensis|eosinophilic meningitis|infectious agent|macapa, amapa, brazil|local|2019–2020|https://doi.org/10.3390/pathogens13030255
+25t|diplosolenodes occidentalis|eosinophilic meningitis|intermediate host|macapa, amapa, brazil|local|2019–2020|https://doi.org/10.3390/pathogens13030255
+25t|sarasinula linguaeformis|eosinophilic meningitis|intermediate host|macapa, amapa, brazil|local|2019–2020|https://doi.org/10.3390/pathogens13030255
+25t|subulina octona|eosinophilic meningitis|intermediate host|macapa, amapa, brazil|local|2019–2020|https://doi.org/10.3390/pathogens13030255

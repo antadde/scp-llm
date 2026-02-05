@@ -1,0 +1,44 @@
+Extract only explicit links between species and HUMAN infectious, vector-borne, or zoonotic disease, including species involved in spillover transmission cycles.
+
+General rules:
+- Do not infer, generalize, or extrapolate beyond what is written in the text.
+- If no valid relationship exists for a species, return an empty array for that species.
+
+Disease scope constraint:
+- The health_target must be an explicitly named human infectious, vector-borne, or zoonotic disease involving a transmissible pathogen.
+- Do NOT extract a health_target or mechanism for diseases that are not human infectious, vector-borne, or zoonotic.
+
+TEXT:
+{{TEXT}}
+
+Species to examine:
+{{SPECIES_LIST}}
+
+For each species, extract the following fields:
+- species_name: the Latin scientific name
+- health_target: the explicitly named human infectious, vector-borne, or zoonotic disease
+- mechanism: one of the allowed mechanism types
+
+Allowed mechanisms:
+- Infectious agent:
+  use only when the species itself is the pathogen causing the human infectious, vector-borne, or zoonotic disease.
+
+- Vector:
+  use only when the species is an arthropod vector of a human infectious, vector-borne, or zoonotic disease.
+  Do NOT use for non-arthropod species (e.g. mammals or birds), even if they are described as transmitting the disease.
+
+- Reservoir host:
+  use only when the text explicitly describes the species as a reservoir host, OR explicitly states that the species is the long-term natural host of the pathogen.
+
+- Intermediate host:
+  use only when the text explicitly describes the species as an intermediate host, OR explicitly states that the species is infected as part of the pathogen’s life cycle.
+  
+- Medicinal use:
+  use only when the text explicitly describes the species as being used to prevent or treat a human infectious, vector-borne, or zoonotic disease involving a transmissible pathogen.
+
+- Biological control:
+  use only when the text explicitly describes the species as controlling a vector or pathogen relevant to a human infectious, vector-borne, or zoonotic disease.
+
+- Other:
+  use only when the text explicitly describes a human infectious, vector-borne, or zoonotic disease mechanism that does not correspond to any of the mechanisms listed above, without interpretation or inference.
+
