@@ -129,7 +129,7 @@ The validated SCP table is restructured into a standardized long-format dataset 
 
 Each SCP includes:
 
-- Unique identifier (`scp_id`)  
+- Unique identifier 
 - Source document identifier  
 - Taxonomic information (species, phylum, class)  
 - Health target  
