@@ -4,6 +4,8 @@
 # ------------------------------------------------------------
 
 ## ---- Setup -------------------------------------------------------------
+set.seed(123) # make it reproducible
+
 library(httr)
 library(jsonlite)
 library(data.table)

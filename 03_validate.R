@@ -20,7 +20,7 @@ invisible(lapply(list.files("utils", full.names = TRUE), source))
 extracted <- fread("output/02_extracted.psv", sep = "|")
 curated   <- fread("input/curated_evidence.psv", sep = "|")
 
-## ---- Standardisation ---------------------------------------------------
+## ---- Standardization ---------------------------------------------------
 extracted <- species_cleaner(extracted)
 extracted <- health_cleaner(extracted)
 
