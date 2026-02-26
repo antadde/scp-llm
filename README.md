@@ -1,12 +1,12 @@
 # scp-llm
 
-**A reproducible R pipeline to extract, validate, and structure Species Contributions to People (SCP) from text using Large Language Models (LLMs)**
+**A reproducible R workflow to extract, validate, and structure Species Contributions to People (SCP) from text using Large Language Models (LLMs)**
 
 This repository accompanies the manuscript currently under review:
 
 > Adde A. et al. *Full manuscript title*.
 
-The pipeline implements a generalizable framework to consolidate biodiversity–health knowledge at the species level within a One Health perspective.
+The workflow implements a generalizable framework to consolidate biodiversity–health knowledge at the species level within a One Health perspective.
 
 # Overview
 
@@ -26,7 +26,7 @@ The architecture is modular and can be adapted to other regions, corpora, and he
 - R ≥ 4.2  
 - An OpenAI API key
 
-Set your API key in R before running the pipeline:
+Set your API key in R before running the workflow:
 
 ```{r}
 Sys.setenv(OPENAI_API_KEY = "your_key_here")
@@ -167,7 +167,7 @@ The `/input` directory contains:
 
 # Adapting the Framework
 
-To apply the pipeline to another context:
+To apply the workflow to another context:
 
 - Modify the OpenAlex query in `01_corpus.R`  
 - Adjust prompt templates in `/prompts`  
