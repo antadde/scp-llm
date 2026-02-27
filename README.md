@@ -4,7 +4,7 @@
 
 This repository accompanies the manuscript currently under review:
 
-> Adde A. et al. *Towards a Species-Based Approach to One Health by Leveraging Large Language Models*.
+> Adde A. et al. *Toward a Species-Based Approach to One Health by Leveraging Large Language Models*.
 
 The workflow implements a generalizable framework to consolidate biodiversity–health knowledge at the species level within a One Health perspective.
 
