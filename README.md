@@ -209,4 +209,4 @@ Users should consider several limitations when interpreting the resulting datase
 
 If you use this workflow, please cite:
 
-Adde A. et al. (2026). *scp-llm: Species Contributions to People extraction workflow* (Version 1.0). Zenodo. DOI forthcoming.
+Adde A. et al. (2026). *scp-llm: Species Contributions to People extraction workflow* (Version 1.1). Zenodo. DOI forthcoming.
