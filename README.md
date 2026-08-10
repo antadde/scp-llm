@@ -67,8 +67,6 @@ source("04_assemble.R")
 
 Outputs are written to the `output/` directory.
 
-# Workflow Description
-
 ## 1. Corpus Preparation (`01_corpus.R`)
 
 - Queries the OpenAlex API using a defined search string  
@@ -174,7 +172,7 @@ Helper functions for preprocessing and terminology harmonization are stored in `
 
 These functions standardize species and health terminology before validation and dataset assembly.
 
-# Input Resources
+## Input Resources
 
 The `/input` directory contains:
 
@@ -183,7 +181,7 @@ The `/input` directory contains:
 - `curated_evidence.psv` – reference evidence used for validation  
 - `ncp_es.psv` – mapping between contribution mechanisms, IPBES NCP categories, and CICES ecosystem services 
 
-# Adapting the Framework
+## Adapting the Framework
 
 To apply the workflow to another research context:
 
