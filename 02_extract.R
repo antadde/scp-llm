@@ -4,17 +4,29 @@
 # ------------------------------------------------------------
 
 ## ---- Setup -------------------------------------------------------------
-set.seed(123) # make it reproducible
+set.seed(123)
 
 library(data.table)
 library(ellmer)
 
 invisible(lapply(list.files("utils", full.names = TRUE), source))
 
-# If needed, set your OpenAI key: Sys.setenv(OPENAI_API_KEY = "your_key_here")
+# Choose the LLM provider:
+# "openai" = GPT-4o-mini
+# "gemini" = Gemini 2.5 Flash
+
+# provider <- "gemini"
+provider <- "openai"
+
+# Set API keys if needed:
+# Sys.setenv(OPENAI_API_KEY = "")
+# Sys.setenv(GEMINI_API_KEY = "")
 
 ## ---- Data --------------------------------------------------------------
 abs <- fread("output/01_abstracts.psv", sep = "|")
+abs_testset <- fread("input/abstracts_testset.psv", sep = "|")
+abs <- rbind(abs, abs_testset)
+
 
 ## ---- Module definitions ------------------------------------------------
 
@@ -27,11 +39,21 @@ schema_species_list <- type_object(
 
 prompt_species <- read_prompt("prompts/species_identification.txt")
 
-make_llm_species <- function() {
+make_llm_species_openai <- function() {
   chat_openai(
     model = "gpt-4o-mini",
     system_prompt = prompt_species,
     params = params(temperature = 0, top_p = 1, max_output_tokens = 2048)
+  )
+}
+
+make_llm_species_gemini <- function() {
+  chat_google_gemini(
+    model = "gemini-2.5-flash",
+    system_prompt = prompt_species,
+    params = params(
+      temperature = 0, top_p = 1, max_output_tokens = 8192
+    )
   )
 }
 
@@ -63,11 +85,19 @@ schema_links_output <- type_object(
 prompt_health_fixed   <- read_prompt("prompts/species_health_fixed.txt")
 prompt_health_dynamic <- read_prompt("prompts/species_health_dynamic.txt")
 
-make_llm_health <- function() {
+make_llm_health_openai <- function() {
   chat_openai(
     model = "gpt-4o-mini",
     system_prompt = prompt_health_fixed,
     params = params(temperature = 0, top_p = 1, max_output_tokens = 2048)
+  )
+}
+
+make_llm_health_gemini <- function() {
+  chat_google_gemini(
+    model = "gemini-2.5-flash",
+    system_prompt = prompt_health_fixed,
+    params = params(temperature = 0, top_p = 1, max_output_tokens = 8192)
   )
 }
 
@@ -82,7 +112,7 @@ schema_context <- type_object(
 
 prompt_context <- read_prompt("prompts/context.txt")
 
-make_llm_context <- function() {
+make_llm_context_openai <- function() {
   chat_openai(
     model = "gpt-4o-mini",
     system_prompt = prompt_context,
@@ -90,50 +120,79 @@ make_llm_context <- function() {
   )
 }
 
+make_llm_context_gemini <- function() {
+  chat_google_gemini(
+    model = "gemini-2.5-flash",
+    system_prompt = prompt_context,
+    params = params(temperature = 0, top_p = 1, max_output_tokens = 8192)
+  )
+}
+
 ## ---- SCP extraction ----------------------------------------------------
-run_scp_extraction <- function(text) {
-
-  llm_species <- make_llm_species()
-  llm_health  <- make_llm_health()
-  llm_ctx     <- make_llm_context()
-
+run_scp_extraction <- function(text, provider = c("openai", "gemini")) {
+  
+  provider <- match.arg(provider)
+  
+  llm_species <- switch(
+    provider,
+    openai = make_llm_species_openai(),
+    gemini = make_llm_species_gemini()
+  )
+  
+  llm_health <- switch(
+    provider,
+    openai = make_llm_health_openai(),
+    gemini = make_llm_health_gemini()
+  )
+  
+  llm_ctx <- switch(
+    provider,
+    openai = make_llm_context_openai(),
+    gemini = make_llm_context_gemini()
+  )
+  
   species_res <- llm_species$chat_structured(
     text, type = schema_species_list
   )
-
+  
   species_vec <- normalize_species_vector(species_res$species)
+  
   if (length(species_vec) == 0L) {
     return(list(
+      provider               = provider,
       species_identification = species_res,
       species_health_links   = NULL,
       contextual_information = NULL
     ))
   }
-
+  
   health_prompt <- fill_template(
     prompt_health_dynamic,
     values = list(
-      TEXT         = text,
+      TEXT = text,
       SPECIES_LIST = paste(species_vec, collapse = ", ")
     )
   )
-
+  
   health_res <- llm_health$chat_structured(
     health_prompt, type = schema_links_output
   )
-
-  ctx_raw <- llm_ctx$chat_structured(text, type = schema_context)
-
+  
+  ctx_raw <- llm_ctx$chat_structured(
+    text, type = schema_context
+  )
+  
   ctx <- list(
-  study_location = if (!is.null(ctx_raw$study_location))
-    ctx_raw$study_location else "Unknown",
-  scale = if (!is.null(ctx_raw$scale))
-    ctx_raw$scale else "Unknown",
-  study_period = if (!is.null(ctx_raw$study_period))
-    ctx_raw$study_period else "Unknown"
-	)
-
+    study_location = if (!is.null(ctx_raw$study_location))
+      ctx_raw$study_location else "Unknown",
+    scale = if (!is.null(ctx_raw$scale))
+      ctx_raw$scale else "Unknown",
+    study_period = if (!is.null(ctx_raw$study_period))
+      ctx_raw$study_period else "Unknown"
+  )
+  
   list(
+    provider               = provider,
     species_identification = species_res,
     species_health_links   = health_res,
     contextual_information = ctx
@@ -141,10 +200,34 @@ run_scp_extraction <- function(text) {
 }
 
 ## ---- Execution ---------------------------------------------------------
-extract_one <- function(x) {
-  out <- run_scp_extraction(x)
-  Sys.sleep(1)
-  out
+extract_one <- function(x, provider = c("openai", "gemini"),
+                        max_tries = 6, base_wait = 20) {
+  
+  provider <- match.arg(provider)
+  
+  for (attempt in seq_len(max_tries)) {
+    
+    out <- tryCatch(
+      run_scp_extraction(x, provider = provider),
+      error = function(e) e
+    )
+    
+    if (!inherits(out, "error")) {
+      Sys.sleep(1)
+      return(out)
+    }
+    
+    msg <- conditionMessage(out)
+    message("Attempt ", attempt, "/", max_tries, " failed: ", msg)
+    
+    if (grepl("503|429|premature EOF|lexical error|Too Many Requests|Service Unavailable", msg)) {
+      Sys.sleep(base_wait * attempt)
+    } else {
+      stop(out)
+    }
+  }
+  
+  stop("Extraction failed after ", max_tries, " attempts.")
 }
 
 n <- nrow(abs)
@@ -153,22 +236,22 @@ context_list   <- vector("list", n)
 scp_list       <- vector("list", n)
 
 for (i in seq_len(n)) {
-
+  
   print(i)
-
+  
   res <- tryCatch(
-    extract_one(abs$abstract[i]),
+    extract_one(abs$abstract[i], provider = provider),
     error = function(e) {
       message("Error at index ", i, ": ", conditionMessage(e))
       NULL
     }
   )
-
+  
   if (is.null(res)) next
-
+  
   extracted_list[[i]] <- res
   context_list[[i]]   <- extract_context_fields(res)
-
+  
   scp_list[[i]] <- if (is.null(res$species_health_links)) {
     data.frame()
   } else {
@@ -206,4 +289,15 @@ setcolorder(extracted, c(
 ))
 
 ## ---- Output ------------------------------------------------------------
-fwrite(extracted, "output/02_extracted.psv", sep = "|")
+# Remove embedded line breaks and repeated spaces
+extracted[] <- lapply(extracted, function(x) {
+  if (is.character(x)) {
+    x <- gsub("[\r\n\t]+", " ", x)
+    x <- gsub("\\s+", " ", x)
+    trimws(x)
+  } else {
+    x
+  }
+})
+
+fwrite(extracted, paste0("output/02_extracted_", provider, ".psv"), sep = "|")

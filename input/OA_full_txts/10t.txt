@@ -1,0 +1,148 @@
+Biological control of mosquitoes with odonates: A case study in Guyana 
+Abstract. Dasrat CM, Maharaj G. 2021. Biological control of mosquitoes with odonates: A case study in Guyana. Nusantara Bioscience 13: 163-170. Mosquitoes have plagued the lives of tropical residents as pests. However, due to their role as vectors of life-threatening diseases, controlling their population is necessary, especially in areas of prevalence – the Caribbean and Equatorial regions. In Guyana, we employ chemical treatments sub-regionally to eradicate mosquitoes. However, this treatment has limited success and is harmful to the environment. Therefore, our study focused on an environmentally friendly method such as biological control. This study was conducted at the University of Guyana, Turkeyen campus, where we exploited Odonata, Anisoptera, and Zygoptera as natural predators of mosquitoes of the genus Culex. The feeding efficiency and behaviors of naiads from the Libellulidae and Coenagrionidae families were assessed from April to May 2018. Each naiad was fed three Culine pupae and larvae, then observed for 60 minutes. We found that both groups pursue soft-bodied larvae and Libellulidae naiads are more efficient predators due to the higher feeding rate than Coenagrionidae. This finding is related to a behavioral study where we observed Libellulidae as active hunters that masticate and consume faster than Coenagrionidae, which lay-and-wait, opportunistic predators that swallow their prey. We concluded that Libellulidae is an efficient predator of mosquito larvae of the Culex genus, and we found a link between morphologic characteristics and feeding behaviors. We hope to use these results as a baseline study to develop mosquito biological control in Guyana. These can be used to reduce mosquito populations and the occurrence of vector diseases, as well as improve integrated pest and vector management. 
+Keywords: Anisoptera, Culex, Guyana, vector control, Zygoptera 
+INTRODUCTION 
+Internationally and locally, mosquitoes are known for their role as vectors of many diseases that threaten the health of humans, livestock, and wildlife. For example, in Guyana, Culine and Aedes mosquitoes transmitted diseases including yellow fever, chikungunya, zika, filarial, and dengue. Anopheles also thrive here and is responsible for the spread of malaria in the hinterland regions. The Ministry of Public Health in Guyana has developed a national vector control regime that includes chemical treatments (Ramlall 2016), resident lifestyle modification, and the destruction of breeding sites. As a result, in Guyana, the number of reported cases of mosquito-borne diseases has decreased over the years. However, according to the local Ministry of Public Health (2018), deadly diseases such as malaria have a periodic increase in cases which can be linked to periods of heavy rainfall and flooding. Therefore, there is a need to adapt the current vector control regime to depress mosquito populations better. 
+Over the years, the core vector control methods approved by the World Health Organization have been the direct use of insecticides (adulticides and larvicides) through granule treatment, fogging, non-target effects, and insecticide-treated nets (WHO 2016). For example, Guyana employs Temephos, active in abating sand granules, as a non-target effect for mosquito larvae control since it is the most effective (Ramlall 2016) fogging and distribution of treated nets.  
+Fogging is done sub-regionally to eradicate adult mosquitoes, mostly and only when a disease outbreak occurs. According to the World Health Organization, fog is a mixture of insecticide and water blasted into fine droplets that should be odorless to humans and only effective on the Aedes aegypti mosquito (WHO 2014). However, there is an odor during fogging sessions, and mosquito populations fail to decrease with this treatment (Personal Observation). As such, it is important to pursue the use of biological means of vector management. 
+The anopheline mosquitoes are persistent in the inland regions of Guyana and many other neighboring countries. Records of malarial infections in Guyana dates to the early 1900s amidst British Colonization and slavery (Gampat 2015). During that time, an Italian physician named Dr. Giglioli came to work in what was then known as British Guiana. In the 1920s, he discovered malaria, a mosquito-borne disease, had engulfed the inhabited coastal regions. It was expected that mosquitoes would breed heavily in the marshy and agriculturally flooded artificial coastland, but he set out to investigate why Anopheles darlingi thrived there. He found that neither mosquito nor the disease was native to the coast and that freshwater from inland may have brought the aquatic life stages of Anopheles darlingi to the coast.  
+During World War II in 1944, the colony's allies experimented with DDT to control malaria. Overseas scientists brought large amounts to the government to be distributed in British Guiana as precautious protection against malaria used in biological warfare by enemy 
+colonies. DDT was removed from the military's secret list in 1945, and Dr. Giglioli seized the opportunity to use this seemingly miraculous drug. Household spraying of DDT began in February 1945 and ended in August 1952, which resulted in the elimination of An. darlingi from the coastal regions of Guiana (Gampat 2015). DDT is no longer commercially available since it was found to have several ecological implications, albeit effective in treatment. Across the region, chemical methods of mosquito eradication implementation include fogging and larvicides; active abate sand granules with Temephos. Some of these may produce the desired result of population control and cause other environmental complications, as seen in studies by Pinkney et al. (1999) on fiddler crabs and aquatic invertebrates such as lobsters and blue crabs (Lawler 2017).  
+Apart from their ecological implications, these synthetic pesticides have also proven ineffective against long-term population control. Fog and aerosol sprays will kill the adult stage only since it targets individuals flying in the air. Larvicides reduce the overall population but generally do not guarantee the reduction of the revival rate. Additionally, Jirakanjanakit et al. (2014) found that mosquitoes of the genus Aedes are becoming resistant to the active ingredient in abate sand granules: Temephos. 
+Many pesticides have been banned due to their ill effects on non-target aquatic organisms, natural enemies, and beneficial insects. Marina et al. (2014) conducted a study that assessed the efficacy and non-target impact of spinosad, Bti and Temephos larvicides to control Anopheles spp. in Southern Mexico. Firstly, Bacillus thuringiensis israelensis (biological control) was the most effective at eliminating individuals of the larvae population. Secondly, spinosad as a larvicidal treatment yielded the highest non-target mortality. That means other insect species died solely because of pesticide exposure, environmentally. The most severely affected insect species in the spinosad-treated pools were the diving beetle (Laccophilus fasciatus), the backswimmer (Buenoa margaritacea), and nymphs of the dragonfly species Anax amazili (Marina et al. 2014). 
+The population of mosquitoes and the disease they spread continue to increase globally (Fernandes et al. 2018). More importantly, vector-borne diseases are a major public health concern in tropical Guyana. As the search for environmentally safe approaches continues, biological control agents have been adopted. Biological control is defined as using one organism's population to reduce another organism's population (Van Lenteren et al. 2018). 
+Dragonflies are natural enemies to mosquitoes at all their life stages, preying on larvae as aquatic nymphs and adult mosquitoes as winged adults. They serve as exceptional predators of mosquitoes. They are often found in similar habitats and can easily navigate debris-filled waterways (Shaalan and Canyon 2009), such as rice fields, a common geographical feature along the Low Coastal Plain of Guyana. The success of biological control is heavily dependent on the use of native predators that share the same habitat as the prey and the same food chain (Saha et al. 2012) 
+Although much is known about odonates' ability to sustain their populations as effective biocontrol in other countries, further density and habitat ecology investigations are required before promoting them as biological control agents (Mandal et al. 2008) in Guyana. As such, our study aims to explore the predator-prey relationship between mosquitoes and odonates by utilizing dragonflies (Libellulidae) and damselflies (Coenagrionidae) as a biological control for mosquitoes of the genus Culex. The specific-primary objectives are to determine the feeding preferences of odonate for the different life stages of mosquitoes, investigate the efficiency of odonate naiads as a biological control against mosquitoes and observe the feeding behavior of naiads in artificial study portrayals. The data obtained will supplement the lack of data locally. 
+MATERIALS AND METHODS 
+Description of the study site 
+The University of Guyana (Turkeyen Campus) – Located in Greater Georgetown, Turkeyen, is approximately 1,609.34 meters from the Atlantic Ocean. Much of the space is green and overgrown by various grass species and large trees with a few introduced ornamental flowering species. The irrigation system comprises concrete framed drains surrounding all buildings and roadways. They feed into a larger channel that runs from the North-South of campus. This main water-body contains freshwater, which in most places is overgrown with water hyacinth (Eichhornia crassipes), duckweed (Lemnoideae), and other aquatic vegetation. One road and one pedestrian bridge interact across this water body in the North-West block. Sampling was done in the main water body from April to May 2018.  
+Natural survey 
+Identification of the most abundant species of mosquito present in the study site 
+Mosquito traps for adults were created, which consisted of 250 mL of sugar, 100 mL of warm water, and 14.175 grams of yeast, a similar design to traps set by Smallegange et al. (2010). These were left open in the study site from 19.00-20.00 hrs. Breeding sites were also created for juvenile collection using 7.571 liters of water and potato starch solution. These buckets were left half-open under Whitey/Padoo trees (Inga edulis) for two weeks. Finally, individuals were collected and identified to the genus using the mosquito species identification key prepared by the University of Florida (Nishimura 2019). 
+Evaluation of adult odonates present in the study site 
+Visual evidence of adult Odonates present during two hours of point observation was recorded in pictures and written descriptions of the individuals. Will Kuhn, Rutgers Graduate School, Newark, New Jersey, made the identification. 
+ Collection, storage, and identification of odonate naiads  
+Handheld dipnets were used to shift through and extract naiads from the water body overgrown with water hyacinth (Eichhornia crassipes) and duckweed (Lemnoideae). Next, using sterile gloves, naiads were carefully removed from the dipnets and placed into glass vials containing habitat water. Finally, they were identified to the family using the atlas of the dragonfly larvae (Keller et al. 2007).  
+Artificial experiment 
+Evaluation of the feeding preferences of odonate naiads 
+Aquarium arenas with 20 x 10 x 5cm dimensions were filled with 360 mL of habitat water. Next, to each, three Culine larvae (III or IV instars) and three pupae were added. An individual Coenagrionidae or Libellulidae naiad was introduced into the arena at a recorded starting time, and feeding activities were observed for 60 minutes (Figure 1). That was repeated for each naiad totaling 17 Libellulidae and 33 Coenogrionidae. 
+Determine the efficiency of odonate naiads as a biological control against mosquito larvae 
+During the 60 minutes of feeding, we observed the time taken to the first prey capture, the overall amount of prey consumed, and the time taken between each prey capture.                                
+Behavioral study 
+Describe the foraging and feeding behavior of odonate naiads  
+The foraging and feeding behaviors were documented by videos using a Canon Powershot sx530hs. The observed behaviors were described and related to the morphological features and locomotion of Libellulidae and Coenagrionidae, respectively. 
+Statistical analysis 
+The Fisher's Exact Test was used to determine any differences in preference between Libellulidae and Coenagrionidae. In addition, the Mann-Whitney U test was done to test the efficiency of both groups during the 60 minutes of feeding. 
+Ethics statement 
+Our study did not involve any endangered or protected species of Odonata. 
+RESULTS AND DISCUSSION 
+Juvenile mosquito survey 
+Culex was the only genus found in the study site and was used as the targeted prey in our study. 
+ 
+Adult odonate survey 
+Anisoptera – 6 Species: (i) Brachymesia herbida, (ii) Brachymesia sp., (iii) Erythemis peruviana, (iv) Erythemis vesiculosa, (v) Erythrodiplax umbrata, (vi) Pantala flavescens. 
+Zygoptera – 2 Species: (i) Homeoura chelifera, (ii) Ischnura sp. 
+Juvenile odonate survey 
+Anisoptera naiads from the family Libellulidae and Zygoptera naiads from the family Coenagrionidae were most abundantly found in the study site. Therefore, they were used as a biological control in this research. 
+Preference 
+When assessing preference, we found that 82.35% Libellulidae and 78.79% Coenagrionidae were fed on larvae. A total of five Coenagrionidae naiads preferred pupae as prey, but one naiad fed equivalently on both larvae and pupae. Libellulidae naiads did not show any preference for pupae. However, three naiads preferred both larvae and pupa. One Coenagrionidae naiad did not feed during the hour observation and was determined to have no preference (Figure 2).  
+Fisher's Exact test showed that Libellulidae and Coenagrionidae had an equal preference, X2 (4, N = 50) = 4.53, p < .10, NS. There was no statistical difference between groups; Libellulidae and Coenagrionidae naiads preferred to feed on Culine larvae over pupae. 
+ 
+ 
+ 
+
+20 cm 
+
+10 cm 
+
+ 
+Figure 1. The feeding arena apparatus 
+ 
+
+ 
+Figure 2. Preference of Odonates for mosquito larvae or pupae 
+ 
+ 
+ 
+
+ 
+Figure 3. Comparison between the number of larvae consumed by Libellulidae and Coenagrionidae an hour 
+ 
+ 
+Table 1. Mann-Whitney U test comparing the total prey capture of Odonates during 60 minutes of feeding 
+ 
+Groups 
+ No. of Individuals 
+ Sum of ranks 
+ U-statistics 
+ U-mean 
+ U-SD 
+ Z-score 
+ Z-critical 
+ 
+Zygoptera 
+ 33 
+ 561 
+ -135.5 
+ 280.5 
+ 48.8288 
+ -8.521 
+ -1.96 
+ 
+Anisoptera 
+ 17 
+ 714 
+  
+  
+  
+  
+  
+ 
+
+
+ 
+ 
+ 
+Efficiency 
+During the 60 minutes of feeding, Libellulidae naiads would have eaten at least one larva, whereas we noted five Coenagrionidae naiads that did not feed at all. When we compared the total amount of prey consumption, we found that 23.52% of Libellulidae and 6.06% of Coenagrionidae ate all larvae within 60 minutes of feeding time (Figure 3). 
+A Mann-Whitney U test found a significant difference (U = -135.5, Z-critical = -1.96) between the feeding rate of Libellulidae and Coenagrionidae with Libellulidae naiads showing a higher feeding rate.  
+Behavioral study 
+Observed hunting tactics 
+Observed hunting tactics: (i) Active hunting, (ii) Lay and wait, (iii) Collide and confuse, (iv) Use of lures 
+Observed feeding strategies 
+Observed feeding strategies: (i) Crushing, (ii) Whole consumption, (iii) Thrashing to immobilize, (iv) Injure, guard, and follow: 
+Anisoptera (Libellulidae) 
+Foraging/hunting tactics 
+Active hunting. Active pursuit of the prey around the arena until all were within the range of capture. 
+Collide and confuse. Some naiads swam swiftly toward the larva, collided with it, and continued swimming around the entire perimeter of the arena until they encountered the larva again and captured it. However, we also noted that others would collide with the prey, turn around and capture it directly after the collision.  
+Lay and wait. Hovering or resting in one spot and position awaiting prey to swim into their immediate vicinity. 
+Capture/feeding strategies 
+Crushing. The multisegmented maxillae were used for crushing the larvae as they moved into the mouth. 
+Zygoptera (Coenagrionidae) 
+Foraging/hunting tactics 
+Lay and wait. Resting in one spot and position, awaiting the prey to move into the capture range of the naiad. 
+Use of lures. When at rest, the naiad would secure itself onto a substrate and elevate the tail above the body. The delicate gills would sway and dangle in the water to lure prey toward the naiad. When the prey was close enough to the tail, the naiad quickly turned its body 180 degrees and captured the prey. These naiads were observed to stay in this position for up to 10 minutes, without prey capture, before moving to another area or trying a different method.  
+Active hunting. Some naiads were shuttling around the arena in pursuit of an identified larva. 
+Capture/Feeding strategies 
+Whole consumption. The entire prey was swallowed immediately after capture. 
+Thrashing. Naiads that captured prey that were too big for them to kill just by piercing were observed to thrash their bodies vigorously from side to side, eventually immobilizing the prey. After which, the then immobilized prey was consumed. 
+Injure, guard, and follow. The naiad would pierce, hover over and follow the prey until it becomes immobile for consumption. 
+Method of prey capture 
+When the prey was within capture range, the labium was unfolded in a directional launch that secured the prey. Then, the labium was quickly recoiled, directing the prey towards mandibles. Libellulidae crushed their prey in a horizontal sniping action before consumption, whereas, Coenagrionidae were observed to swallow their prey whole. 
+Discussion  
+Successful vector management faces threats from progressive mosquito resistance to common insecticides (Jirakanjanakit et al. 2014) and lack of variation in the national vector control regime. Recent studies have investigated the use of bacteria, plant essential oils, and silver nanoparticles as mosquito larvicides (Marina et al. 2014; Pavela 2015; Govindarajan et al. 2016). However, some are either never fully implemented or too expensive to integrate nationally. Our study exploited the natural odonate predators of mosquitoes in Guyana as a cost-effective and environmentally friendly vector control method.  
+In coastal Guyana, mosquito vectors belong to the genera Culex and Aedes; Anopheles was eradicated from the coast in the early 1900s (Gampat 2015), although they still plague hinterland communities with the spread of malaria. Culex was found to be more abundant in the study site and was chosen as the study vector. In addition, Culine mosquitoes are known vectors of deadly yellow fever disease in Guyana. 
+Based on experimental data, we observed that Coenagrionidae and Libellulidae pursue larvae over pupae, as was also observed by Mandal et al. (2008). Their semi-field study aimed at assessment of the predatory efficiency of nymphs of five species of Odonata, namely, Aeshna flavifrons (Aeshnidae), Sympetrum durum (Libellulidae), Coenagrion kashmirum (Coenagrionidae), Ischnura forcipata (Coenagrionidae), and Rhinocypha ignipennis (Chlorocyphidae). They provided each naiad with 100 IV instars Cx. quinquefasciatus larvae in a water bowl containing one liter of sieved pond water. The number of prey killed was recorded over a 24 h period. The mean number of larvae killed per day ranged between 14 and 64 (64 mosquito larvae for I. forcipata, 57 for A. flavifrons, 45 for R. ignipennis, 25 for S. durum, and 14 for C. kashmirum). This study's results positively point to Odonatan nymphs in temporary pools or larger habitats as a biological resource in regulating the larval population of the vectors and pest mosquitoes (Mandal et al. 2008). 
+Further work Tariq et al. (2011) designed a laboratory and field experiment to test four fish species as a potential biological control for the mosquito species Ae. aegypti. Fish species used were Poecilia reticulata, Cyprinus carpio, Tilapia mosambicus, and Opheocephalus sp. Tilapia sp. proved to be the 2nd most successful fish giving 26% control; C. carpio ranked 3rd, yielding 19% control; P. reticulata with 11% control; and Opheocephalus sp. was recorded at 4% control. Unexpectedly, taking first place as the most effective natural biological control were dragonfly nymphs, accounting for 31% of overall control. These nymphs appeared in the open tanks during the study period and outcompeted the test subjects (Tariq et al. 2011). 
+We also noted no statistical difference in choices between the two groups. We believe that larvae are generally preferred because, as feeding juveniles, they constantly move around searching for food. That makes them more easily noticed through visual cues and vibrational movement and sought-after. Larvae of Culex quinquefasciatus have a poor response to dragonfly naiad presence. Thus, they do not actively try to evade them (Roberts 2014b), making the larvae easier targets. Roberts discovered that mosquito larvae changed feeding positions in response to the detection of water-borne kairomones. Kairomones of fish, damselfly, and dragonflies naiads were tested against the larvae of Culex longiareolata. After one hour of exposure, it resulted in most habituation to fishes, 
+lower habituation to damselflies, and no habituation to dragonflies even after 30 hours (Roberts 2014a). This study shows that dragonfly naiads produce very few kairomones that the larvae cannot detect, making them better at stalking and preying on mosquito larvae over their competition. Pupae, on the other hand, will hover at the water's surface since they are inactive juveniles and can go unnoticed by the naiad. 
+Although the overall preference for Coenagrionidae was larvae, it was noted that approximately 15% did feed on pupae. The naiads choosing pupae were large in body size, and the pupae chosen were newly transformed, relatively soft-bodied, and low in chitin (Farnesi et al. 2012). Another possible reason for this choice can be linked to habitat preference and movement. Zygoptera lies and waits for predators (Sánchez-Herrera and Ware 2012) that spend their time on substrate. They prefer complex vegetation over simple vegetation (Verdonschot and Peeters 2012), which means they spend more time in the surface compartments. The surface is where pupae hover until it is time to molt into the adult mosquito, making them more accessible. Mosquito larvae spend their time in the lower compartment as filter feeders and occasionally visit the surface to breathe; thus, they are less accessible to Zygoptera. However, Anisopteran naiads are found in the lower compartments since they prefer habitats with sediments (Worthen and Horacek 2015). They do not commonly consume pupae since only the larvae venture into the lower regions of the water. 
+Libellulidae was found to feed on larvae at a higher rate than Coenagrionidae for the entire observation time. Libellulidae naiads have a wide body plan and can most likely store more food than a Coenagrionidae naiad with a very thin and long body plan. Moreover, a Libellulidae naiad's head is larger against body size than the Coenagrionidae naiad, allowing faster food intake and potentially a more powerful capture.  
+Having a stout abdomen and no respiratory lamellae, Libellulidae navigated the arena by crawling vigorously along the bottom. Coenagrionidae would undulate their abdomen and tail lamellae from side to side to propel their bodies forward, occasionally using the legs to crawl. Both groups were found to actively chase their prey until it was within range of labium capture, but we noted this behavior to be more frequent with Libellulidae. This voracious active hunting of adult odonates was also noted by Sánchez-Herrera and Ware (2012), directly contributing to their higher feeding efficiency. As a modified form of active foraging, Libellulidae were observed to charge swiftly towards and collide with the prey, knocking them off balance and returning to capture the immobile organism. 
+Coenagrionidae and Libellulidae displayed lay and wait for predatory behavior with characteristics unique to each order. We observed Coenagrionidae sitting still in the corner of the arena awaiting prey to wander into the capture zone. This behavior was maintained for as long as 30 minutes without movement. However, Libellulidae would lay still for no more than 10 minutes before moving to another spot or trying another foraging method. An order-specific, modified lay and wait for behavior was observed in Coenagrionidae; naiads were fastened to a substrate with the abdomen elevated above the body. The three paddle-shaped lamellae located at the posterior end of the abdomen were opened and allowed to hover in the water. These gills have internal structural components resembling veins on a leaf, which looks like aquatic vegetation. This strategy is referred to as a lure, attracting prey towards the predator. When within capture range, the naiad swiftly launches its labium and captures its prey. 
+Both groups have inferior mouthparts comprising a pair of mandibles, a hypopharynx, and a modified labium (which forms a platform for resting prey that folds neatly into the underside of the head). Prey is secured with movable piercers at the end of the extended labium. Launching the labium, capturing prey, and the recoil of the labium occur in a fraction of a second. Piercers manipulate and hold the prey in place during mastication. As observed in Libellulidae, the prey is thoroughly crushed before consumption by the horizontal cutting action of the mandibles. The mastication process takes approximately 15 seconds before the prey is completely ingested. 
+Coenagrionidae do not masticate or crush their prey. Instead, it is swallowed whole. If the prey captured is too large and is not killed after piercing, the naiad would thrash its body vigorously from side to side to immobilize the prey before consumption. Conversely, Libellulidae will start crushing their prey, whether alive/wriggling or dead/immobilized. These observed behaviors are directly linked with the efficiency of both groups. Libellulidae naiads are aggressive, active hunters with strong chewing mouthparts that consume mainly larvae at a high rate. On the other hand, Coenagrionidae naiads are opportunistic hunters that more frequently lay and wait for their prey and feed at a much lower rate. 
+In conclusion, this research has determined that Libellulidae and Coenagrionidae prefer Culine mosquito larvae over Culine pupae, and of the two groups, Libellulidae fed at a higher rate than Coenagrionidae. We found a relationship between morphology and feeding behavior with the choice of prey and the rate at which it is consumed. This research proposes the use of Libellulidae naiads as mosquito biocontrol over Coenagrionidae. Odonates can also be combined with other aquatic predatory insects to regulate mosquitoes in shared wetlands (Saha et al. 2012). The distribution of the naiads in a field situation would vary, possibly depending on habitat conditions (Mendes et al. 2018) and the presence of other predators – altering their success. 
+Our results have contributed to a baseline study of potential mosquito biological control and are the first to explore the behavior of odonate naiads in Guyana. The long-term significance to tropical Guyana is implementing dragonflies as a biological control in the fight against mosquito-borne diseases and general mosquito population reduction. It is also expected that this insect control can be coupled with other methods to improve integrated pest and vector management.
+ 
+

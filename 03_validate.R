@@ -12,13 +12,21 @@ library(rgbif)
 
 invisible(lapply(list.files("utils", full.names = TRUE), source))
 
+# Choose the LLM provider:
+# "openai" = GPT-4o-mini
+# "gemini" = Gemini 2.5 Flash
+
+# provider <- "gemini"
+provider <- "openai"
+
 ## ======================================================================
 ## PART A — Validation against curated evidence
 ## ======================================================================
 
 ## ---- Data --------------------------------------------------------------
-extracted <- fread("output/02_extracted.psv", sep = "|")
+extracted <- fread(paste0("output/02_extracted_", provider, ".psv"), sep = "|")
 curated   <- fread("input/curated_evidence.psv", sep = "|")
+
 
 ## ---- Standardization ---------------------------------------------------
 extracted <- species_cleaner(extracted)
@@ -144,14 +152,14 @@ validated_clean <- unique(validated[, .(
   axis_profile
 )])
 
-fwrite(validated_clean, "output/03_validated.psv", sep = "|")
+fwrite(validated_clean, paste0("output/03_validated_", provider, ".psv"), sep = "|")
 
 ## ======================================================================
 ## PART B — Validation against manually extracted test set
 ## ======================================================================
 
 ## ---- Data --------------------------------------------------------------
-extracted_ts <- fread("output/02_extracted.psv", sep = "|")[grep("t", id)]
+extracted_ts <- fread(paste0("output/02_extracted_", provider, ".psv"), sep = "|")[grep("t", id)]
 curated_ts   <- fread("input/manual_testset.psv", sep = "|")
 
 extracted_ts <- health_cleaner(species_cleaner(extracted_ts))

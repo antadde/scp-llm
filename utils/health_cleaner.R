@@ -30,7 +30,7 @@ health_cleaner <- function(dt) {
     "infection", "infections", "fever", "syndrome",
     "acute", "chronic", "american", "new", "world",
     "cutaneous", "mucocutaneous", "tegumentary",
-    "visceral", "human", "animal",
+    "visceral", "human", "animal", "cardiopulmonary",
     "zoonotic", "zoonoses",
     "type", "and", "or", "andor", "like"
   )
@@ -101,9 +101,11 @@ health_cleaner <- function(dt) {
     "phylum",
     "class"
   )
-
-  dt[, setdiff(names(dt), keep_cols) := NULL]
-  setcolorder(dt, keep_cols)
+  
+  keep_cols_present <- intersect(keep_cols, names(dt))
+  
+  dt[, setdiff(names(dt), keep_cols_present) := NULL]
+  setcolorder(dt, keep_cols_present)
 
   dt[]
 }

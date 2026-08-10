@@ -1,0 +1,144 @@
+id|species_name|health_target|mechanism|study_location|scale|study_period
+10t|anopheles darlingi|malaria|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex|yellow fever|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex|chikungunya|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex|zika|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex|filarial|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex|dengue|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex|malaria|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|culex quinquefasciatus|malaria|vector|university of guyana, turkeyen campus, guyana|local|2018
+10t|aeshna flavifrons|mosquito-borne diseases|biological control|university of guyana, turkeyen campus, guyana|local|2018
+10t|ischnura forcipata|mosquito-borne diseases|biological control|university of guyana, turkeyen campus, guyana|local|2018
+11t|aedes aegypti|dengue|vector|boa vista, roraima, brazil|local|2003–2004
+11t|toxorhynchites guadeloupensis|dengue|biological control|boa vista, roraima, brazil|local|2003–2004
+12t|anopheles darlingi|malaria|vector|saint-georges de l'oyapock, french guiana|local|2012–2014
+12t|plasmodium falciparum|malaria|infectious agent|saint-georges de l'oyapock, french guiana|local|2012–2014
+12t|plasmodium vivax|malaria|infectious agent|saint-georges de l'oyapock, french guiana|local|2012–2014
+15t|haemagogus janthinomys|yellow fever virus (yfv)|vector|south america|regional|1935–2020
+15t|haemagogus janthinomys|mayaro virus (mayv)|vector|south america|regional|1935–2020
+15t|haemagogus leucocelaenus|yellow fever virus (yfv)|vector|south america|regional|1935–2020
+16t|cuniculus paca linnaeus, 1766|pneumonia|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|cuniculus paca linnaeus, 1766|snakebites|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|citrus limon (l.) osbeck|influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|allantoma lineata (mart. ex o.berg) miers|diarrhea|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|gallus domesticus (linnaeus, 1758)|snakebites|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|gallus domesticus (linnaeus, 1758)|erysipela|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|hoplias malabaricus (bloch, 1794)|earache|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|scutellaria agrestis a.st.-hil. ex benth|earache|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|fridericia chica (bonpl.) l.g.lohmann|anemia|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|dianthera calycina (nees) b.d.jacks|anemia|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|mansoa alliacea (lam.) a.h.gentry|stroke|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|quassia amara l|malaria|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|cichorium endivia l|influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|carapa guianensis aubl|scabies|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|bertholletia excelsa bonpl|chilblain|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|copaifera epunctata amshoff|inflammation|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|zingiber officinale roscoe|influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|mentha pulegium l|flatulence|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|aloe vera (l.) burm. f|erysipelas|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|anacardium occidentale l|diarrhea|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|psidium guajava l|diarrhea|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|citrus aurantium f. aurantium|palpitation|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|hyptis crenata pohl ex benth|stomach ache|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|cichorium endivia l|influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|crocodilurus amazonicus spix, 1825|malaria|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|electrophorus electricus (linnaeus, 1766)|lice|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|myrmecophaga tridactyla linnaeus, 1758|snakebites|medicinal use|caxiuan national forest, brazil|local|2018–2019
+16t|melanosuchus niger (spix, 1825)|wounds|medicinal use|caxiuan national forest, brazil|local|2018–2019
+18t|apodemus agrarius|hantavirus cardiopulmonary syndrome (hcps)|reservoir host|maranhão, brazil|local|2021
+18t|boweense|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|buritiense virus|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|carollia perspicillata|hantavirus cardiopulmonary syndrome (hcps)|reservoir host|maranhão, brazil|local|2021
+18t|dakrong virus|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|drakong virus|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|jejuense|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|laibin virus|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|quenzonense|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|robinaense|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+18t|xuan son virus|hantavirus cardiopulmonary syndrome (hcps)|infectious agent|maranhão, brazil|local|2021
+1t|echinococcus vogeli|polycystic echinococcosis|infectious agent|pan-amazonia|regional|unknown
+1t|cuniculus paca|polycystic echinococcosis|intermediate host|pan-amazonia|regional|unknown
+1t|dasypus novemcinctus|polycystic echinococcosis|intermediate host|pan-amazonia|regional|unknown
+1t|speothos venaticus|polycystic echinococcosis|reservoir host|pan-amazonia|regional|unknown
+1t|atelocynus microtis|polycystic echinococcosis|reservoir host|pan-amazonia|regional|unknown
+22t|culex coronator|st. louis encephalitis|vector|loreto department, peru|local|1996–2001
+22t|culex gnomatos|eastern equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex gnomatos|venezuelan equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex gnomatos|caraparu virus|vector|loreto department, peru|local|1996–2001
+22t|culex ocossa|venezuelan equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex ocossa|murutucu virus|vector|loreto department, peru|local|1996–2001
+22t|culex pedroi|eastern equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex pedroi|venezuelan equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex pedroi|caraparu virus|vector|loreto department, peru|local|1996–2001
+22t|culex spissipes|venezuelan equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex vomerifer|venezuelan equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|culex vomerifer|caraparu virus|vector|loreto department, peru|local|1996–2001
+22t|ochlerotatus fulvus|venezuelan equine encephalomyelitis|vector|loreto department, peru|local|1996–2001
+22t|ochlerotatus fulvus|una virus|vector|loreto department, peru|local|1996–2001
+22t|psorophora ferox|ilheus virus|vector|loreto department, peru|local|1996–2001
+22t|psorophora ferox|una virus|vector|loreto department, peru|local|1996–2001
+24t|aroapyrgus colombiensis|paragonimiasis|intermediate host|ecuador|national|1978–2007
+24t|didelphis marsupialis|paragonimiasis|reservoir host|ecuador|national|1978–2007
+24t|felis pardalis|paragonimiasis|reservoir host|ecuador|national|1978–2007
+24t|hypolobocera aequatorialis|paragonimiasis|intermediate host|ecuador|national|1978–2007
+24t|hypolobocera chilensis|paragonimiasis|intermediate host|ecuador|national|1978–2007
+24t|moreirocarcinus emarginatus|paragonimiasis|intermediate host|ecuador|national|1978–2007
+24t|nasua nasua|paragonimiasis|reservoir host|ecuador|national|1978–2007
+24t|paragonimus ecuadoriensis|paragonimiasis|infectious agent|ecuador|national|1978–2007
+24t|paragonimus heterotremus|paragonimiasis|infectious agent|ecuador|national|1978–2007
+24t|paragonimus inca|paragonimiasis|infectious agent|ecuador|national|1978–2007
+24t|paragonimus mexicanus|paragonimiasis|infectious agent|ecuador|national|1978–2007
+24t|paragonimus peruvianus|paragonimiasis|infectious agent|ecuador|national|1978–2007
+24t|paragonimus westermani|paragonimiasis|infectious agent|ecuador|national|1978–2007
+24t|pseudotelphusa chilensis|paragonimiasis|intermediate host|ecuador|national|1978–2007
+24t|rattus rattus|paragonimiasis|reservoir host|ecuador|national|1978–2007
+24t|strengeria eigenmanni|paragonimiasis|intermediate host|ecuador|national|1978–2007
+24t|tayassu pecari|paragonimiasis|reservoir host|ecuador|national|1978–2007
+24t|trichodactylus faxoni|paragonimiasis|intermediate host|ecuador|national|1978–2007
+25t|achatina fulica|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020
+25t|achatina fulica|abdominal angiostrongyliasis|intermediate host|macap, amapá, brazil|local|2019–2020
+25t|angiostrongylus cantonensis|eosinophilic meningitis|infectious agent|macap, amapá, brazil|local|2019–2020
+25t|angiostrongylus cantonensis|abdominal angiostrongyliasis|infectious agent|macap, amapá, brazil|local|2019–2020
+25t|angiostrongylus costaricensis|abdominal angiostrongyliasis|infectious agent|macap, amapá, brazil|local|2019–2020
+25t|diplosolenodes occidentalis|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020
+25t|latipes erinaceus|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020
+25t|rattus norvegicus|eosinophilic meningitis|reservoir host|macap, amapá, brazil|local|2019–2020
+25t|rattus rattus|eosinophilic meningitis|reservoir host|macap, amapá, brazil|local|2019–2020
+25t|sarasinula linguaeformis|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020
+25t|subulina octona|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020
+4t|amblyomma cajennense|spotted fever|vector|santa ins municipality, maranho state, brazil|local|2021–2023
+4t|rickettsia amblyommatis|spotted fever|infectious agent|santa ins municipality, maranho state, brazil|local|2021–2023
+5t|aedes aegypti|dengue|vector|manaus, brazil|local|2021
+5t|denv-1|dengue|infectious agent|manaus, brazil|local|2021
+5t|denv-2|dengue|infectious agent|manaus, brazil|local|2021
+5t|denv-3|dengue|infectious agent|manaus, brazil|local|2021
+5t|denv-4|dengue|infectious agent|manaus, brazil|local|2021
+6t|nyssorhynchus benarrochi b|malaria|vector|brazilian amazon|regional|2015–2016
+6t|nyssorhynchus darlingi|malaria|vector|brazilian amazon|regional|2015–2016
+6t|nyssorhynchus konderi b|malaria|vector|brazilian amazon|regional|2015–2016
+6t|nyssorhynchus rangeli|malaria|vector|brazilian amazon|regional|2015–2016
+6t|plasmodium falciparum|malaria|infectious agent|brazilian amazon|regional|2015–2016
+6t|plasmodium vivax|malaria|infectious agent|brazilian amazon|regional|2015–2016
+7t|cerdocyon thous|american visceral leishmaniasis|reservoir host|brazil|national|unknown
+7t|didelphis marsupialis|american visceral leishmaniasis|reservoir host|brazil|national|unknown
+7t|leishmania chagasi|american visceral leishmaniasis|infectious agent|brazil|national|unknown
+7t|leishmania infantum|american visceral leishmaniasis|infectious agent|brazil|national|unknown
+7t|lutzomyia cruzi|american visceral leishmaniasis|vector|brazil|national|unknown
+7t|lutzomyia evansi|american visceral leishmaniasis|vector|brazil|national|unknown
+7t|lutzomyia flaviscutellata|american visceral leishmaniasis|vector|brazil|national|unknown
+7t|lutzomyia intermedia|american visceral leishmaniasis|vector|brazil|national|unknown
+7t|lutzomyia longipalpis|american visceral leishmaniasis|vector|brazil|national|unknown
+7t|lutzomyia whitmani|american visceral leishmaniasis|vector|brazil|national|unknown
+8t|trypanosoma cruzi|chagas disease|infectious agent|amazon region|regional|2004
+8t|rhodnius pictipes|chagas disease|vector|amazon region|regional|2004
+8t|rhodnius prolixus|chagas disease|vector|amazon region|regional|2004
+8t|rhodnius robustus|chagas disease|vector|amazon region|regional|2004
+8t|rhodnius stali|chagas disease|vector|amazon region|regional|2004
+8t|panstrongylus geniculatus|chagas disease|vector|amazon region|regional|2004
+8t|triatoma infestans|chagas disease|vector|amazon region|regional|2004
+8t|p. herreri|chagas disease|vector|amazon region|regional|2004
+8t|t. maculata|chagas disease|vector|amazon region|regional|2004
+8t|eratyrus mucronatus|chagas disease|vector|amazon region|regional|2004
+8t|microtriatoma trinidadensis|chagas disease|vector|amazon region|regional|2004
+8t|p. lignarius|chagas disease|vector|amazon region|regional|2004
+8t|t. dimidiata|chagas disease|vector|amazon region|regional|2004

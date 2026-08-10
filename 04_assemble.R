@@ -8,8 +8,15 @@ library(data.table)
 
 invisible(lapply(list.files("utils", full.names = TRUE), source))
 
+# Choose the LLM provider:
+# "openai" = GPT-4o-mini
+# "gemini" = Gemini 2.5 Flash
+
+# provider <- "gemini"
+provider <- "openai"
+
 ## ---- Data --------------------------------------------------------------
-validated <- fread("output/03_validated.psv", sep = "|")
+validated <- fread(paste0("output/03_validated_", provider, ".psv"), sep = "|")
 
 ## ---- Schema enforcement ------------------------------------------------
 core_fields <- c(
@@ -83,4 +90,4 @@ final_order <- intersect(
 setcolorder(validated, final_order)
 
 ## ---- Output ------------------------------------------------------------
-fwrite(validated, "output/04_assembled.psv", sep = "|")
+fwrite(validated, paste0("output/04_assembled_", provider, ".psv"), sep = "|")

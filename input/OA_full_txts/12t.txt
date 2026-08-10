@@ -1,0 +1,220 @@
+Dynamical Mapping of Anopheles darlingi Densities in a Residual Malaria Transmission Area of French Guiana by Using Remote Sensing and Meteorological Data
+Abstract 
+Local variation in the density of Anopheles mosquitoes and the risk of exposure to bites are essential to explain the spatial and temporal heterogeneities in the transmission of malaria. Vector distribution is driven by environmental factors. Based on variables derived from sat­ellite imagery and meteorological observations, this study aimed to dynamically model and map the densities of Anopheles darlingi in the municipality of Saint-Georges de l’Oyapock (French Guiana). Longitudinal sampling sessions of An. darlingi densities were conducted between September 2012 and October 2014. Landscape and meteorological data were collected and processed to extract a panel of variables that were potentially related to An. darlingi ecology. Based on these data, a robust methodology was formed to estimate a sta­tistical predictive model of the spatial-temporal variations in the densities of An. darlingi in Saint-Georges de l’Oyapock. The final cross-validated model integrated two landscape var­iables—dense forest surface and built surface—together with four meteorological variables related to rainfall, evapotranspiration, and the minimal and maximal temperatures. Extrapo­lation of the model allowed the generation of predictive weekly maps of An. darlingi densi­ties at a resolution of 10-m. Our results supported the use of satellite imagery and meteorological data to predict malaria vector densities. Such fine-scale modeling approach might be a useful tool for health authorities to plan control strategies and social communica­tion in a cost-effective, targeted, and timely manner. 
+Introduction 
+Nearlyhalfoftheworld’s population,i.e.,3.2billionpeople,isexposedtotheriskofmalaria [1].Malariais causedby Plasmodium parasitestransmittedto humans throughthebite of infectedAnopheles mosquitoes.At everylevelof endemicity, the spatial and temporaldistribu­tionsof malariatransmissionare heterogeneous[2].Localvariationinabundanceand expo-sure tothe vectorsis the keyto explainingthisheterogeneity[3, 4];themore individualsthat are bitten, the more likely are theytobecomeinfectedand enhancetransmissionby infecting newmosquitoes.Accurate informationon whereand whenmalariavectorsproliferate is essen­tialfor malariasurveillanceand eliminationsinceit allowstargetedinterventionsthat remark­ably increasethe efficiencyof control measures[5]. 
+Malaria vectordistributionis strongly influencedby environmental factors that determine the availability and productivityof Anopheles habitats. Environmental factors can beaccu­rately detectedand spatially analyzedusingremote sensingtechniquesto characterize Anopheles ecologicalpreferences, modelpopulationdensities,and produce hazard maps [6– 
+9]. The visualnature of maps makes themhelpful tools to identifylocations where interven­tions can betargeted[10]. Demandfor maps of worldwidemalaria-vulnerableareas, e.g.,to steerWorld Health Organization (WHO) international actions,has led to an increasing number of studies aiming to circumscribethe geographicaldistributionof vectors [11–16]. Globalmaps from thesestudies constitute intelligent support,depictingthe schematic large­scaledistributionof the species.However, the spatial resolution of current maps is too coarse to capture the localspatial and temporal dynamics of Anopheles, whichare veryheteroge­neous,evenat finescales[17–19]. The highheterogeneityof the Anopheles distribution,com­bined with major knowledgegaps in anopheline bio-ecologyand experiencefrom previous control efforts,suggestthat ecologicalstudies and control policiesshould betailoredto indi­vidualareas [20]. 
+French Guiana is an overseasFrench territoryof 230,000inhabitants locatedin northern SouthAmerica.Despite a continual decreaseinthe annual casesover thepast decade(1.8cases per1,000 inhabitants in2015),malariaremains a publichealthissue[21, 22]. Plasmodium vivax is the predominant malariaparasite speciesand was responsiblefor 80% of thediagnosed casesin2015, withtheremaindermainly dueto P. falciparum [21–24].Most malariacasesare reportedinvillageslocatedalongthemain riversflowingthroughtheterritoryand inillegal goldminingareas, whichare propitious placesfor malariatransmission[23–25].As ina large partof the Americas,themain malariavectorinFrench Guiana has historicallybeenconsid­eredtobe An. darlingi [26–32],fromits natural infectivity, anthropophilic behavior, highden­sity 
+duringmalariatransmissionperiods,and 
+widedistribution[33–37].Although An. darlingi has beenthetargetof numerous studies,many aspectsof its ecologyand biologyare still unknown.This speciesishighlyadaptable, behaviorallyvariable,and has beenobservedinhet­erogeneousbreedingsites ina widerange of ecosystems,includingforest, savannah, swamps, and human-disturbedenvironments [12, 26,34, 36,38–42]. 
+This study wasconductedin Saint-Georgesdel’Oyapock,a persistentmalaria-endemic municipalityof French Guiana where An. darlingi have beenfoundinfectedby P. vivax [43]. Anopheles darlingi densitieswere longitudinallymonitored duringthemalariatransmission period(i.e.,theSeptember–Novemberdryseason)in 2012,2013, and 2014 at eightdifferent sites. In parallel,appropriate satellite imageryand meteorologicaldata wereselectedand pro­cessedin order to extracta panel ofvariablespotentiallyrelated to An. darlingi ecology. Based on thesedata, thisstudy aimedto dynamicallymodeland map densitiesof An. darlingi inthe municipalityof Saint-Georgesdel’Oyapockat weeklyintervalsduringthemalariatransmis­sionperiod.Models and density maps of An. darlingi contribute toward controllingmalaria transmissionby bridgingtheknowledgegaps in An. darlingi bio-ecologyand providing tools for healthauthoritiesto effectivelyapply vectorcontrols. 
+
+
+Materials and Methods 
+Geography of the study area 
+Saint-Georgesdel’Oyapock(3.89°N,51.8°W) is a municipalityofFrench Guiana locatedin theAmazonforest at theeasternborderwithBrazilalongtheOyapockRiver. The3,855 inhabi­tants (data from theFrench Institute of Statistics and EconomicStudies,2012) are mainly con­centratedin thecity center and more sporadicallyintheperipheralAmerindianvillages. Contrastsbetweenneighborhoodscanbeimportant becausethepopulationstems froma great diversityof ethnicgroups.Therefore,localhabits such as agriculturalpracticesor housing typescan varywidelyfrom one area toanother. In the “traditional” Amerindianplaces, woodenhousesare mostlybuilt onstilts,and fishingor slash-and-burnagricultureis themain livelihoodactivitiesof the populations.In the “modern” places,populationshave adopted a westernlifestyle. Houses are built withsolidmaterials(concrete,bricks,etc.)and are sur­roundedby planted and tendedgardens.Landscapeof thestudy area is characterizedby four mainelements—theforest, savanna, urban,and river. Theeasternsideof the city isbordered by theOyapockRiver, and thewesternsideis opento thesavanna. The northernand southern boundariesof thetown are delimitedby denseprimaryforest. The climate isequatorial:hot, wet,and rainy. The average temperatures range between26.05°CinFebruaryand 27.85°Cin October. The mean annual cumulativerainfallis 3,345mm,withfour alternatingseasons:a long,rainy seasonfrom April to June; a long,dryseasonfromJuly to December;a short,rainy seasonfromJanuary toFebruary;and a short,dryseasonin March. 
+Mosquito collection 
+Mosquitoeswere collectedduringthedryseasonsin 2012 (September3–November 25;12 weeks),2013 (September2–November24; 12 weeks),and 2014 (September1–October26; 8 weeks)fromeightdifferentsites that variedby year (Fig 
+1).Sites were selectedfromfieldexper­tiseand followeda longitudinaltransectthat maximizedheterogeneityof the landscapeand lifestylecharacteristicsofthepopulation(Table 
+1).Landscapeheterogeneitiesweredecisiveele­ments for sampling site selection.Photo interpretation and fieldexpertisewere usedto select sampling sites suchthat theenvironmental richnessof thestudy area was coveredas bestas possible.Sincethe lifestyleof thepopulationsimpactsthe localenvironment (housingtypeor livelihoodpracticesdescribedin “Geography of thestudy area” section),thiscriterionwasalso considered.Theeightsampling sites were finallydecidedby consideringthe bestpossibleenvi­ronmentalcriteriaand fieldconstraints (fieldhostility, accesstothesite, low riskof trapping materialtheft,etc.).Importantly, the choiceof sampling sites was not orientedby theidentifi­cationof places wherewe were confidentto findnumerous An. darlingi. Trapping sessions were conductedon twonon-consecutivenightsperweek,between6:00 pm and 8:00am, by usingMosquito Magnet1 traps (Woodstream Corporation,Lititz,PA) baitedwithoctenol (MMoct).Such traps have previouslybeenproven usefultomonitor thespatialand temporal abundanceof malariavectorsinFrench Guiana [38,44]. Mosquitoeswere stored at -20°Cuntil countingand 
+morphologicalidentification[31,45,46]. To achievea weeklycartographicout­put and to smoothvariationbetweencollectionnights,thetwobi-weeklyobservationswere averagedtoapproximate adailynumberof specimensand thenmultipliedby seventoapproxi­mate a weeklynumberof specimens.In all,165 weeklyapproximated An. darlingi densityrec­ords across theeightstudy sites wasfinallyavailable for analyses,whichwas slightly less than ourexpectedmaximumof 184,owingto themechanicalfailure of traps.Sinceouractivities 
+
+
+Fig 1. Study area and sampling sites. Location of collection sites with information about their sampling 
+®
+period, Saint-Georges de l’Oyapock, French Guiana. Aerial photograph acquired in 2006 (BD Ortho product from IGN, the French National Institute of Geographic and Forest Information). 
+doi:10.1371/journal.pone.0164685.g001 
+were not conductedina protectedarea (nota national park ora regionalnature reserve),no specificpermissionwas required,and fieldstudiesdidnot involve endangeredor protected species. 
+Landscape characterization 
+A SPOT-5 imageacquiredon October14, 2012,withfour colorchannels (red,green,near­infra-red,and middleinfrared)at 10-mspatialresolutionwas selectedto characterizetheland­scapeof thestudy area.Oneimagewas sufficientto coverthe eighttrapping sites. However, the 
+
+Table 1. Characteristics of sampling sites. 
+
+Landscapes (photo interpretation and .eld expertise) and population lifestyles (.eld expertise) across the eight sites. 
+doi:10.1371/journal.pone.0164685.t001 
+presenceof cloudsrequiredtheposterioruseof a secondSPOT-5 image (July 22,2013) inorder to fillthe missingdata (5%of thetotal study area) and obtaina spatiallycomplete product. A landcovermap of thestudy area was producedbasedon fieldobservationsand a supervised trainingapproach withmaximumlikelihoodclassification.Theclassificationincludedfiveland cover typesidentifiedas “built,roads,and baresoils”; “low vegetation”; “forest”; “verydensefor­est”;and “water.” A7×7pixelmodefilter(i.e.,eachpixelvaluebeingreplacedbyitsmostcom­monneighborin a 7 × 7 cellmovingwindow)was applied to theclassificationto reducenoise. BD-Topo1 2012 (IGN,theFrench National Institute of Geographicand Forest Information) wasusedto separatethe “built” surfacesand “roads and bare soil” surfaces,resultingin a six­class landcovermap (Fig 
+2).Landcovermap qualitywasassessedby identifyingtheactualland cover of thetrainingpixels by usingphoto-interpretation and localfieldexpertiseand applying a 5-fold cross validationprocedure. The resultingmeanKappa coefficientwas 0.84.Asimplified binaryclassification,withtwoclasses “forest” and “non-forest,” wasalsoproducedtoprovide complementaryinformationfor subsequentanalyses.Biasesfrom incomplete detectionof water bodies,owingto forest canopy and thickvegetationcoveringthe surfaceof water pointswere avoided by excludingthe “water” land coverclass from furtherstatisticalanalyses.The remain­ingclasses refer to perennialenvironmentalfacies.Therefore, changes in land cover duringthe study periodwere considerednegligible,supportingtheuseof twosatellite imagesacquireddur­ingdifferentmonths to classifythestudy area. The OyapockRiverand its main tributarieswere excludedfromthe analysis sincetheyare not a suitablehabitat for An. darlingi breedingsites. Indeed,theestuarinesituation of Saint-Georgesde l’Oyapockimplieda daily tidalinfluenceand recurrentleachingof theriverbanks. 
+Given the lack of knowledgeon the specificbio-ecologyand behaviorof An. darlingi inSaint-Georgesdel’Oyapock,an exploratoryapproach wasadoptedby extractinga widerange of vari­ables to characterizethelandscape.Thesevariableswere extractedina 200-mradiusbuffer aroundeachtrapbyusingFRAGSTATS software[47].Theradiusrepresentedacompromise betweena relevant landscapecharacterizationaccordingto the satellite image spatialresolution, theoverlap betweenneighboringbuffers(to avoid informationredundancyand artificialspatial auto-correlation),and theMMoctconstructorattractionradius(up to 50 m).In total,22 land­scapevariableswere computed for eachsampling site (Table 
+2).Four variables(PAFRAC, SPLIT, TE,and PRD) were computed for eachof the twoclassifications(i.e.,thefinaland simplifiedfor­est/non-forestbinaryclassifications)by consideringallclassestogether. Two variables(AREA andEDGE)werecomputedforeachofthelandcoverclasses(i.e., “built,” “roads andbaresoils,” “lowvegetation,” “forest,” “verydenseforest,” “binaryforest,” and “binarynon-forest”). 
+
+
+Fig 2. Land cover map of the study area, Saint-Georges de l’Oyapock, French Guiana. 
+doi:10.1371/journal.pone.0164685.g002 
+Meteorological variables 
+Daily meteorologicalrecords,includingrainfall,temperature, relative humidity, solar radia­tion,and evapotranspiration(ETP) for the years 2012–2014 were obtainedfrom theMeteo-France weather station locatedin the city center of Saint-Georgesde l’Oyapock.ETP was approximated usingthe Penman–Monteith equation [48]. For each meteorologicalparame­ter, apanelofvariables(Table 
+3)wasextractedusingtwodifferenttimeintervalschemes:a cumulative7-day timeintervalscheme(i.e.,past weather from days 0 to 6, days 0 to 13, days 0 to 20, etc.) and a non-cumulative7-day time intervalscheme (i.e.,past weather from days 0 to 6, days 7 to 13, days 14 to 20, etc.).Extractionof meteorologicalvariables endedat the ninth week(day 63) before the beginningof the trapping sessionto remain withinthe dry season.A total of 2,214 meteorologicalvariableswere extractedfor each of the 32 weeks studied. 
+
+Table 2. Landscape variables. 
+
+Landscape variables Unit Description 
+Perimeter–Area Fractal None PAFRAC re.ects the shape complexity across a range of 
+Dimension (PAFRAC) spatial scales (patch sizes). It equals two divided by the slope of the regression line between the logarithm of patch area (m2) and the logarithm of patch perimeter (m). 
+Splitting Index (SPLIT) None SPLIT is the number of patches with a constant patch size when the landscape is subdivided into S (value of the splitting index) patches. It equals total landscape area (m2) divided by the sum of the patch area (m2), summed across all patches. 
+
+
+Patch Richness Density Number per 100 PRD equals the number of different patch types within the (PRD) hectares landscape divided by the total landscape area (m2). 
+Total Edge (TE) Meters TE equals the sum of the lengths (m) of all edge segments in the landscape. 
+Total Class Area (*) Hectares AREA equals the sum of the areas (m2) of all patches of (AREA) the corresponding patch type, divided by 10,000 (to convert to hectares). 
+Edge Density (*)(EDGE) Meters per EDGE equals the sum of the lengths (m) of all edge hectares segments involving the corresponding patch type, divided by the total landscape area (m2), and multiplied by 10,000 (to convert to hectares). 
+Variables were extracted using FRAGSTATS in a 200-m radius buffer around each trap. Landscape metrics marked with an asterisk were computed separately for each individual land cover class. Remaining metrics were computed with all land cover classes together. 
+doi:10.1371/journal.pone.0164685.t002 
+Statistical model 
+The spatialand temporal dynamicsof An. darlingi densitiesinresponseto landscapeand meteorologyin Saint-Georgesdel’Oyapockwereassessedusinga cumulativelinkmixed model(CLMM)[49]. 
+TheCLMMwasestimatedusingmaximumlikelihoodby 
+usingLaplace 
+approximation withan ordinalresponse. Weekly An. darlingi densitieswereallocatedtothree classesfollowingthetercilemethod:“Low densities” (firsttercile), “Medium densities” (sec­ond tercile),and “High densities” (thirdtercile).The sampling schemeusedpotentially resultedin grouping structuresas eachtrap and weekprovidingseveralobservations(repli­cates).In other words, An. darlingi densitiesobservedin thesame trap orinthe sameweek were more likely to besimilarthan observationsfromdifferenttraps or weeks.CLMMallows multiple randomeffectsto account for grouping variablesand handlingreplications [50]. The ordinalresponseof An. darlingi densitywas analyzedusingCLMMwithlogitlink,two crossedrandom effects(trap positionand catching week)and C = 3 categories(“Low,” “Medium,” and “High” densities): 
+logitðgcjkÞ¼ac ðxjk0b þuj þ ukÞ c ¼1;2 
+where k = 1, 2, ..., nk is theweekindexand j = 1,2, ..., nj isthetrap, whereas .cjk is thecumu­lative probability up to cth categoryfor observationin trap j at week k.The covariate vector xjkincludestheobservationcharacteristicrelated to theregressioncoefficient(ß),whereasthe terms uj and uk are therandom effectsrepresentingunobservedfactors at thetrap and week levels,respectively. Theparameter ac is thethreshold(cutpoint).Theprobabilityof the 
+
+Table 3. Meteorological variables. 
+
+
+Temperature (°C) (minimal [TN], mean 
+MaxNbConsecutiveDays_i-Maximum number of consecutive days that are below the p th [TM], and maximal [TX]) j_<PCTLp percentile, between days i and j before the trapping 
+NbDays_i-j_>PCTLp Number of days that are above the p th percentile, between days i and j before the trapping 
+Relative Humidity (%) (min. [HN], mean 
+NbDays_i-j_<PCTLp Number of days that are below the p th percentile, between days i [HM], and max. [HX]) and j before the trapping 
+
+Solar radiation (W/m) [SR] Max_i-j Maximal value between days i and j before the trapping Min_i-j Minimal value between days i and j before the trapping Evapotranspiration (mm) [ETP] Mean value between days i and j before the trapping Rain (mm) [Rain] MaxNbConsecutiveDaysNoRain_i-j Maximal number of consecutive days without rain between days i and j before the trapping 
+
+
+
+
+TotRain_i-j Cumulative rainfall between days i and j before the trapping Temperature (°C) (minimal [TN], mean RangeTemp_i-j Difference between the maximal and minimal temperature values [TM], and maximal [TX]) between days i and j before the trapping 
+
+Variables were extracted for two time interval schemes (i.e., cumulative 7-day and non-cumulative 7-day schemes). The 25th and 75th percentiles were used , 4th
+to extract temperature, relative humidity, solar radiation, and evapotranspiration. The 1st , 25th, 75th, 96th, and 99th percentiles were used to extract rainfall. 
+doi:10.1371/journal.pone.0164685.t003 
+category(pc) is obtainedby thedifferenceas follows: 
+pcjk ¼gcjk gc 1;jk ¼logit 1ðac ðxjk0b þuj þukÞÞ logit 1ðac 1 ðxjk0b þuj þukÞÞ 
+Model selection 
+Threemodelswere constructed.The spatialand temporal dynamicsof An. darlingi densities werebetterand more easilyevaluatedby separately investigatingtherelative effectsof the land­scapeand meteorologicalvariablesinthe firstand secondmodels,respectively. Targeted land­scapeand meteorologicalvariableswere thenmergedinto a third dynamicspatial-temporal model. Univariate CLMMsof An. darlingi densitieswere fittedusingthe 22 landscapeand 2,214meteorologicalfeatures as explanatoryvariables.From the univariateanalysis,landscape variableswith p-valuesbelow0.20were retainedfor multivariate analyses.Becauseof the numerous meteorologicalvariables,a differentstrategywasused:only variableslistedinboth thehundredlowest p-valuesand hundredhighestlog-likelihoodswere retainedfor multivari­ate analyses.For collinearexplanatoryvariables,weselectedthosethat maximizedthelog-like­lihoodand were the most easilyinterpretablefrom a bio-ecologicalpoint of view. Allpossible multivariate combinations withthe remainingvariableswere testedseparately for landscape and meteorologicalfeatures. Selectionof thebestspatial and temporal An. darlingi density modelswas basedon statisticalindicators,includingminimizationof the Akaikeinformation criterion(AIC)[51],minimizationof therandom effectsvariance(RE),and maximizationof thearea underthecurve(AUC) computed fromareceiveroperatingcharacteristic(ROC)anal­ysis [52]. Oncedefinedseparately, the landscape(spatial)and meteorological(temporal)vari­ables were usedtogethertofita singlespatial-temporalmodel. Weekly maps of An. darlingi densitiesin Saint-Georgesde l’Oyapockwere producedby calculatingtheprobabilitiesof each pixelinthestudyareabelongingto “Low,” “Medium,”or “High” classesaccordingtothe landscapeand meteorologicalconditionsfor each of the32 weeksof thestudy. For a given pixel, theclass withthe highestprobability wasassigned. 
+
+Model validation 
+Model validitywas assessedusinga 10-foldcross-validation[53], whichmeasuresthestability of a model. The datasetwas randomlypartitionedinto 10 parts,and the modelwasrefitted10 timeswiththepartitionstemporarilyremoved in rotation. Qualitywas evaluatedby computing across-validatedAUC(CVAUC), whichwascalculatedastheaverageofthe10AUC ofthe refittedmodels. 
+
+
+Results 
+Anopheles darlingi collections 
+Observeddensitiesof An. darlingi inSaint-Georgesde l’Oyapockshowed highspatialand tem­poralheterogeneity(Table 
+4). Thehighestweeklymeandensitieswerefound inthe peripheral Amerindianvillagesof Blondinand, to a lesserextent, in Martin,with 260.5and 57.7 speci­mens,respectively. In the traps of Savane, Onozo, Adimo, Esperance,Maripa, and Bernet,near thecity center, the weeklymean densitieswere lower, below15 specimens.Temporal dynamics were characterizedby maximalweeklydensitiesobservedin September(43.7)orOctober (69.0),dependingon thestudy site. Minimalweeklydensitieswere recordedat theendof the dryseasonin November (1.7).The spatial-temporalvariationin An. darlingi densitiesisshown indetailin S1Fig.The distributionof densitieswas characterizedby a highnumberof null observations(Table 
+4).For example, theupperlimit of thefirsttercilewas 0 for thefivetraps inAdimo, Esperance,Maripa, Onozo, and Savane. Therefore, furthermodelingprocedures usedobservationsclassifiedinto threedensitiesfollowingthetercilemethod:“Low densities” ([0.0]),“Medium densities” ([0.0–12.2]),and “High densities” ([12.2–1,386.0]). 
+Univariate analyses 
+Univariate predictiveCLMMsof An. darlingi densitieswerefittedusingeachof the 22 land­scapeand 2,214 meteorologicalfeatures as explanatoryvariables.Sevennoncollinearlandscape variablesshowed p-valueslower than 0.20,and sevennoncollinearmeteorologicalvariables were listedinboththehundredlowest p-valuesand the hundredhighestlog-likelihoodvalues (Table 
+5).Followingthemodelselectionprocedures,thesevariableswere retainedfor 
+Table 4. Anopheles darlingi weekly density distribution. 
+
+doi:10.1371/journal.pone.0164685.t004 
+
+Table 5. Landscape and meteorological variables selected for multivariate CLMMs of An. darlingi densities during the malaria transmission period (i.e., September–November dry season) in Saint-Georges de l’Oyapock, French Guiana. 
+
+
+Variable Coef.cient Sign Log-likelihood p-value 
+[M1] ETP_max_28–0 < 0.01 
+[M2] HN_MaxNbConsecutiveDays_63–57_<49 < 0.01 
+[M3] MaxNbConsecutiveDaysNoRain_49–0 < 0.01 
+[M4] TM_moy_42–36 < 0.01 
+[M5] TN_MaxNbConsecutiveDays_56–0_<22.5 < 0.01 
+[M6] TX_moy_56–50 < 0.01 
+[M7] TX_MaxNbConsecutiveDays_63–57_>33.2 < 0.01 
+doi:10.1371/journal.pone.0164685.t005 
+multivariate analyses.For thelandscapefeatures, forest-related variableswerepositivelyassoci­ated, whereasalltheothervariableswere negatively associatedwith An. darlingi densities.The selectedmeteorologicalvariablesincludedfour related to temperature (T) and oneeachrelated to evapotranspiration (ETP),humidity (H),and rainfall(Rain).With theexceptionof “TN_MaxNbConsecutiveDays_56–0_<22.5”allthe othervariableswere negatively associated with An. darlingi densities. 
+Multivariate analyses 
+Allpossiblemultivariate combinations, separately for thelandscapeand meteorologicalvari­ables listedin Table 
+5, 
+were 
+tested. 
+Statisticalperformancesof the significantpredictivemulti­variate landscape-and meteorology-basedmodelsare listedin Table 
+6.It resultedin two landscape-basedmodelsand 14 meteorology-basedmodels(onlythefivebestmodels,i.e.,with thehighestexplanatoryvalue,are reported). 
+Selectionof thefinalmultivariate landscape-and meteorology-based CLMMsis detailedin 
+S1 
+Text. 
+For landscape,theLAND_2modelwas selected.In thismodel,an increasein thebuilt 
+surfaceand denseforest surfaceina 200-mradiusaround a trap wasassociatedwitha decrease 
+and increasein An. darlingi densities,respectively. For meteorology, theMETEO_1modelwas 
+selectedshowingthefollowing:themaximalvalueof ETP duringthe28days precedingthecol­
+lection(“ETP_max_28–0”)was negatively associatedwith An. darlingi densities;themaximum 
+numberofconsecutivedays without rainfallduringthe49 days precedingthecollection 
+(“MaxNbConsecutiveDaysNoRain_49–0”) wasnegatively associatedwith An. darlingi densities; 
+themaximumnumberof consecutivedays witha minimaltemperature below22.5°C(25th per­
+centile)duringthe56 days precedingthecollection(“TN_MaxNbConsecutiveDays_56– 
+0_<22.5”)was positivelyassociatedwith An. darlingi densities;and themaximumnumberof 
+consecutivedays witha maximaltemperature above 33.2°C(75th percentile)duringtheninth 
+weekprecedingthe collection(“TX_MaxNbConsecutiveDays_63–57_>33.2”)was negatively 
+associatedwith An. darlingi densities. 
+
+Table 6. Statistical performances of the best predictive multivariate landscape-and meteorology-based cumulative link mixed models of An. dar­lingi densities during the malaria transmission period (i.e., the September–November dry season) in Saint-Georges de l’Oyapock, French Guiana. 
+Landscape-based models 
+
+
+Model Variables AIC AUC RE 
+Low METEO_1 1.91 METEO_2 1.90 METEO_3 1.91 METEO_4 1.25 METEO_5 1.28 
+
+Landscape variable indices: “[L2]” for “AREA_DenseForest,” “[L3]” for “AREA_Built,” and “[L4]” for “PerimeterAreaFractalDimension.” Meteorological variables indices: “[M1]” for “ETP_max_28–0,” “[M2] for “HN_MaxNbConsecutiveDays_63–57_<49,” “[M3]” for “MaxNbConsecutiveDaysNoRain_49–0,” “[M5] for “TN_MaxNbConsecutiveDays_56–0_<22.5,” and “[M7]” for “TX_MaxNbConsecutiveDays_63–57_>33.2.” AIC: Akaike information criterion. AUC: area under the curve from the receiver operating characteristic (ROC) analysis for the Low, Medium, and High An. darlingi density classes. RE: Random effects total variance. 
+
+
+
+doi:10.1371/journal.pone.0164685.t006 
+Spatial-temporal model 
+Thetargetedlandscapeand meteorologicalvariableswereusedtogethertofita singlefinalspa­tial-temporalpredictivemodel(Table 
+7).The AICofthemodelwas 287.05,and theAUC of the “Low,” “Medium,” and “High” An. darlingi density classeswere 0.78,0.64,and 0.80, respectively. 
+Mapping An. darlingi densities 
+Extrapolationof the landscape-basedmodelproduceda staticmap of An. darlingi densities duringthedryseason(September–November) for theentire municipalityof Saint-Georgesde l’Oyapock(Fig 
+3),depictingthebackgroundinfluenceof thelandscapeon An. darlingi densi­ties,irrespectiveofintra-seasonalvariation.In agreementwith themodelparameters,the denselyforested surroundingsof Saint-Georgesdel’Oyapockwere predictedas a high An. dar­lingi densityarea. This area encompassedtheAmerindianvillagesof Blondinand Martinand includedlocationsclosertothecity center, such as thenorthernpartsof the Onozoand Savane neighborhoodsand a major partof theBernetneighborhood,whichis a militarycamp. The savannah plain in thenortheastpartof the city, mainlycharacterizedby 
+low 
+vegetation(Fig2), as wellas theaerodromeneighborhooddominatedby herbaceousvegetation,waspredictedas medium An. darlingi densityarea.The most urbanizedareas,i.e.,city center neighborhoods, were predictedas low An. darlingi density areas. 
+Extrapolationof thespatial-temporalmodel(Table 
+7), basedon boththeland cover map of thestudy area and meteorologicalobservations,allowedto dynamicallymap An. darlingi den­sitiesat weeklytimeintervals(S1 
+Movie).For the threesampling periodsof 2012,2013,and 2014,maps showed that themodelpredicteda globaldynamiccharacterizedby high An. dar­lingi densitiesinSeptemberacrossalmostthe entire study area, except mostof theurbanized neighborhoods.Densitiesof An. darlingi thenprogressively decreaseduntiltheendof the dry 
+
+Table 7. Parameters of the predictive spatial-temporal cumulative link mixed model of An. darlingi densities during the malaria transmission period (i.e., the September–November dry season) in Saint-Georges de l’Oyapock, French Guiana. 
+Thresholds Low | Medium Medium | High 
+
+Slopes 
+AREA_BUILT 
+By one hectare increase 
+AREA_DENSFOREST 
+By one hectare increase 
+ETP_max_28–0 
+By one millimeter increase 
+MaxNbConsecutiveDaysNoRain_49–0 
+By one day increase 
+TN_MaxNbConsecutiveDays_56–0_<22.5 
+By one day increase 
+TX_MaxNbConsecutiveDays_63–57_>33.2 
+By one day increase 
+Random effects Trap Week 
+doi:10.1371/journal.pone.0164685.t007 
+
+Coef.cients Standard errors P-value 
+< 0.01 < 0.01 < 0.01 < 0.01 < 0.01 0.01 
+seasonand maintaineda spatial gradientfrom thecity center neighborhoods(lowest densities) to the denselyforested areas (highestdensities). 
+Model validation 
+AUC valueswerepreviously computed usingthe entire data setto guidemodelselection.The qualityofthemodelwasassessedbycalculatingaCVAUC froma10-foldcrossvalidation.The CVAUC means(standarddeviations)were0.78(<0.01),0.64(0.01),and0.79 (0.02)for the “Low,” “Medium,” and “High” An. darlingi density classes,respectively. Thesevalueswere very closeto thosecomputed usingtheentiredata set(0.78,0.64,and 0.80)and had low standard deviations.Theseresults confirmedthe stability of themodeland its predictivevaluefor the “Low” and “High” An. darlingi densityclasses. 
+
+
+Discussion 
+Although An. darlingi is one of the mostimportant malariavectorsin theAmericas,in many areas, theinfluenceof ecologicalfactorson localpopulationdynamicsisnot clearly under­stood.To ourknowledge,thisis the firststudy toimplement a dynamicmodelof An. darlingi densitiesin French Guiana to assist the developmentof vectorcontrol strategies.An original and powerfulmodelingmethodwas proposedbasedon a CLMMthat exploits theordered nature of observationsand offersa flexibleregressionframework.The modelselectionproce­dures wereguidedby objectivestatisticalcriteriawhileretainingthe centralrole of entomologi­calexpertise.The finalmodelwas basedon twolandscapevariables(denseforest surfaceand builtsurface)andfourmeteorologicalvariables(absenceofrainfall,maximalETP, andmini­maland maximaltemperatures).The accuracyof predictingthespatial-temporaldensitiesof An. darlingi wasevaluatedbyusingaCVAUC, whichwas0.74inaverageforthethreedensity 
+
+
+Fig 3. Landscape-based model map of predicted An. darlingi densities during the malaria transmission period (i.e., the September–November dry season) in Saint-Georges de l’Oyapock, French Guiana. 
+doi:10.1371/journal.pone.0164685.g003 
+classes.The average performancewas reducedby the “Medium” density class,whichhadan AUC of 0.64;therefore,thepredictionsfor intermediatedensity areas remainuncertain.More importantly, thebestAUC value (0.80) wasobservedfor the “High” density class.In other words, themodelwas the most accuratefor theareas needingthehighestmalariavector control. 
+Denseforest surfacewas an efficientpredictorof high An. darlingi densities.However, the classificationof the unpopulateddenseforest surroundingSaint-Georgesde l’Oyapockas a high An. darlingi density area shouldbediscussedsincethisspeciesis knownfor its anthropo­philicbehavior[36, 37,54, 55].Severalspecificcharacteristicsof thestudy, combinedwiththe ecologicalpreferencesof An. darlingi, might explainthismodelprediction.First, thehostility of the environment, i.e.,theequatorialprimaryforest, prevented the placingof traps far from theedgesof thedenseforest; hence,allthesampling sites were effectivelylocatedcloseto human settlements.Thus, modelpredictionsdepictedthat villagesencompassinglarge patches of denseforest at theirbordersare highlyexposedto malariavectors.Second,theextrapolation of the modelto theentire study area was not random.Indeed,the study wasfocusedon a cir­cumscribedarea sothat any pixel of thepredictivemap was not furtherthan 2 kmfromhuman settlements,i.e.,from An. darlingi bloodmealsources.Althoughlittle isknownabout theflight range of An. darlingi, denselyforestedplacesin thestudy area couldveryless likelybethehot­spotsfor An. darlingi. Forest ecosystemswithhuman settlementsat theirbordersare reported to provide optimalbreeding,resting,and feedingsites that favor a highdensity and survivalof human malariavectors[9, 56]. 
+
+Built surfaceswere negatively associatedwith An. darlingi densities.Denselybuilt-upareas favor runoffand are not likely to offernatural water bodiessuitable for An. darlingi breeding or resting[26].In addition,the increasingdensityof human settlementfromthe peripheryof themunicipalityto thecity center constitutes a behavioralbarrierfor mosquitoes.Femalesdo not needto flyfar into thecity area to securea bloodmeal. Similarobservationsand hypothe­seshave beenmadefor An. gambiae inAfricawiththenumberof specimensbeinginversely proportionalto thelevelof urbanizationin thearea [57,58]. 
+A main limitationof thisstudy istheabsenceof landscapevariablesdirectlyrelated to the water bodiesthat are essentialfor breedingmosquitoes.This is an inherentflawin theAmazo­nian region,whichprevents the effectiveuseof opticalsatellite imageryto exhaustively detect water bodiesunderthe thickforest cover. The denseforest surfacevariableusedto modelAn. darlingi densitiesmightbeconsideredas proxy for thepresenceof water. Indeed,themajority ofthehydrographic networkcouldlikelybehiddenby thecanopy. Thus,althoughthisresearch supportstheuseof opticalsatellite imagerytopredict An. darlingi densities,it is limitedin comparisonwithsimilarstudiesconductedinopenlandscapes,such as inSahelianAfrica[57] or Europe [59].Furtherstudiesthat evaluatethepotentialofradarimagerytodetectwater bod­iesunderthecanopy mighthelp rectifythislimitation. 
+Anotherlimitationimpliedby theuseof optic satellite imageryinthe equatorialarea was thescarcityof cloud-freeimage. Thus, thelandscapeof the study area was characterizedbased on a singletimepoint land covermap. From the veryregularpresenceof theauthors in Saint-Georgesdel’Oyapockfor fieldcollections,environmental changes duringtheentire study periodwereconsiderednegligible.Despite this,fine-scalelandscapemodificationsmight have occurredbetweenSeptember2012 and November 2014. Further, the landscapechanges within a season(September–November)were not objectivelyevaluated.Thesetwoissuesmightresult inincorrectpredictionsof localAn. darlingi densities.However, sincetheland coverclasses targetedin thepresent study refer to coarseenvironmental facies,thepotentialimpactsofenvi­ronmentalmodificationson the results were consideredas minor. 
+The maximalvalueof ETP duringthe28days precedingthecollectionperiodwasnegatively associatedwith An. darlingi densities.Mosquitoes exposedto highETP are potentiallysub­jectedto desiccation.Further, ETP mightbeconsidereda proxy for theloss of breedingsites. Themaximum numberof consecutivedays withoutrainfallduringthe49 days precedingthe collectionperiodwas alsonegatively associatedwith An. darlingi densities.Long,dryspells duringtheproliferation seasonof An. darlingi (i.e.,the dryseason)most likelycausedthe reductionof aquatic breedingsites and interruptedpopulationdynamics,leadingto low densi­tiesinthefollowingweeks.The maximumnumberof consecutivedays witha minimaltemper­ature below22.5°Canda maximaltemperature above 33.2°Cwere positivelyand negatively associatedwith An. darlingi densities,respectively. With regardtoETP, veryhightemperatures mightcause mosquitodesiccationand acceleratethe lossof aquatic breedingsites. In contrast, lowertemperatures appeared tobenefitmosquitobreeding.In thestudy area, minimaltemper­atures neverfellbelow20°Cand were always suitablefor An. darlingi. In addition,duringthe dryseason,thelowest daily temperatures were mostoftenrecordedon rainy days. Therefore, therelationship betweenthe maximumnumberof consecutivedays witha minimaltempera­ture below22.5°Cand An. darlingi densitiesmight indicatetheimpactof rainy episodesduring thedryseasonon mosquitodensity. Meteorologicalvariablesselectedinthe finalmodelwere related to the weather conditionsobservedseveralweeksbeforethesampling sessions (from four to nineweeks),whichmightexceedthelifespanof An. darlingi females.Therefore, the impactofmeteorologicalfactorson An. darlingi shouldbeinterpretedover severalgenerations, i.e.,adverseweatherconditionsduringa givengenerationmight impactsubsequentones. 
+
+By usingentomologicaldata sampled bothinthedryand wet seasons,Adde etal. (unpub­lisheddata) observeda negative correlationbetweenmonthly rainfalland An. darlingi densi­ties.Further, otherstudies[60,61] have suggestedthat thisnegativerelationship highlightsthe localseasonalframeworkconduciveto high An. darlingi densities:thedriestmonths of Sep­tember–November. However, whenfocusingon thedryseasonand downsizingto a weekly scale,therelationship appears to bereversed:rainy events duringthe dryseasonare beneficial for theproliferation of An. darlingi. Onehypothesis isthat, duringthewet season(April– June), thebreedingsites are floodedand are regularlyflushed,resultingina drasticreduction inmosquitodensities[36].Dryconditionsduringtheoffseason(July–August) and at theonset of the dryseason(September–midOctober)might decreasethelevelof water bodiessuitable for breeding,and flushingeventsbecomerarer, resultingin highdensitiesof mosquitoes.Dry­ingof thewater bodiescontinuesthroughthefollowingweeks,and thus theavailability of suit-able breedingplaces becomeslimitedagain toward theendof thedryseason(end-October– November),resultingin a substantialreductionin An. darlingi densities. 
+Significanttechnical,human, and financialresourceswere requiredto achievethe consider­able entomologicalcollectioninthisstudy. The collectionperiodwasrestrictedto extendspa­tialsampling, whichwas not possibleto continue throughouttheyear. Thisstudy focusedon themiddleof thedryseason(September–November),whichis themajor periodof malaria transmissionand the seasonwhen An. darlingi isabundant. Unfortunately, thiscollection perioddidnot allow themeasurementof theincreaseinmosquitodensitiesafterthewet sea­son:it beginsin Septemberwhenthedensitiesare almostmaximal. Given thehypotheticaldif­ferentiatedimpactof rainfallon An. darlingi densitiesacross seasonsoutlinedabove, thefour differentmodels(Dryseason;Offseason1; Wet season;Offseason2) wouldbenecessaryto capture thedynamicsover theentire year. 
+Mapping vector-bornediseasedeterminantsand entomologicalhazards is highlightedby theWHO as a centralfeature for efficientand integratedvectorcontrol management [62]. Hazard maps shouldbeconsideredas predictivesupportthat provide relevant information about whereand whenvectorcontrol interventionscouldbefocused.Thisinformationis essentialfor thesuccessof malariaeliminationprograms [63–67].Thisstudy was conductedat a localleveltoprovide operationalresults consistent withtheintendedscaleof spatialinterven­tion.Inevitably, thislimits the generalityand reproducibilityof theresults in othercontexts. However, consideringthehighheterogeneityof malariavectordynamics,focusingon local specificitiesis necessaryto devisesustainable and effectivecontrol tools,whichare not possible to implement fromsynopticor large-scaleapproaches. 
+
+Conclusions 
+Theanalysis of therelationships betweenlandscapeparametersderivedfrom SPOT-5 satellite imagery, meteorologicalobservations,and An. darlingi densitiesalloweddevelopinga robust and operationalmethodologyto dynamicallymap malariavectordensity in Saint-Georgesde l’Oyapock,an area of French Guiana whereresidualmalariatransmissionstillexists.Such a fine-scalemodelingapproach fillstheknowledgegap inlocalAn. darlingi bio-ecologyand pro­videsa toolfor healthauthoritiesto establisheffectivevectorcontrol. Productionof near real­time An. darlingi density maps canbeimplemented by automating satellite and meteorological dataprocessingto aid publichealthauthoritiesinplanningcontrol strategiesand preparing socialcommunicationin a cost-effective,targeted,and timelymanner.
+
+
+
+

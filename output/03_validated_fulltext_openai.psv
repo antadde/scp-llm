@@ -1,0 +1,131 @@
+extracted_id|species|phylum|class|health_target|mechanism|study_location|scale|study_period|curated_species|curated_health|curated_mechanism|species_score|health_score|mechanism_score|total_score|validation_class|axis_profile
+10t|anopheles darlingi|arthropoda|insecta|malaria|vector|university of guyana, turkeyen campus, guyana|local|2018|anopheles darlingi|malaria|vector|1|1|1|1|strong|SHM
+10t|culex|arthropoda|insecta|yellow fever virus|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|1|0|1|0.666666666666667|moderate|ShM
+10t|culex|arthropoda|insecta|chikungunya|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|1|0.6|1|0.866666666666667|strong|SHM
+10t|culex|arthropoda|insecta|zika|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|1|0.6|1|0.866666666666667|strong|SHM
+10t|culex|arthropoda|insecta|filarial|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|1|0|1|0.666666666666667|moderate|ShM
+10t|culex|arthropoda|insecta|dengue|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|1|0.6|1|0.866666666666667|strong|SHM
+10t|culex|arthropoda|insecta|malaria|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|1|0.6|1|0.866666666666667|strong|SHM
+10t|culex quinquefasciatus|arthropoda|insecta|malaria|vector|university of guyana, turkeyen campus, guyana|local|2018|culex|vector diseases|vector|0.6|0.6|1|0.733333333333333|moderate|SHM
+10t|aeshna flavifrons|||ZVBD|biological control|university of guyana, turkeyen campus, guyana|local|2018|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+10t|ischnura forcipata|arthropoda|insecta|ZVBD|biological control|university of guyana, turkeyen campus, guyana|local|2018|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+11t|aedes aegypti|arthropoda|insecta|dengue|vector|boa vista, roraima, brazil|local|2003–2004|aedes aegypti|chikungunya|vector|1|0.6|1|0.866666666666667|strong|SHM
+11t|toxorhynchites guadeloupensis|arthropoda|insecta|dengue|biological control|boa vista, roraima, brazil|local|2003–2004|toxorhynchites guadeloupensis|dengue|biological control|1|1|1|1|strong|SHM
+12t|anopheles darlingi|arthropoda|insecta|malaria|vector|saint-georges de l'oyapock, french guiana|local|2012–2014|anopheles darlingi|malaria|vector|1|1|1|1|strong|SHM
+12t|plasmodium falciparum|myzozoa|aconoidasida|malaria|infectious agent|saint-georges de l'oyapock, french guiana|local|2012–2014|plasmodium falciparum|malaria|infectious agent|1|1|1|1|strong|SHM
+12t|plasmodium vivax|myzozoa|aconoidasida|malaria|infectious agent|saint-georges de l'oyapock, french guiana|local|2012–2014|plasmodium vivax|malaria|infectious agent|1|1|1|1|strong|SHM
+15t|haemagogus janthinomys|arthropoda|insecta|yellow fever virus|vector|south america|regional|1935–2020|haemagogus janthinomys|yellow fever|vector|1|0|1|0.666666666666667|moderate|ShM
+15t|haemagogus janthinomys|arthropoda|insecta|mayaro virus|vector|south america|regional|1935–2020|haemagogus janthinomys|mayaro virus|vector|1|1|1|1|strong|SHM
+15t|haemagogus leucocelaenus|arthropoda|insecta|yellow fever virus|vector|south america|regional|1935–2020|haemagogus janthinomys|yellow fever|vector|0.6|0|1|0.533333333333333|weak or novel|ShM
+16t|cuniculus paca linnaeus|chordata|mammalia|pneumonia|medicinal use|caxiuan national forest, brazil|local|2018–2019|cuniculus paca|polycystic echinococcosis|intermediate host|0.6|0|0|0.2|weak or novel|Shm
+16t|cuniculus paca linnaeus|chordata|mammalia|snakebites|medicinal use|caxiuan national forest, brazil|local|2018–2019|cuniculus paca|polycystic echinococcosis|intermediate host|0.6|0|0|0.2|weak or novel|Shm
+16t|citrus limon osbeck|||influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|allantoma lineata miers|||diarrhea|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|gallus domesticus|chordata|aves|snakebites|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|gallus domesticus|chordata|aves|erysipela|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|hoplias malabaricus|chordata||earache|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|scutellaria agrestis a.st.-hil. ex benth|||earache|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|fridericia chica l.g.lohmann|||anemia|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|dianthera calycina b.d.jacks|||anemia|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|mansoa alliacea a.h.gentry|||stroke|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|quassia amara|tracheophyta|magnoliopsida|malaria|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+16t|cichorium endivia|tracheophyta|magnoliopsida|influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|carapa guianensis aubl|||scabies|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|bertholletia excelsa bonpl|||chilblain|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|copaifera epunctata amshoff|||inflammation|medicinal use|caxiuan national forest, brazil|local|2018–2019|copaifera sp|leishmaniasis|medicinal use|0.6|0|1|0.533333333333333|weak or novel|ShM
+16t|zingiber officinale roscoe|||influenza|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|mentha pulegium|tracheophyta|magnoliopsida|flatulence|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|aloe vera burm.|||erysipelas|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|anacardium occidentale|tracheophyta|magnoliopsida|diarrhea|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|psidium guajava|tracheophyta|magnoliopsida|diarrhea|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|citrus aurantium f. aurantium|||palpitation|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|hyptis crenata pohl ex benth|||stomach ache|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|crocodilurus amazonicus spix|||malaria|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+16t|electrophorus electricus|chordata||lice|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|myrmecophaga tridactyla linnaeus|||snakebites|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+16t|melanosuchus niger|chordata|crocodylia|wounds|medicinal use|caxiuan national forest, brazil|local|2018–2019|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+18t|apodemus agrarius|chordata|mammalia|hantavirus cardiopulmonary syndrome|reservoir host|maranhão, brazil|local|2021|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+18t|boweense|||hantavirus cardiopulmonary syndrome|infectious agent|maranhão, brazil|local|2021|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+18t|carollia perspicillata|chordata|mammalia|hantavirus cardiopulmonary syndrome|reservoir host|maranhão, brazil|local|2021|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+18t|jejuense|||hantavirus cardiopulmonary syndrome|infectious agent|maranhão, brazil|local|2021|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+18t|quenzonense|||hantavirus cardiopulmonary syndrome|infectious agent|maranhão, brazil|local|2021|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+18t|robinaense|||hantavirus cardiopulmonary syndrome|infectious agent|maranhão, brazil|local|2021|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+1t|echinococcus vogeli|platyhelminthes|cestoda|polycystic echinococcosis|infectious agent|pan-amazonia|regional|unknown|echinococcus vogeli|polycystic echinococcosis|infectious agent|1|1|1|1|strong|SHM
+1t|cuniculus paca|chordata|mammalia|polycystic echinococcosis|intermediate host|pan-amazonia|regional|unknown|cuniculus paca|polycystic echinococcosis|intermediate host|1|1|1|1|strong|SHM
+1t|dasypus novemcinctus|chordata|mammalia|polycystic echinococcosis|intermediate host|pan-amazonia|regional|unknown|dasypus novemcinctus|leprosis|reservoir host|1|0.6|0|0.533333333333333|weak or novel|SHm
+1t|speothos venaticus|chordata|mammalia|polycystic echinococcosis|reservoir host|pan-amazonia|regional|unknown|cuniculus paca|polycystic echinococcosis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+1t|atelocynus microtis|chordata|mammalia|polycystic echinococcosis|reservoir host|pan-amazonia|regional|unknown|cuniculus paca|polycystic echinococcosis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+22t|culex coronator|arthropoda|insecta|st louis encephalitis|vector|loreto department, peru|local|1996–2001|culex|vector diseases|vector|0.6|0|1|0.533333333333333|weak or novel|ShM
+22t|culex gnomatos|arthropoda|insecta|eastern equine encephalitis|vector|loreto department, peru|local|1996–2001|culex gnomatos|venezuelan equine encephalomyelitis|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex gnomatos|arthropoda|insecta|venezuelan equine encephalitis|vector|loreto department, peru|local|1996–2001|culex gnomatos|venezuelan equine encephalomyelitis|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex gnomatos|arthropoda|insecta|caraparu|vector|loreto department, peru|local|1996–2001|culex gnomatos|venezuelan equine encephalomyelitis|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex ocossa|arthropoda|insecta|venezuelan equine encephalitis|vector|loreto department, peru|local|1996–2001|culex|vector diseases|vector|0.6|0|1|0.533333333333333|weak or novel|ShM
+22t|culex ocossa|arthropoda|insecta|murutucu|vector|loreto department, peru|local|1996–2001|culex|vector diseases|vector|0.6|0|1|0.533333333333333|weak or novel|ShM
+22t|culex pedroi|arthropoda|insecta|eastern equine encephalitis|vector|loreto department, peru|local|1996–2001|culex pedroi|eastern equine encephalomyelitis|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex pedroi|arthropoda|insecta|venezuelan equine encephalitis|vector|loreto department, peru|local|1996–2001|culex pedroi|eastern equine encephalomyelitis|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex pedroi|arthropoda|insecta|caraparu|vector|loreto department, peru|local|1996–2001|culex pedroi|eastern equine encephalomyelitis|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex spissipes|arthropoda|insecta|venezuelan equine encephalitis|vector|loreto department, peru|local|1996–2001|culex|vector diseases|vector|0.6|0|1|0.533333333333333|weak or novel|ShM
+22t|culex vomerifer|arthropoda|insecta|venezuelan equine encephalitis|vector|loreto department, peru|local|1996–2001|culex vomerifer|caraparu virus|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|culex vomerifer|arthropoda|insecta|caraparu|vector|loreto department, peru|local|1996–2001|culex vomerifer|caraparu virus|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|ochlerotatus fulvus|arthropoda|insecta|venezuelan equine encephalitis|vector|loreto department, peru|local|1996–2001|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+22t|ochlerotatus fulvus|arthropoda|insecta|una|vector|loreto department, peru|local|1996–2001|abuta grandifolia|malaria|medicinal use|0|0|0|0|weak or novel|shm
+22t|psorophora ferox|arthropoda|insecta|ilheus|vector|loreto department, peru|local|1996–2001|psorophora ferox|ilheus virus|vector|1|0|1|0.666666666666667|moderate|ShM
+22t|psorophora ferox|arthropoda|insecta|una|vector|loreto department, peru|local|1996–2001|psorophora ferox|ilheus virus|vector|1|0|1|0.666666666666667|moderate|ShM
+24t|aroapyrgus colombiensis|mollusca|gastropoda|paragonimiasis|intermediate host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+24t|didelphis marsupialis|chordata|mammalia|paragonimiasis|reservoir host|ecuador|national|1978–2007|didelphis marsupialis|leishmaniasis|reservoir host|1|0.6|1|0.866666666666667|strong|SHM
+24t|felis pardalis|chordata|mammalia|paragonimiasis|reservoir host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+24t|hypolobocera aequatorialis|arthropoda|malacostraca|paragonimiasis|intermediate host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0.6|1|1|0.866666666666667|strong|SHM
+24t|hypolobocera chilensis|arthropoda|malacostraca|paragonimiasis|intermediate host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|1|1|1|1|strong|SHM
+24t|moreirocarcinus emarginatus|||paragonimiasis|intermediate host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+24t|nasua nasua|chordata|mammalia|paragonimiasis|reservoir host|ecuador|national|1978–2007|nasua nasua|chagas disease|reservoir host|1|0.6|1|0.866666666666667|strong|SHM
+24t|paragonimus mexicanus|platyhelminthes|trematoda|paragonimiasis|infectious agent|ecuador|national|1978–2007|paragonimus mexicanus|paragonimiasis|infectious agent|1|1|1|1|strong|SHM
+24t|paragonimus heterotremus|platyhelminthes|trematoda|paragonimiasis|infectious agent|ecuador|national|1978–2007|paragonimus mexicanus|paragonimiasis|infectious agent|0.6|1|1|0.866666666666667|strong|SHM
+24t|paragonimus inca|platyhelminthes|trematoda|paragonimiasis|infectious agent|ecuador|national|1978–2007|paragonimus mexicanus|paragonimiasis|infectious agent|0.6|1|1|0.866666666666667|strong|SHM
+24t|paragonimus westermani|platyhelminthes|trematoda|paragonimiasis|infectious agent|ecuador|national|1978–2007|paragonimus mexicanus|paragonimiasis|infectious agent|0.6|1|1|0.866666666666667|strong|SHM
+24t|pseudotelphusa chilensis|||paragonimiasis|intermediate host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+24t|rattus rattus|chordata|mammalia|paragonimiasis|reservoir host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+24t|tayassu pecari|chordata|mammalia|paragonimiasis|reservoir host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+24t|trichodactylus faxoni|arthropoda|malacostraca|paragonimiasis|intermediate host|ecuador|national|1978–2007|hypolobocera chilensis|paragonimiasis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+25t|achatina fulica|mollusca|gastropoda|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020|achatina fulica|eosinophilic meningitis|intermediate host|1|1|1|1|strong|SHM
+25t|achatina fulica|mollusca|gastropoda|abdominal angiostrongyliasis|intermediate host|macap, amapá, brazil|local|2019–2020|achatina fulica|eosinophilic meningitis|intermediate host|1|0|1|0.666666666666667|moderate|ShM
+25t|angiostrongylus cantonensis|nematoda|chromadorea|eosinophilic meningitis|infectious agent|macap, amapá, brazil|local|2019–2020|angiostrongylus cantonensis|eosinophilic meningitis|infectious agent|1|1|1|1|strong|SHM
+25t|angiostrongylus cantonensis|nematoda|chromadorea|abdominal angiostrongyliasis|infectious agent|macap, amapá, brazil|local|2019–2020|angiostrongylus cantonensis|eosinophilic meningitis|infectious agent|1|0|1|0.666666666666667|moderate|ShM
+25t|angiostrongylus costaricensis|nematoda|chromadorea|abdominal angiostrongyliasis|infectious agent|macap, amapá, brazil|local|2019–2020|angiostrongylus cantonensis|eosinophilic meningitis|infectious agent|0.6|0|1|0.533333333333333|weak or novel|ShM
+25t|diplosolenodes occidentalis|mollusca|gastropoda|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020|achatina fulica|eosinophilic meningitis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+25t|latipes erinaceus|mollusca|gastropoda|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020|achatina fulica|eosinophilic meningitis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+25t|rattus norvegicus|chordata|mammalia|eosinophilic meningitis|reservoir host|macap, amapá, brazil|local|2019–2020|achatina fulica|eosinophilic meningitis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+25t|rattus rattus|chordata|mammalia|eosinophilic meningitis|reservoir host|macap, amapá, brazil|local|2019–2020|achatina fulica|eosinophilic meningitis|intermediate host|0|1|0|0.333333333333333|weak or novel|sHm
+25t|sarasinula linguaeformis|mollusca|gastropoda|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020|sarasinula linguaeformis|eosinophilic meningitis|intermediate host|1|1|1|1|strong|SHM
+25t|subulina octona|mollusca|gastropoda|eosinophilic meningitis|intermediate host|macap, amapá, brazil|local|2019–2020|subulina octona|eosinophilic meningitis|intermediate host|1|1|1|1|strong|SHM
+4t|amblyomma cajennense|arthropoda|arachnida|spotted fever|vector|santa ins municipality, maranho state, brazil|local|2021–2023|amblyomma cajennense|rickettsiosis|vector|1|0|1|0.666666666666667|moderate|ShM
+4t|rickettsia amblyommatis|proteobacteria|alphaproteobacteria|spotted fever|infectious agent|santa ins municipality, maranho state, brazil|local|2021–2023|rickettsia parkeri|rickettsiosis|infectious agent|0.6|0|1|0.533333333333333|weak or novel|ShM
+5t|aedes aegypti|arthropoda|insecta|dengue|vector|manaus, brazil|local|2021|aedes aegypti|chikungunya|vector|1|0.6|1|0.866666666666667|strong|SHM
+6t|nyssorhynchus benarrochi|||malaria|vector|brazilian amazon|regional|2015–2016|nyssorhynchus benarrochi|malaria|vector|1|1|1|1|strong|SHM
+6t|nyssorhynchus darlingi|||malaria|vector|brazilian amazon|regional|2015–2016|nyssorhynchus darlingi|malaria|vector|1|1|1|1|strong|SHM
+6t|nyssorhynchus konderi|||malaria|vector|brazilian amazon|regional|2015–2016|nyssorhynchus konderi|malaria|vector|1|1|1|1|strong|SHM
+6t|nyssorhynchus rangeli|||malaria|vector|brazilian amazon|regional|2015–2016|nyssorhynchus rangeli|malaria|vector|1|1|1|1|strong|SHM
+6t|plasmodium falciparum|myzozoa|aconoidasida|malaria|infectious agent|brazilian amazon|regional|2015–2016|plasmodium falciparum|malaria|infectious agent|1|1|1|1|strong|SHM
+6t|plasmodium vivax|myzozoa|aconoidasida|malaria|infectious agent|brazilian amazon|regional|2015–2016|plasmodium vivax|malaria|infectious agent|1|1|1|1|strong|SHM
+7t|cerdocyon thous|chordata|mammalia|leishmaniasis|reservoir host|brazil|national|unknown|copaifera sp|leishmaniasis|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+7t|didelphis marsupialis|chordata|mammalia|leishmaniasis|reservoir host|brazil|national|unknown|didelphis marsupialis|leishmaniasis|reservoir host|1|1|1|1|strong|SHM
+7t|leishmania chagasi|euglenozoa|kinetoplastea|leishmaniasis|infectious agent|brazil|national|unknown|leishmania panamensis|leishmaniasis|infectious agent|0.6|1|1|0.866666666666667|strong|SHM
+7t|leishmania infantum|euglenozoa|kinetoplastea|leishmaniasis|infectious agent|brazil|national|unknown|leishmania panamensis|leishmaniasis|infectious agent|0.6|1|1|0.866666666666667|strong|SHM
+7t|lutzomyia cruzi|arthropoda|insecta|leishmaniasis|vector|brazil|national|unknown|lutzomyia longipalpis|leishmaniasis|vector|0.6|1|1|0.866666666666667|strong|SHM
+7t|lutzomyia evansi|arthropoda|insecta|leishmaniasis|vector|brazil|national|unknown|lutzomyia longipalpis|leishmaniasis|vector|0.6|1|1|0.866666666666667|strong|SHM
+7t|lutzomyia flaviscutellata|arthropoda|insecta|leishmaniasis|vector|brazil|national|unknown|lutzomyia longipalpis|leishmaniasis|vector|0.6|1|1|0.866666666666667|strong|SHM
+7t|lutzomyia intermedia|arthropoda|insecta|leishmaniasis|vector|brazil|national|unknown|lutzomyia longipalpis|leishmaniasis|vector|0.6|1|1|0.866666666666667|strong|SHM
+7t|lutzomyia longipalpis|arthropoda|insecta|leishmaniasis|vector|brazil|national|unknown|lutzomyia longipalpis|leishmaniasis|vector|1|1|1|1|strong|SHM
+7t|lutzomyia whitmani|arthropoda|insecta|leishmaniasis|vector|brazil|national|unknown|lutzomyia longipalpis|leishmaniasis|vector|0.6|1|1|0.866666666666667|strong|SHM
+8t|trypanosoma cruzi|euglenozoa|kinetoplastea|chagas disease|infectious agent|amazon region|regional|2004|trypanosoma cruzi|chagas disease|infectious agent|1|1|1|1|strong|SHM
+8t|rhodnius pictipes|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|rhodnius pallescens|chagas disease|vector|0.6|1|1|0.866666666666667|strong|SHM
+8t|rhodnius prolixus|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|rhodnius prolixus|chagas disease|vector|1|1|1|1|strong|SHM
+8t|rhodnius robustus|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|rhodnius pallescens|chagas disease|vector|0.6|1|1|0.866666666666667|strong|SHM
+8t|rhodnius stali|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|rhodnius pallescens|chagas disease|vector|0.6|1|1|0.866666666666667|strong|SHM
+8t|panstrongylus geniculatus|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|panstrongylus geniculatus|chagas disease|vector|1|1|1|1|strong|SHM
+8t|triatoma infestans|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|annona squamosa|chagas disease|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+8t|p. herreri|||chagas disease|vector|amazon region|regional|2004|annona squamosa|chagas disease|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+8t|t. maculata|||chagas disease|vector|amazon region|regional|2004|annona squamosa|chagas disease|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+8t|eratyrus mucronatus|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|eratyrus mucronatus|chagas disease|vector|1|1|1|1|strong|SHM
+8t|microtriatoma trinidadensis|arthropoda|insecta|chagas disease|vector|amazon region|regional|2004|microtriatoma trinidadensis|chagas disease|vector|1|1|1|1|strong|SHM
+8t|p. lignarius|||chagas disease|vector|amazon region|regional|2004|annona squamosa|chagas disease|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm
+8t|t. dimidiata|||chagas disease|vector|amazon region|regional|2004|annona squamosa|chagas disease|medicinal use|0|1|0|0.333333333333333|weak or novel|sHm

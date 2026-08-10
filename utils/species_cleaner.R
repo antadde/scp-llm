@@ -253,17 +253,21 @@ species_cleaner <- function(dt) {
   ]
 
   ## ---- Final table -----------------------------------------------------
-  dt[, .(
-    id,
-    species_name,
-    health_target,
-    mechanism,
-    study_location,
-    scale,
-    study_period,
-    doi,
-    species_resolved,
-    phylum,
-    class
-  )]
+  cols_to_keep <- c(
+    "id",
+    "species_name",
+    "health_target",
+    "mechanism",
+    "study_location",
+    "scale",
+    "study_period",
+    "doi",
+    "species_resolved",
+    "phylum",
+    "class"
+  )
+
+  cols_present <- intersect(cols_to_keep, names(dt))
+
+  dt[, cols_present, with = FALSE]
 }
