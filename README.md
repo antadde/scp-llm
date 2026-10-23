@@ -25,12 +25,14 @@ The workflow is intended as a methodological proof of concept. Its structure all
 
 - R ≥ 4.2  
 - An OpenAI or Google Gemini API key
+- An OpenAlex API key
 
-Set the required API key in R before running the workflow:
+Set the required API keys in R before running the workflow:
 
 ```r
 Sys.setenv(OPENAI_API_KEY = "your_key_here")
 Sys.setenv(GEMINI_API_KEY = "your_key_here")
+Sys.setenv(OPENALEX_API_KEY = "your_key_here")
 ```
 
 Only the key corresponding to the selected provider is required.
@@ -39,6 +41,7 @@ For persistent configuration, add the relevant line to your `.Renviron` file:
 ```
 OPENAI_API_KEY=your_key_here
 GEMINI_API_KEY=your_key_here
+OPENALEX_API_KEY=your_key_here
 ```
 
 ## Required R packages
@@ -209,4 +212,4 @@ Users should consider several limitations when interpreting the resulting datase
 
 If you use this workflow, please cite:
 
-Adde A. et al. (2026). *scp-llm: Species Contributions to People extraction workflow* (Version 1.1). Zenodo. DOI forthcoming.
+Adde A. et al. (2026). *scp-llm: Species Contributions to People extraction workflow* (Version 1.2). Zenodo. DOI forthcoming.
