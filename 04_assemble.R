@@ -46,7 +46,7 @@ if (length(missing)) {
 validated <- validated[, ..core_fields]
 
 validated[, `:=`(
-  extracted_id      = as.integer(extracted_id),
+  extracted_id = as.character(extracted_id),
   validation_class  = as.factor(validation_class),
   axis_profile      = as.factor(axis_profile),
   species_score     = as.numeric(species_score),

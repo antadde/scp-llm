@@ -43,17 +43,15 @@ species_score <- function(ext, cur) {
   0
 }
 
-health_score <- function(ext, cur, curated_vals) {
+health_score <- function(ext, cur) {
   if (is.na(ext) || is.na(cur)) return(0)
   if (ext == cur) return(1)
-  if (ext %in% curated_vals) return(0.6)
   0
 }
 
-mechanism_score <- function(ext, cur, same_roles, sp_score) {
+mechanism_score <- function(ext, cur, sp_score) {
   if (is.na(ext) || is.na(cur) || sp_score < 0.5) return(0)
   if (ext == cur) return(1)
-  if (length(same_roles) > 1) return(0.3)
   0
 }
 
@@ -77,21 +75,14 @@ for (i in seq_len(nrow(extracted))) {
     curated$health_target,
     health_score,
     numeric(1),
-    ext = ext_ht,
-    curated_vals = curated$health_target
+    ext = ext_ht
   )
   
   mech_scores <- mapply(
     mechanism_score,
     cur = curated$mechanism,
     sp_score = sp_scores,
-    MoreArgs = list(
-      ext = ext_mc,
-      same_roles = curated$mechanism[
-        curated$species_name == ext_sp &
-          curated$health_target == ext_ht
-      ]
-    )
+    MoreArgs = list(ext = ext_mc)
   )
   
   total_scores <- (sp_scores + ht_scores + mech_scores) / 3

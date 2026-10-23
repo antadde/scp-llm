@@ -12,6 +12,9 @@ library(data.table)
 
 invisible(lapply(list.files("utils", full.names = TRUE), source))
 
+# Set API key if needed:
+# Sys.setenv(OPENALEX_API_KEY = "")
+
 ## ---- Query parameters --------------------------------------------------
 target_n <- 5000 # Number of initial documents to retrieve
 search_q <- "(Amazon OR Amazonia) AND (vector OR zoonotic) AND (species) AND (disease OR infection OR transmission OR host OR treatment OR control)" # Search query
@@ -25,7 +28,7 @@ repeat {
 
   res <- GET(
     "https://api.openalex.org/works",
-    query = list(search = search_q, per_page = 200, cursor = cursor)
+    query = list(search = search_q, per_page = 200, cursor = cursor, api_key = Sys.getenv("OPENALEX_API_KEY"))
   )
 
   data <- fromJSON(content(res, "text", encoding = "UTF-8"), simplifyVector = FALSE)

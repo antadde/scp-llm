@@ -251,7 +251,32 @@ species_cleaner <- function(dt) {
     ),
     on = "genus"
   ]
-
+  
+  ## ---- Additional taxonomic completion -----------------------------------
+  
+  if (exists("gbif_dt", inherits = FALSE)) {
+    
+    additional_taxonomy <- gbif_dt[
+      (matchType == "VARIANT" & rank == "SPECIES") |
+        (species_clean == "chenopodium ambrosioides" &
+           matchType == "HIGHERRANK"),
+      .(
+        species_clean,
+        phylum = tolower(phylum),
+        class = tolower(class)
+      )
+    ]
+    
+    dt[
+      additional_taxonomy,
+      `:=`(
+        phylum = fcoalesce(phylum, i.phylum),
+        class  = fcoalesce(class, i.class)
+      ),
+      on = "species_clean"
+    ]
+  }
+  
   ## ---- Final table -----------------------------------------------------
   cols_to_keep <- c(
     "id",
