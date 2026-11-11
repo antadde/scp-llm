@@ -247,7 +247,14 @@ for (i in seq_len(n)) {
     }
   )
   
-  if (is.null(res)) next
+  if (is.null(res)) {
+    context_list[[i]] <- data.frame(
+      study_location = NA_character_,
+      scale = NA_character_,
+      study_period = NA_character_
+    )
+    next
+  }
   
   extracted_list[[i]] <- res
   context_list[[i]]   <- extract_context_fields(res)
@@ -280,7 +287,12 @@ for (i in seq_len(nrow(abs))) {
   }
 }
 
-extracted <- if (length(rows)) rbindlist(rows) else data.table()
+extracted <- if (length(rows)) rbindlist(rows) else data.table(
+  id = character(), species_name = character(),
+  health_target = character(), mechanism = character(),
+  study_location = character(), scale = character(),
+  study_period = character(), doi = character()
+)
 
 extracted[] <- lapply(extracted, function(x) tolower(as.character(x)))
 setcolorder(extracted, c(
