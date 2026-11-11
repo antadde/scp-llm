@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and software."
+type: software
+title: "scp-llm"
+authors:
+  - family-names: Adde
+    given-names: Antoine
+version: "1.2.1"
+repository-code: "https://github.com/antadde/scp-llm"
+abstract: "An R workflow for extracting, validating, and structuring Species Contributions to People using large language models."

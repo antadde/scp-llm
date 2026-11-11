@@ -1,4 +1,4 @@
-# scp-llm (v1.2)
+# scp-llm
 
 **A reproducible R workflow for extracting, validating, and structuring Species Contributions to People (SCP) from text using Large Language Models (LLMs)**
 
@@ -54,7 +54,7 @@ The default is OpenAI. A console assignment does not override the script setting
 
 # Quick Start
 
-Download the [v1.2 repository](https://github.com/antadde/scp-llm/tree/v1.2) and open R in its root, containing `01_corpus.R`, `input/`, `output/`, `prompts/` and `utils/`. Keep this directory structure, configure credentials and select the provider, then run:
+Download the [GitHub repository](https://github.com/antadde/scp-llm) and open R in its root, containing `01_corpus.R`, `input/`, `output/`, `prompts/` and `utils/`. Keep this directory structure, configure credentials and select the provider, then run:
 
 ```r
 source("01_corpus.R")    # OpenAlex retrieval
